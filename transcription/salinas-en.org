@@ -1,3 +1,9 @@
+#+startup: overview
+
+* [Comments]
+This is a machine translation made by kagi.translate. For transparency
+it has not been changed. An edited version is stored separately.
+
 * [Preface]
 PREFACE OF FRANCISCI SALINAE BVRGENSIS IN THE BOOKS OF MUSIC.
 
