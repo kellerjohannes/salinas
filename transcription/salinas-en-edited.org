@@ -1,0 +1,1159 @@
+#+startup: overview
+
+* [Comments]
+This is a machine translation made by kagi.translate. It has been
+mildly edited: obvious mistakes were corrected and structuring in
+paragraphs has been added.
+
+* [Preface]
+PREFACE OF FRANCISCI SALINAE BVRGENSIS IN THE BOOKS OF MUSIC.
+
+Among the voices of all living beings, the human voice is rightly
+considered to hold the principal place: because it alone is endowed
+with the ability to speak and sing. For one man is truly and properly
+said to grasp and speak: whereas other animals, by a certain analogy
+and resemblance, are said to laugh like meadows and waters.
+
+In order to exercise these two gifts more accurately and perfectly,
+observation combined with reason discovered Grammar and Music, the
+most ancient of the arts: of which one was said to be the science of
+speaking correctly, the other of singing well.
+
+They are so similar from their very beginnings that they are
+considered not only sisters but almost twins. For just as Grammar
+begins with letters, from which it takes its name: then through
+syllables, which are formed from the mixtures of letters; and through
+words, which are formed from the conjunction of syllables, it strives
+to reach the perfection of speech: so also Music, named after the
+Muses, to whom antiquity attributed all skill in singing, produces and
+composes melody or song from sounds and intervals formed from the
+mixture of sounds, and from consonances, which arise from the
+conjunction of intervals. And just as speech cannot stand unless in
+it, and in words, there is accent, and in syllables, there is
+quantity, so that through one the elevation and depression of the
+voice is maintained, and through the other the exact brevity and
+length of syllables is preserved: so also, and much more (if I may say
+so) is this maintained in music: from which the former pertains to
+harmony, the latter to rhythm, two parts of music, which contain the
+whole power of it within themselves.
+
+However, Grammar and Music differ in that the discipline of the former
+relies solely on the authority of the speaker, collected from the
+usage of the ancients who spoke well: whereas the doctrine of the
+latter proceeds from the very source of eternal reason, demonstrating
+the truth of its assertions with unavoidable arguments and always with
+mathematical reasoning. Among the principal disciplines, which the
+ancient wise men deemed necessary for the cultivation of philosophical
+minds, the doctrine of music has always held the most honorable place:
+the most evident argument for which is that of the philosophers, whose
+lives have been committed to the monuments of letters, there is hardly
+any who is not said to have had a teacher in music.
+
+The knowledge and use of which is deemed necessary for a civil man no
+less than for a philosopher for many reasons, as Aristotle determines
+in the whole of the eighth book of the Politics. First, that he may
+rejoice in the most beautiful melodies and rhythms, not with a certain
+common sense, which is innate to all men in music, as children and
+servants do: but that he may judge with art and reason about those
+things which are of art, and may discern the wrong from the right.
+Then, since life is divided into two times, one of business, the other
+of leisure, he considers that for business, which must be undertaken
+with dignity, other necessary and useful disciplines are more
+appropriate. But for living liberally in leisure, he contends that it
+is not suitable to be a game, as many think because of the resemblance
+that a voluptuous life seems to have with a happy one. But he decrees
+that Music is necessary because of the honor it has combined with
+pleasure. For, he says, it is not only fitting that we should conduct
+ourselves rightly in business, but we must also strive to live well
+and happily in leisure. But a blessed life consists not only in honor,
+nor in pleasure, but in honorable pleasure. Moreover, he asserts that
+music is among the most delightful things, all agree. This is also
+confirmed by the testimony of the ancient Muse poet, who
+
+#+begin_quote
+"The most delightful, he says, is the song for mortals."
+#+end_quote
+
+But besides this pleasure, which by its very nature provides for all,
+for which every human age, condition, and character finds it pleasant,
+he says it holds a more honorable place: for it can greatly contribute
+to the virtues generated in the soul. For through it, we are affected
+by a certain quality of the mind, which pertains to morals. Since, as
+Boethius also Severinus says, besides this, just as the other
+mathematics labor around the investigation of truth, it is also
+connected to morality: for each one becomes such as the harmonies and
+rhythms he is accustomed to hear.
+
+He considers that it should primarily be proposed to children: so that
+through it, from their very childhood, they may become accustomed to
+rejoice in the best things, and be kept away from base and
+dishonorable jokes. Nor should music be sought by a civil man as so
+useful as it is delightful, he says. For, he says, it is not fitting
+for a noble man to seek utility in all things always; but that
+delight, which is a pleasure not to be regretted, such as is perceived
+from music, should be more important to him. Although I do not know
+what greater utility could exist than that which arises from music:
+for indeed we become more humane, more religious, and more learned
+from it.
+
+More humane indeed, because, as Plato says, just as
+gymnastics best restores the body to its proper state; so music tames
+and softens the spirit more than is fitting: which in a certain young
+man from Tauris, St. Augustine and Boethius relate that Pythagoras
+experienced in the exposition of his counsel. For when he was incited
+to go to the house of a chaste woman, inflamed with wine and love, and
+urged by the sounds of flutes and lyres, he could not be turned away
+from such a deed by any words, Pythagoras commanded the lyre player to
+change the rhythm and sing a spondee, by which act, becoming more
+gentle, he returned home with the deed undone. Nor is it to be
+wondered that poets have imagined Orpheus and Amphion, the former
+
+#+begin_quote
+"With maternal art delaying the swift flow of rivers, and the swift
+winds, leading the gentle and golden sounds with melodious lyres."
+#+end_quote
+
+The latter, the founder of Thebes
+
+#+begin_quote
+"Moved the rocks with the sound of the tortoise shell, and by gentle
+prayer led them wherever he wished."
+#+end_quote
+
+Unless it is that wandering and dispersed men, which is nothing more
+alien to humanity, were drawn back to human society and civil life by
+the sweetness of song. It is evident that we are made more religious
+by music: for we are greatly uplifted to the contemplation of heavenly
+things by the modulations and songs that are heard in temples; which
+we experience in sacred solemnities, in which it is sung with greater
+artistry and sweetness. Nor is there any other reason that the choirs
+of monks or canons have been established on earth, except that, just
+as the angels in heavenly choirs always assist God, celebrating his
+most beautiful praises with melodies and rhythms, where, as the holy
+Church sings,
+
+#+begin_quote
+"The new harmonies are always sung with melodious voice."
+#+end_quote
+
+So also in earthly choirs, religious men would always be vigilant in
+singing hymns and psalms, and would praise God, the Best and Greatest,
+in the best way they could. This is what even evil demons desired,
+since they were worshipped as gods. For no so barbarous a nation has
+ever been found that did not honor the gods it worshipped with meters
+and songs. This was a great concern for the Greeks and Romans, as
+historians narrate: but it is found that the Hebrew people, who
+recognized and worshipped the true God, cared much more. For in
+Solomon's temple, there were no fewer than two hundred and
+thirty-eight singers, among whom nine were chief singers, and all
+kinds of musical instruments were testified to be in the sacred
+page. The Christian people, without a doubt, surpassed the Hebrews in
+the gravity and sweetness of ecclesiastical songs: of which the most
+skilled in playing the lyre, David, seems to have said in prophetic
+speech in the Psalms, "Blessed is the people that knows jubilation."
+These words, St. Hilary explains, "Therefore, music is necessary for
+the Christian man, since the prophet sings that his blessedness
+consists in this knowledge." St. Augustine, who wrote six books on
+Music filled with mature learning in his old age, said that he was
+wonderfully delighted by music before he converted to the orthodox
+faith: but after his conversion, he was greatly captivated by its
+hearing, and he found great solace in the hymns of the resonant
+Church. And St. Jerome, writing about music, shows that it was granted
+to men by the bounty of God for the great admonition of the
+matter. And he asserts that ignorance of it impedes the understanding
+of many scriptures in the books of Christian doctrine. And the two
+lights of the Church, Gregory and Ambrose, have testified how much
+music contributes to the increase of religion by composing many hymns,
+which are still sung in one Milan and another Rome.
+
+No one doubts that the study of music makes us more learned, who has
+been even slightly, less than moderately exercised in mathematics: for
+indeed one of the four mathematics has always been held, which among
+the disciplines holds the first degree of certainty, as they say. The
+truth of which must be revealed by us in these seven books, which we
+have finally brought to completion after many years and great labors
+on this matter. In order to undertake this work, I was led by not a
+few reasons of no small moment.
+
+First, the thought of that ancient saying came to mind, by which we
+are warned to spend time in that art which we know. Indeed, from my
+very childhood, I devoted myself to musical matters throughout my
+life. For when I had drawn in blindness from the nurse's breasts with
+the milk, and no hope of recovering sight shone with any remedies
+applied from anywhere, no other art seemed to my parents either more
+honorable or more useful, in which they would wish to have me
+educated, than that which, through hearing, the other best minister of
+the rational soul, could be learned most suitably. And not only in
+singing, which is produced by the human voice, but much more in that
+part of music, which is exercised by the use of hands in practical
+instruments, which by antonomasia are called organs, I spent almost
+all my time; in which, how much I have progressed, let others
+judge. However, I dare to affirm that he who wishes to understand the
+doctrine of Aristoxenus, Ptolemy, Boethius, and other musicians of the
+greatest name must have been much and long exercised in this part of
+music: since all these have written about the prior part of music,
+which is called Harmonic, and pertains to the composition of
+instrumental harmony. About which, whoever has been engaged in the
+musical instruments we use will be able to judge much more easily and
+perfectly.
+
+Moreover, lest I seem to have touched upon nothing at all regarding
+the study of others: perhaps, while I was still a boy, a certain woman
+of honorable birth came to my homeland, who was skilled in the
+knowledge of the Latin language, and wished to become a sacred virgin,
+and marvelously desired to learn the art of playing instruments: for
+whose learning, when she had stayed in our house, she learned music
+from me, and I in turn learned Grammar from her, which I might never
+have learned from another. Because either it had never occurred to my
+father, or because the common people had persuaded him that the
+letters of music would be harmful. From this experience of this
+discipline, I became more eager to learn and persuaded my parents to
+send me to Salamanca, where I devoted myself to the studies of the
+Greek language and the arts and philosophy for several years.
+
+But then, forced by the familiar poverty, I went to the royal court,
+and was warmly received by Peter Sarmento, Archbishop of Compostella,
+and shortly thereafter, when he was raised to the number of Cardinals,
+I came to Rome for the sake of learning rather than for the sake of
+becoming rich; where, while I was among learned men, of whom there has
+always been a great abundance there, I began to feel ashamed of being
+ignorant of that art which I professed, nor could I bring forth a
+reason for those things which I would treat. And finally, I understood
+that it is no less true in music than in architecture that those who
+contended without letters, so that they might be exercised by their
+hands, could not achieve that they would have authority for their
+labors. But those who relied solely on reasoning and letters seem to
+have pursued a shadow, not a reality. But those who have learned both,
+as if armed with all weapons, have more quickly achieved what was
+proposed with authority.
+
+Therefore, when I learned from Aristotle that the ratios of numbers,
+consonances, and harmonic intervals are the causes of examples, and I
+could not find all consonances or lesser intervals in their legitimate
+established ratios, I attempted to investigate the truth itself by the
+judgment of the senses and reason. In this matter, besides Boethius,
+whom all musicians have in their mouths, the handwritten books of the
+ancient Greeks, not yet endowed with Latin, greatly assisted me; of
+which I found a great abundance there, but before others, the three
+books of harmonic by Claudius Ptolemy, of which I do not know whether
+astronomy owes more to him or music, and the most learned commentary
+of Porphyry on them, collected from the readings of the ancients with
+the greatest riches: of which Cardinal Carpenus made me a copy: and
+the two books of Aristoxenus on Harmonic elements, and two books of
+Nicomachus, whom Boethius followed, one of Bachus, three books of
+Aristides, likewise three of Briennius, which Cardinal Burgensis had
+ordered to be transcribed for himself from the Library of St. Mark.
+
+With these, having become more learned from what they said
+well, and more cautious from what they said otherwise, I was able to
+reach the exact knowledge of this discipline. In the inquiry and
+examination of which I spent more than twenty-three years; and
+finally, overwhelmed by many calamities, especially by the deaths of
+two Cardinals and the Viceroy of Naples, who loved me more than they
+enriched me, and by the loss of three brothers in war, the eldest
+being a tribune of soldiers, and another of his standard-bearer under
+the city of Metis, the third being killed on the way to recruit
+soldiers sent by the Duke of Alba, being content with few things that
+could provide a very meager sustenance, I decided to return to
+Spain. However, I had determined that, as long as I had time left in
+life, I would confine myself within my own walls, and live an idle
+life in honorable poverty, singing only for myself and the Muses:
+
+#+begin_quote
+"For neither do joys befall the rich alone, nor did he live badly,
+who, born and dying, deceived."
+#+end_quote
+
+But I think it has seemed otherwise to God the Almighty, who recalled
+me from Italy, after I had spent almost twenty years there not
+entirely unknown, to Spain: and from other cities of Spain, in which I
+could exercise the art of music with sufficiently ample rewards, it
+has finally granted me to return to the Academy of Salamanca after
+almost thirty years, since I had departed from it. In which one,
+sufficiently honorable rewards have been proposed for the doctrine of
+music, both as it speculates and as it operates, to the one who is
+engaged in it.
+
+For Alfonso, King of Castile, the Tenth of this name, surnamed the
+Wise, who either first instituted it or reduced it to a better form,
+understood that it was necessary to learn not less the discipline of
+music than the other mathematics, in which he excelled greatly, nor
+only its use, but also its speculation, for anyone who was to be
+rightly judged worthy of the name of musician. For this reason, he
+erected among the first and most ancient chairs of it, which, when it
+was vacant of a Doctor, was sought for one who could rightly teach
+both parts of music in it, I came to Salamanca, to hear those skilled
+in this discipline making their trial in it. Where, when I had given
+some specimen of my studies in music, I was judged suitable for that
+office: and I obtained the chair itself, almost doubled in reward,
+with the royal majesty itself approving it. And indeed, I wished to
+say these things about myself, perhaps more than was necessary, solely
+for this reason, lest I should seem to have undertaken such a great
+matter entirely destitute of help. Now I would return to pursue the
+remaining matters of our institution. And I could indeed show, if I
+wished, that there is none of those arts which constitute the circle
+of doctrine, which has not fallen from that height, in which it was
+placed by the benefit of the ancients, by a miserable lapse. But I do
+not wish to increase our evils with complaints that are of no benefit:
+for it is far better to rejoice that for a long time not only the
+Romans and Italians, but also the Spaniards, Germans, French, and
+Britons, divided throughout the whole world, have striven to support
+this great ruin of the good arts. And they have gradually brought the
+matter to such a point that not only to eloquence, but to the
+knowledge of all good arts, a broader and less impeded way seems to be
+opening. That in music, however, this has not yet happened, I complain
+vehemently: for no discipline, having been cast down from a higher
+degree, and less restored to its ancient luster than music, is
+found. For how few are those who wish to be considered professors of
+it, who have ever noticed a trace of its discipline! Nor, just as
+those who profess the other arts strive to acquire their knowledge
+from causes and principles, do the musicians of this time desire to
+know the causes of the discipline of music down to the elements, but
+they entirely disdain what pertains to knowledge, being wholly devoted
+to its operation. For if you were to ask them what a tone is: they
+will respond that it is the excess of diapente over diatessaron: but
+in what proportion it is constituted, they will not blush to be
+ignorant. There are six hundred other such things, which it was not so
+glorious for them to know as shameful to be ignorant. However, we
+admit that among the Italians and French, not only those who strive to
+support the ruin of other good arts, but also of this discipline, some
+are found. Among our own, we also know some who have attempted this;
+but rather preferred to wish than to perform it. Because I often
+pondered this with no small indignation of spirit, I do not know how I
+began to regret it. For I was pained that I had consumed almost my
+entire life in such a way that, thinking of nothing about posterity, I
+had made my trial only in the progress of those who wished to learn
+from me. And if ever there was any talent and learning in me, I would
+have attempted to prove it otherwise than by teaching others.**
+
+The text begins with a discussion about the scarcity of knowledge in a
+particular discipline, which is often derived from the understanding
+of this science.
+
+#+begin_quote
+Few, whom water loved, Jupiter.
+#+end_quote
+
+It is difficult to find anyone among those who are most interested in
+knowing this doctrine, who would attend the gymnasium dedicated to its
+teaching. Therefore, with a better purpose, unless hope deceives me, I
+began to wish to benefit even those absent and future generations, if
+I could. I thought I would achieve this if I published something
+didactic from what I had written, and that was not useless: and
+immediately I turned my mind to the books, which I had started many
+years ago on this subject, and which I had almost abandoned later,
+considering them not useless, but fearing that poorly educated people
+would neglect them before they understood them, and would immediately
+criticize my plan, and would shout that after so many Greek and Latin
+authors, and indeed the most serious ones, in a matter so often
+discussed and written about, I could do nothing but what we are
+forbidden by the old proverb, to act out what has already been acted
+upon. Thus, undeterred by this and other objections I understood could
+be raised against me, but rather more and more incited, I diligently
+examined whatever treatises on this subject I could find, whether from
+the ancients or more recent authors. And while I would not dare to
+deny that some of them were very skilled in music, I would affirm,
+with no reluctance from my conscience, that none of those whose
+writings I have encountered in this discipline have truly fulfilled
+what they claim regarding numbers. The most evident argument for this
+is that, since there has always been and must always be one and the
+same music, and the same consonances are perceived by the senses and
+reason both among the Greeks and among the Persians, it does not seem
+to happen otherwise than in arithmetic, where two and two are four for
+both Christians and barbarians; in this science, it does not seem to
+be the case. For Pythagoras and Nicomachus and other Pythagoreans
+thought differently, as did Ptolemy and those who followed him, and
+much more so Aristoxenus and his followers regarding consonances and
+dissonances, and regarding the division of the diatessaron, in whose
+exact partition the hinge of this science consists. As we will examine
+the assertions of these and other great musicians more for the sake of
+finding truth than for diminishing the esteem of such great men, it
+will become apparent. However, the younger men of our time are so far
+from blame that they are not only worthy of pardon but also of
+praise. For most of them could not have any of the ancient Greek
+writers of this discipline, because they had not yet been translated
+into Latin or published, so that they could more easily come into the
+hands of men. And if any of them read some, they seem to have read
+rather than understood. However, some, although they excelled in
+talent and found truth in many matters through their own efforts,
+could not grasp everything due to the obscure knowledge of this
+subject and its multiple difficulties. Nevertheless, these contributed
+much to their commentaries, which somewhat assist our labor here, and
+we are also pleased with their doctrine, which agrees that the
+knowledge of this discipline is not only honorable for those eager to
+learn but also useful. This reasoning moved us, so that while others
+attempted to assist the literary endeavor as best they could, and had
+already accomplished much in great matters, we too, since we cannot do
+greater things, would try to see if we could bring some help in this
+area, neglected by some, and almost impossible to grasp by others,
+desired by many, understood by few. And we undertook this with greater
+confidence because we have never been so occupied with great matters
+that we neglected the lesser ones: nor have we ever pursued such
+beautiful things that we did not prefer the useful. To this, no
+success or favor has ever been able to inflate me so much that
+
+#+begin_quote
+It would be shameful to speak of the art, which I have made.
+#+end_quote
+
+Therefore, I take nothing envious upon myself if I say that I have
+collected many things, which, although useful and almost necessary,
+others despise; and I do not blush to bring them forth for the common
+use of those who do not know. Nor am I so possessed by the itch of
+writing that I would have wished to undertake this labor unless I had
+understood very certainly that it was necessary and useful, or if I
+had found anything from others that I knew was required for the
+complete and perfect knowledge of this discipline, thought out or sent
+in writing according to the dignity of the matter. Nor should it seem
+strange to anyone: for besides this, that this doctrine requires the
+sharpest and most apt insight for speculation, it is also necessary
+for anyone who wishes to have an exact knowledge of it to have been
+versed in almost every kind of discipline. For practical knowledge of
+music is necessary; so that he is not only trained in singing but also
+in the art of making instruments, as we said above. He should also
+have a very clear understanding of the art of counting, both
+speculative and operative. For the principles of this discipline are
+drawn from arithmetic, and in it, the conclusions of the same are
+proven. And ease in counting greatly aids anyone wishing to understand
+or create musical things: on the contrary, slowness cannot be said how
+much it hinders such thoughts. Nor do we wish him to be ignorant of
+geometry: for all the discipline of mathematics, as Boethius says,
+loves to be established by alternate proof, which can greatly assist
+him in the participation, as they call it, of the musical instruments
+we use, to be made to divide the ditone into two and the tritone into
+three equally proportional spaces. He also needs knowledge of the
+Greek language: since all the terms of this art are Greek. And
+besides, he must read the writers of this art, who were almost all
+Greeks, except for Boethius and Saint Augustine, who taught the
+harmonic and rhythmic arts derived from the Greeks in the Latin
+language. For the other ancient Latins transmitted very few, and the
+more recent ones indeed more, but not very clearly. And especially to
+understand that part of music which pertains to rhythm, it is fitting
+that he be not a little practiced in poetry, so that he may be able to
+judge more easily and perfectly about the diverse variety of meters
+and verses from various examples of poets.
+
+Therefore, whatever we have deemed pertinent to the perfect knowledge
+of this science, we have gathered with as much care as we could from
+everywhere, and what we have found not only among musicians,
+philosophers, rhetoricians, and grammarians, but also what we have
+heard from learned men or devised ourselves, we have compiled all of
+this into seven books, and we have divided them into two classes, one
+of four, the other of three, so that the four earlier ones contain, I
+believe, the complete and exact doctrine of the first part of music,
+which pertains to harmony. The three later ones also contain
+everything that seemed necessary for a musician to know regarding the
+second part, which pertains to rhythm. And indeed, we have arranged
+the four earlier ones so that in the first, starting from the division
+of music universally accepted and the definition of the part we are
+discussing, we have gathered everything that we have learned a
+musician ought to seek from arithmetic regarding numbers, both those
+that are constant in themselves and those related to others, so that
+he may be instructed in the science of ratios and proportions, which
+arise from their comparisons, as much as is sufficient for making
+harmonic musical demonstrations. In the second, regarding sounds taken
+separately, and regarding those compared with each other, from which
+harmonic intervals and consonances are created, we have placed those
+things which we believe a musician ought to know, in the same order as
+those regarding numbers in the first and their comparisons. In the
+third, we have shown in what order, according to the true requirements
+of harmonic reasoning, sounds ought to be arranged and located in the
+three kinds of melodies exactly and perfectly, so that nothing can be
+added or taken away. We have presented the types of all these to the
+eyes, so that the best constitution of truth may be weighed by sense
+and reason. And there we have also added a not less ingenious than
+true reasoning about the true position of commas in each of the three
+kinds according to the marvelous art of harmonic reasoning. And
+regarding the various imperfections derived from the perfect
+artificial instruments, one part concerning organs and cymbals, the
+other concerning lutes or lyres, we have added many things worthy of
+knowledge and useful to do, which no one has yet written about, nor,
+as I believe, thought of. In the fourth, we have treated the species
+of consonances much differently than they have been considered so far:
+about the systems and the six ancient harmonies and tropes, from which
+the twelve more recent modes have flowed: and about how many tones
+there are, and in what way they differ from the modes, based on the
+teachings of the Greeks, since no Latin has noticed this before, we
+have instituted a discussion based on the testimonies of Ptolemy. And
+at the end of this book, we have recited and examined the assertions
+of the Greeks and Latins, both ancient and more recent, who have
+deserved well of music, with as much faith and diligence as we could:
+so that we might inquire which of them was true, or approached the
+truth, and in which they have rightly or wrongly opined, we might
+discern by sense and reason. In the fifth, which is the first
+concerning the other part of music, which is called rhythmic, we have
+also begun with the definition of rhythm, distinguishing the
+oratorical and poetic number from the purity of musical rhythm: and
+about the times, from which the feet consist: and about the feet taken
+separately, and legitimately joined together: and about the rhythms,
+which are composed from their individual parts, we have treated many
+things worthy of knowledge. At the end of which, it has been confirmed
+that among the ancients, the song of multiple voices was considered,
+and with the testimony of Aristotle, and effective arguments, it was
+in use among them. In the sixth, we have treated meters through their
+kinds, and the species of each kind, widely and diffusely: and we have
+drawn from the metric writers what seemed necessary for the
+institution of music. Finally, in the seventh, concerning the
+constitution and perfection of verses, from Saint Augustine and
+Terentian, and Mario Victorino, and Hephaestion the Greek, and other
+noble writers, we have endeavored to bring whatever is worthy of
+knowledge to the completion of this work: however, with examination
+applied, so that, while through truth it was permitted, we might agree
+with them. The style of writing, however, could not be varied, as it
+might have been formed from the excessively varied reading of Greeks
+and Latins. Among whom the principal ones who assisted us in this
+labor are mostly Africans, and of that age when the native purity of
+the Roman language had greatly declined. And it was necessary for it
+to be so very different, because we wished to place not only the
+sentiments of their authors but the same words in many places,
+especially in the seventh book: both to give greater authority to our
+work, and also to correct any errors that might be in them, whether
+from the negligence of scribes, or the injury of time, or from other
+authors, or from the very nature of the discipline. Or if anything had
+been overlooked by them due to the subtlety of science, or less
+precisely considered due to the carelessness of human nature, the
+truth of our doctrine would appear clearer through the comparison with
+theirs. Additionally, there are now some instruments in use, which
+either the ancients did not have, or, which I believe to be more true,
+we do not know by what names they called them: such as that which is
+believed to have been called Lautuin, from the shape it has, and the
+Viola, whose strings are struck both with a plectrum and by hand. I
+have found that name with no one older than Bede the Priest: and many
+things now are taught differently by practitioners than by the
+ancients. Since there has not been an ancient description in this
+manner, it could not be that we escaped the common speech; either we
+had to undergo the crime of arrogance with newly fabricated names,
+since we did not have the old ones, or something had to be conceded to
+the use of so many years. We have also added the vulgar meters of
+Spanish, French, and Italian to the Greek and Latin, to show that
+verses and meters pertain to all languages, or rather that they are
+not proper to any idiom, since they are found in modulations without
+words: and we have added the ways in which they are sung in public,
+noted and depicted by more recent practitioners, both so that we might
+be understood by all moderately exercised in the art of singing; and
+so that the syllables of the vulgar languages, in which they do not
+have a fixed quantity, but are all common, might be distinguished from
+the very song whether they were long or short. This would not have
+been necessary to do in Greek and Latin, unless because those who know
+how to sing are ignorant of the quantity of syllables. Therefore, just
+as it was necessary to demonstrate the truth in harmony through
+numbers and their proportions, so we have also been compelled to show
+it in rhythm through the notes of songs and figures: which songs are
+also said to be numbers accepted metaphorically, as in Virgil, Orpheus
+
+#+begin_quote
+Speaks of seven distinctions of voices.
+#+end_quote
+
+All of which can be made clear to anyone from the reading of the
+entire work: meanwhile, it will be enough to have prefaced these. And
+lest the preface exceed the manner of a prologue, and swell into the
+magnitude of the book, we will make an end here: if first, before we
+approach the beginning of the work, we ask for the help of Almighty
+God, who wishes to have His praises sung adorned with various
+harmonies and rhythms on earth as well as in heaven, from the very
+beginning of the world.
+
+JOANNIS SCRIBONII IN ACADEMIA Salmanticensi Professor of Greek.
+
+#+begin_quote
+Hulayogas rè nadas dinaiun ixrrioar (xdeus
+roruious noeu ioxa tidonin.
+Eira d agiootiros ouotior nealo nudot
+Movrixis inxiis niçinuiorárov.
+Kai piyas onlodunios aiioten iadagns,
+Eundioous s aua ro, cvno i d' e loue voge
+Kovivridiunos ir apiigvione yuinoro xdtires.
+Bovotos in junnaontror didtre adéog.
+Touso vrvennéiligt niy aupoliene e Sadunant
+xai veagir nogion, rixuitd rs xparson.
+Pulposs dacuegun vodvydureave reirines ourus
+Jadure weulais, ruri ravsopivois.
+#+end_quote
+
+THE SAME IN LATIN.
+
+#+begin_quote
+Tiresie quondam ceco pensauerat auctor
+Naturae damnum munere fatidico.
+Luminis amißsi iacturam cacus Homerus
+Pignore diuini sustinet ingeny.
+Democritus visu cernens languescere mentis
+Vires, tunc oculos eruit ipse sibi.
+His ita dum docte mentis constaret acumen,
+Corporis equanimi damna tulère sui.
+Vnus at hie magnus pro maltis ecce SALIN AS,
+Orbatus visu præstat ptrunq simul.
+Cernit in hoc opere id, quod lynceus ille nequiret,
+Iigenio quantum nullue in orbe pidet.
+#+end_quote
+
+I have seen the book of Music, which was composed by Master Francisco
+de Salinas, and I find nothing in it that cannot be printed, and thus
+it seems to me that it should be granted a License, because it is a
+work very advanced compared to what has been written in the field
+until now, and it will be very useful to all theoretical and practical
+musicians who wish to take advantage of it. In Madrid, September
+7, 1575.
+
+Juan Lopez de Velasco.
+
+LUDOVICI CHAZARETAE in praise of the author
+
+EPIGRAM.
+
+#+begin_quote
+While you, O glory of our age,
+Aonian lyre, learned Salinas,
+Urge to penetrate the inaccessible recesses of the grove,
+Breathless with the love of such great praise:
+You surpass the secrets of the mountain's bi-verted caves,
+Caves, nor human foot has touched their threshold;
+Threshold where the streams with oblique bends shade,
+The shadowy grove is watered by the (starlit) wave.
+Here then, by chance, the sacred limbs of the goddess
+Were dripping naked in the glassy stream.
+Here, turning unexpected steps in the village,
+You catch the naked goddesses in the glassy stream.
+Nor yet was it allowed to turn the eye, when the divine light
+You feel suddenly pressed by the night.
+O but what, O snatched from the light,
+How it is to be without the sun's light.
+The leader approaches, accompanied by a throng of sisters,
+And the queen of her choir, Calliope:
+She herself handing over the lyre, eloquent plectrum, and faith,
+And encircling her worthy hair with a virgin's wreath,
+She says to you, priest, worthy of our dances,
+Repay the sweet losses of your sacrifice.
+These will be your arts, to reveal the secrets of the world
+Our, and to renew the strings of Bistonia's lyre.
+#+end_quote
+
+I, Juan Fernandez de Herrera, Secretary of the Council of His Majesty,
+certify that having seen a book that with the license of the said
+Lords was printed by Master Francisco de Salinas, Professor of the
+Faculty of Music at the University of Salamanca, entitled "On
+Speculative Music," they granted a license for each volume of the said
+book to be sold on paper for six hundred maravedis, with which before,
+and first, he should have it printed on the first page of this
+testimony of tax: done in Madrid, six days of the month of
+November, 1577.
+
+Juan Fernandez de Herrera.
+
+* [Book 1]
+** [Chapter 1.1]
+ON MUSIC BOOK I.
+
+ON THE DUAL DIVISION OF UNIVERSAL MUSIC, ONE ACCORDING TO THE POSITIONS OF THE ANCIENTS, THE OTHER RECENTLY CONCEIVED.
+
+CHAPTER ONE.
+
+Since we are about to speak of Music, and its power is so widely
+spread throughout the universe that nothing is believed to exist
+without it, it will be necessary to divide it into parts, so that the
+specific part we wish to discuss may be more easily
+understood. Therefore, the ancients almost universally said that Music
+is tripartite: Mundane, Human, and Instrumental. They called it
+Mundane, which consists in the marvelous arrangement of dissimilar
+celestial movements, in the harmonious variety of times, in the
+proportional mixture of elements, and finally in the harmonic
+construction of the whole world. They said it is Human, which pertains
+to the work of man, especially in the conjunction of soul and body,
+and in the disposition of the parts of the soul; and in the order of
+all arts and sciences; and in the constitutions of kingdoms and
+republics; and finally in all those things that pertain properly to
+man. They called it Instrumental, which is constituted in voices or in
+musical instruments, such as the lyre and flutes. We, however, do not
+disdain this division of Music, which has great authors, and we also
+believe that another division, derived from the nature of the thing
+itself and more suitable for the present institution, can be
+presented. This will also be tripartite, so that one Music moves only
+the senses, another only the intellect, and another both the senses
+and the intellect simultaneously. That which moves only the senses is
+perceived solely by hearing and is not considered by the intellect;
+such are the songs of birds, which are indeed heard with pleasure, but
+since they do not arise from any mental sense, they do not consist in
+harmonic reason, by which they can be considered by the
+intellect. Hence, they produce no consonances or dissonances, but
+delight with a certain innate sweetness of sounds. If at any time
+harmonic intervals are detected in them, it must be considered that
+this occurs rather by chance or by a natural aptitude to imitate, as
+the songs of men are learned by those who are very accustomed to
+hearing, like parrots, which imitate human speech due to excessive
+frequency of hearing. Nevertheless, this Music is irrational, like the
+senses themselves, since it is composed solely of irrational animals
+and cannot properly be called Music. For birds do not sing otherwise
+than they are said to chirp and whistle: and Music is constituted in
+the genus of rational beings, as will be said in its place. But it has
+pleased to include it among the kinds of Music, due to the most common
+mode of speaking, according to which it has always retained the name
+of Music among all nations. That which moves only the intellect can
+indeed be understood, but cannot be heard: under which the two of the
+ancients, Mundane and Human, are comprehended, whose harmony is
+perceived not by the pleasure of the ears, but by the consideration of
+the intellect. Indeed, it is not found in the mixtures of sounds, but
+in the ratios of numbers. Although we do not deny that in the greatest
+concord of dissimilar celestial movements a certain order of
+modulation is found, as, for example, in the constitution of the
+significator, the ratios of consonances and tones: yet we say that
+this occurs because of the harmonic nature of the number twelve, in
+which the significator itself is constituted. For which reason,
+Brienius, a Greek author, asserts that this number is called by
+Aristotle M.να, that is, very musical. Nor do we believe that
+celestial movements produce any sounds at all, either from a subject
+or an efficient cause, as physicists like to say. For besides the
+Aristotelian reasons, which we did not wish to transfer here, lest we
+seem to want to teach Physics rather than Music, this certainly seems
+probable, that the creator of the mundane fabric, as he did not fail
+in necessities, so he did nothing superfluous. Such would be that
+celestial sound, which could be heard by no one. Not by men, since
+they say it is necessary for many reasons that such a sound does not
+reach our ears. Not by the intelligences that move the heavens, since
+they neither have ears nor need them. Therefore, I believe the same
+judgment must be made about celestial Music and about elemental
+Music. Indeed, that which is perceived in the arrangement of elements
+and in the variety of times is weighed not by the sense of the ears,
+but by the judgment of reason, such as that which is found in the
+parts of the soul: in which all proportions of consonances are said to
+exist. So that the rational faculty has a sesquialter ratio to the
+irascible, in which the Diapente consonance is demonstrated. And the
+irascible has a sesquitertian ratio to the concupiscible, in which the
+Diatessaron consonance is found: from which in the soul the perfect
+Diapason consists. And just as in vocal or instrumental Music, the
+Diapente contains the Diatessaron, and is not contained by it, and the
+Diapason has both in itself, and is not held by them: so the faculty
+of feeling contains the vegetative, and is not contained by it, and
+the rational faculty, being unique, has in itself the other two, and
+is not held by them: but in it, as a triangle is said to exist in a
+tetragon. Furthermore, the virtues of consonance and the vices of
+dissonance are commonly called by all for many just reasons: the
+knowledge of which cannot fall under the sense of
+hearing. Nevertheless, those things which antiquity has consecrated
+should not be entirely disregarded, which, in whatever way it could,
+has always attempted to elevate the minds of men towards the love of
+celestial things: which are led by the greatest delight of seeing and
+hearing. That which moves both the senses and the intellect is among
+these the middle: because it is perceived by the sense of the ears,
+and is also considered by the intellect. And this is what the ancients
+said is instrumental, which is not only pleasing to the ears due to
+the natural sweetness of sounds, but is also found to be constituted
+by harmonic reason. And because man alone among living beings is a
+participant in reason, he alone also understands the harmony of
+all. Which Ptolemy asserts should be placed among the natural and
+divine in the genus of rational beings. And that Music, which men use,
+consists in harmonic reason. Therefore, that which is considered only
+by the intellect is left to philosophers and astronomers; and that
+which is perceived solely by the sense of the ears, as being
+irrational, is left to irrational animals: about this Music, which
+admits the judgment of sense and reason, and not only because of the
+natural sweetness of sounds, but because of consonances and the other
+intervals, which are arranged according to the ratios of harmonic
+numbers, we intend to write and show to the men of our age, whence so
+many and such varied sects have arisen among those who have written
+about Music, so that we may finally be able to reconcile those who
+rejoice only in its use with those who are dedicated to its
+speculation. The definition of which requires reason and order of
+doctrine, so that we may attempt to bring it to light first of all.
+
+** [Chapter 1.2]
+Of the Definition and Division of Instrumental Music.
+CHAPTER II.
+
+Therefore, Music, which is perfected by the judgment of the senses and
+reason (as Aristides, a not insignificant author among the Greeks,
+defines it at the beginning of his Music), is the science of
+modulation and of those things that pertain to modulation. This
+definition does not differ much from that which St. Augustine provides
+in the first book on Music, where he states that it is the science of
+well-modulating. However, science (as Aristides asserts) is that whose
+knowledge is firm and entirely free from error: such are the
+principles of Music, which are called apotelesmata by Mathematicians
+(as he himself says), and they do not admit any alteration or
+change. Music is said to have been named after the Muses, to whom
+antiquity attributed the power of singing. Thus, this instrumental
+Music is first divided into Theoretical and Practical. Theoretical is
+that which revolves around the contemplation of musical things,
+content only with their knowledge. Practical, on the other hand, is
+that which modulates artfully and with delight according to the
+precepts of the art. Theoretical is again divided into Harmonic and
+Rhythmic. Harmonic is (as defined by Ptolemy in the first book of
+harmonics) the ability to weigh the differences of sounds according to
+high and low. It revolves entirely around the composition of
+instrumental harmony and considers the tones suitable for harmony,
+rejecting the unsuitable. And it inquires into the harmonic intervals,
+which arise from their mixtures, such as tones and semitones; and
+consonances such as Diapason and Diapente; and the rest, which are
+necessary for it; and to what numerical proportions they correspond,
+it investigates with exact judgment of reason. It teaches their use in
+the practice of Music, which they call plain or uniform, in which a
+boy is taught to form a voice suitable for harmony and to move it
+through harmonic intervals, caring not whether he consumes much or
+little time in the production of sounds; but how much he should raise
+or lower it. Rhythmic is that which measures the various durations of
+pronunciation, maintaining the order of times in speed and
+slowness. It does not consider how much a voice should be placed or
+removed in harmonic intervals: but how much, in the enunciation of
+each sound or voice, a pause should be made, weighing it with the
+greatest reason. In this, it first considers the times; and assigns
+the duration of one, which is the shortest, to a brief syllable or
+note, while it assigns two to a long one. Then it examines the feet,
+which are made from syllables or notes both brief and long, suitable
+for Rhythm, discarding the unsuitable. Finally, it inquires into the
+rhythms themselves, which consist of feet properly joined and are
+found arranged in the order of fast and slow movements. All these are
+perceived in the song, which the Italians call figurative or mensural,
+and in the modulations that occur in musical instruments, perceived by
+the diversity of figures. However, the Ancients added Metric to these
+two, which is, according to Cassiodorus, that which knows the measures
+of various meters by probable reasoning, such as the heroic and
+iambic. For it does not, like Rhythmic, consider only Rhythm, which is
+drawn out indefinitely in length from feet properly joined (as has
+been said), as occurs in modulations, in which there is no certain way
+of ending: but it also considers meter, which is closed with a certain
+end, to which, when it arrives, it returns to the head; as happens in
+popular songs, and in hymns and psalms: and it shows that there are
+different ways of modulating for different meters. From this, all the
+kinds of meters have arisen, which, if properly considered, are the
+same in all languages and nations, as will be made clearer when we
+undertake a discussion on this matter. And these three parts of Music
+(if we believe Aristides) must be observed by anyone who wishes to
+achieve perfection in song: Harmonic, so that he knows how to move the
+voice from place to place, and does not make it either heavier or
+sharper than reason requires for the interval; Rhythmic, so that he
+understands the rhythms and their clapping, and knows how to sing to
+the number, which the moderns call air, appropriately; Metric, so that
+he joins the suitable modulation to the meters, and does not adapt the
+trochaic modes to the iambic; but that words correspond to notes, and
+notes to words in all respects. Whether this division should be made
+into three parts, or rather into two, as the ancients did, we will
+examine more suitably in the sixth book, when we discuss
+meters. Meanwhile, since harmonic is prior to Rhythm, we must first
+have a discourse on Harmonic before we discuss Rhythmic, and we will
+explain who the judges in it are, as briefly as we can.
+
+** [Chapter 1.3]
+*That not only the senses but also the judgment of reason is necessary
+in Harmony. CHAP. III.
+
+In Harmony, the judges are the senses and reason, but not in the same
+way. For, as Ptolemy says, the senses judge according to matter and
+affection, while reason judges according to form and cause. From these
+words, it can be inferred that, just as matter is perfected by form,
+so sensory judgment is perfected by rational judgment. The proper
+function of the senses is to discover what is nearest to the truth by
+themselves and to receive integrity from reason; on the contrary,
+reason receives what is nearest to the truth from the senses and
+discovers integrity by itself. For what the senses perceive confusedly
+in the fluid and unstable matter, this is judged exactly and entirely,
+stripped of matter, as it truly is. Therefore, not only the judgment
+of the ears but also that of reason is necessary in harmony, nor can
+one be perfect without the other. The judgment of the ears is
+necessary because it is prior in time; and unless it precedes, reason
+cannot perform its function: it is imperfect, however, because unless
+it is aided by reason, it is found to be entirely lacking and weak. On
+the contrary, the judgment of reason seems in some way to be imperfect
+because reason is a part of the intellect, and it can neither know
+here nor judge anything unless it has entered through the senses as
+through windows. But it is very necessary because it reaches down to
+the minutest differences, which the senses cannot judge at all. The
+senses and reason are thus related in harmony that whatever the senses
+approve in sounds, reason shows to be the same in numbers: so that
+nothing can be contrary to the ears or to reason. Therefore, when
+hearing is concerned with sounds, reason shows its power most in
+numbers: before we compare sounds with numbers and show the
+consonances of numbers and the intervals responding to them, some
+necessary preliminaries about numbers and their comparisons with one
+another must be presented. Since, as Boethius Severinus says in the
+first book of Arithmetic, all things constructed from the primal
+nature of things seem to be formed by the reason of numbers. And, as
+Aristotle asserts in the second book of Physics, the proportions
+themselves are forms or formal causes of intervals and
+consonances. For, as he says there, the harmony that encompasses all
+sounds, that is, the Diapason, is the formal cause of the ratio of two
+to one. We shall pursue all these matters broadly, if we first briefly
+show what the subject of Music is, the knowledge of which seems very
+necessary.
+
+** [Chapter 1.4]
+What the subject of the science of music is, and whether it should be
+called mathematical or not, and that it is subordinate to arithmetic.
+
+CHAPTER IV.
+
+From what has been said, it is easily evident that the subject of
+music cannot be merely the number taken by itself; its judgment seems
+to pertain to reason, and not to sense: nor can sound be considered
+separately, which is an object of sense, and not of intellect: but
+rather a certain third thing compounded from both, which is called
+sonorous number. Now, a sonorous number is the number of parts of a
+sonorous body, which taking the ratio of the discrete, and divided
+into parts by numbers, leads us to the knowledge of the quantity both
+of the sound produced by it, and of the various sounds arising from
+its parts compared with each other. We call the body of sounds,
+whether in music, a string, or a nerve, or a pipe, or a ringing
+bronze, and whatever is found from which a harmonic sound can be
+elicited. The sound varies according to the variation of the number
+that measures the string or the pipe. For one sound is that of a
+three-palm pipe, and another of a six-palm pipe. And if the string is
+so stretched as to produce a harmonic sound, and is divided into five
+equal parts, and its portion, which is as three, and that which is as
+two, are struck simultaneously by a bridge: the sound of the part
+which is as two will be sharper than the sound of the part which is as
+three, in the consonance of the fifth. And if it is divided into two
+halves, and the whole is struck first; then, placing a finger or
+bridge in the middle, the other half is struck; we will experience by
+sense that the sound produced from the whole striking is heavier than
+the sound that the half will produce, and that one differs from the
+other by the consonance of the octave. Hence, knowing through the
+number according to the length the quantity of the string, which is
+uniform and regular, we can immediately compare sounds, according to
+certain and determined differences of heaviness and sharpness. By
+investigating these in the manner that has been said, and having first
+known them in this way, we later demonstrate various affections
+concerning them. And because all these things, and whatever else is
+considered by musicians, are directed towards the perfect knowledge of
+the sonorous number: it is manifest that it is the true subject of the
+science of music. According to this position, Aristotle in the second
+book of Physics, and all who have followed him, assert that music is
+neither merely mathematical nor physical; but should be said to be in
+between both. For inasmuch as it considers sound, it seems to pertain
+to physics: since sound cannot exist or be defined except in matter
+and without motion. Hence, its consideration must necessarily pertain
+to the physical. However, number can be defined and considered
+abstracted from matter and without motion, which is proper to
+mathematics. Nevertheless, it seems that it should be called
+mathematical; both because the musician does not consider sound as a
+natural thing, but as the principle of song, and as the elements of
+sounds from which harmony consists: nor does he examine their natures,
+as a physicist would, but the differences that consist between them in
+sharpness and heaviness, which is rather the concern of the harmonic
+than the physical. Also, because sounds have their place in music as
+matter, and in the ratio of the measured; and numbers as form, and in
+the ratio of the measurer. Therefore, it has received its name from
+the nobler, that is, from the form; and has always been regarded as
+one of the mathematics. And when some of them are said to be
+subordinate, such as arithmetic and geometry; some are said to be
+subordinated, such as music and astronomy: music is said to be
+subordinate to arithmetic. Because arithmetic considers number
+absolutely, and number thus accepted is its subject: but music
+considers it contracted, as it is in sensible matter, that is, in the
+sonorous body taken under the ratio of the discrete. And it is said to
+be subordinate to arithmetic, not only because it takes a part of its
+subject from it, but also because it derives all its principles and
+means of demonstration from it. These principles should not be thought
+to be all the conclusions that are demonstrated in arithmetic, nor all
+the proportions found in numbers: but only those conclusions through
+which all the passions of the sonorous number can be demonstrated. And
+from the proportions of numbers, it only takes those that are suitable
+for the generation of consonances and musical intervals: which are
+very few. Although it sometimes considers the inept ones, in order to
+reject them, which we will demonstrate in their places. But it seems
+that we should first address the prior part of the subject, which is
+number, before the latter. And briefly, concerning the number as
+simple as it is related, we will say those things that pertain to the
+present institution, without which the doctrine of music would be
+entirely crippled.
+
+** [Chapter 1.5]
+Of the acceptance and definition of numbers.
+
+CHAP. V.
+
+And since both the reason of nature clearly demonstrates, and the
+teachings of the most learned men warn us, that before we attempt to
+explain what it is, we should first diligently inquire into what it
+is; we will follow the order and the force of reason shown in writing
+about the harmonic number, and prescribed by the weight of
+authorities. However, lest the reader be offended at the very first
+threshold, we thought it necessary to warn him that the name of number
+is ambiguous among the Latins. For now, whatever pertains to the
+reasoning of counting signifies, as when we say a hundred or ten men:
+now, however, taken by metaphor, it pertains to the skill of
+measuring, and to the making of feet and meters: as when we call a
+number iambic or trochaic. In this meaning, Maro took it when he said:
+I remember the numbers, if I held the words. And elsewhere: Many arms
+lift in number. And indeed the word is unique, but the notions are
+two, which the Latins can separate by mere definition; the Greeks,
+however, distinguish even by different appellations: for they have
+been accustomed to call the former Arithmos, and the latter
+Rhythmos. And since the consideration of both is necessary for the
+musician, it will be necessary to consider first that which is more
+universal; which is thus defined by Boethius: A number is a collection
+of units. From this definition, it is clearly shown that unity is not
+a number, but the principle of counting, and that a number consists of
+several units. If these are two, they will constitute a binary, which
+is nothing other than the connection of two units, and a ternary of
+three; so that from unity every number has what it is, for if unity is
+removed, there will be no number; yet, with the number removed, unity
+does not cease to be. However, the number is divided in its first
+division into Even and Odd. An even number is one that can be divided
+into two equal parts, and two unequal parts; as 10, which can be
+divided into 5 and 5, and into 4 and 6. An odd number, however, is one
+that cannot be divided into two equal parts: this happens because of
+the intervention of unity, which is naturally indivisible; and it is
+always divided into two unequal parts, as 7 into 4 and 3, and 5
+and 2. These two species have very different properties among
+themselves. For the property of the even is that in whatever way,
+whether the division is into two equal parts or into two unequal
+parts, if one part is even, the other will necessarily also be even,
+and if odd, it will necessarily be odd; so that neither evenness is
+mixed with oddness, nor oddness with evenness. As 8 is divided into 4
+and 4, and into 5 and 3, and into 6 and 2, and into 7 and 1. In these
+divisions, either both numbers are even, or both are odd. On the
+contrary, the property of the odd is that, in whatever way it is
+divided, necessarily one part is even, and the other odd: as 7 is
+divided into 4 and 3, into 5 and 2, and into 6 and 1, in which
+divisions neither part is odd, but one is even, the other is found to
+be odd.
+
+** [Chapter 1.6]
+Of the species of even numbers.
+
+CHAP. VI.
+
+There are three species of even numbers: some are evenly even, some
+evenly odd, and some oddly even. The evenly even and evenly odd are
+like opposites, and the oddly even is in between them. Therefore, an
+evenly even number is one that can be divided multiple times into two
+equal parts until the division reaches unity, which is naturally
+indivisible, as in 16 into 8 and 8 into 4 and 4 into 2 and 2 into 1
+and 1. And these numbers are those that, having originated from unity,
+proceed through double progression to infinity, as in 1, 2, 4, 8, 16,
+32, 64. An evenly odd number is one that can be divided once into two
+equal parts, as in 6 into 3 and 3, which cannot be further divided
+into two equal parts. And these numbers arise from the doubling of all
+odds, progressing to infinity without any limit. This will be easily
+understood if all odds are arranged in order on one side, and all
+evenly odds on the other, as can be seen in this table.
+
+|----------------+---+---+----+----+----+----+----+----|
+| Odds.          | 1 | 3 |  5 |  7 |  9 | 11 | 13 | 15 |
+|----------------+---+---+----+----+----+----+----+----|
+| Their doubles. | 2 | 6 | 10 | 14 | 18 | 22 | 26 | 30 |
+|----------------+---+---+----+----+----+----+----+----|
+
+And it should be noted that, just as evenly evens originate from
+unity, which is the principle of all numbers; so evenly odds arise
+from binary, which is the origin of all evens. And all these will
+always be spaced apart by four, as in 2, 6, 10, 14. In this, it should
+also be noted that just as unity contains all the virtues of number
+species and figures, and can be called even and odd in various ways,
+so also binary, which is closest to it due to different respects, can
+be called evenly even and evenly odd: for because its division reaches
+unity and proceeds from unity through double progression, it is
+rightly called evenly even; and inasmuch as the double of an odd unity
+can be divided once into two equal parts, it should be placed among
+the evenly odds. However, the first evenly odd number without mixing
+evenly evens or evenly evens is found to be six. Although if we speak
+properly, unity is neither even nor odd since it is not a number, but
+the principle of all numbers, both even and odd. Binary, also because
+it is the origin of evens, will be improperly called even. Hence, it
+will not properly be evenly even or evenly odd: because neither
+definition fits it; but it will be the principle of both, and can be
+adapted to both. Unity is called by St. Augustine, the principle from
+which, and binary the principle through which, in the first book of
+his Music. He adds that ternary should properly be called the first
+number and is perfect: because it consists of beginning, middle, and
+end; in which it greatly agrees with Aristotle, who in the first book
+of the heavens, of Magnitudes, says that that which can be divided
+into one is a line; that which can be divided into two, an extremity
+or a plane; that which can be divided into three, is called a
+body. Nor is there any magnitude besides these: because all things are
+contained in three, and everything is said to be threefold. For the
+universe and all things, as the Pythagoreans teach, are determined by
+three; since the end, middle, and beginning encompass the whole and
+the total number, which likewise contains the ternary. Therefore, as
+we have received from nature, as if laws of it, we use this number
+even in the sacrifices of the gods. Moreover, we attribute calling and
+addressing in the same way; for we say both two, both two, or either,
+we do not say all, but we first adapt this name to three. An oddly
+even number is one that can be divided multiple times into two equal
+parts: but not so many times that its division reaches unity, as in
+12, which can be divided into 6 and 6, and again 6 into 3 and 3; but 3
+cannot be further divided into two equal parts. This number is in the
+middle between evenly even and evenly odd: because it shares with both
+and differs from both: it shares with the evenly even in that it can
+be divided multiple times into two equal parts, just as that one is
+divided; but it differs from it because its division into two equal
+parts does not lead to unity. It shares with the evenly odd in that it
+cannot be divided into two equal parts up to unity; but it differs in
+that it can be divided multiple times, and not just once like that one
+into two equal parts. There are multiple species of oddly even
+numbers: for some can be divided only twice, as in 12 into 6 and 6,
+and 6 into 3 and 3. And these are all the doubles of all evenly
+odds. This will be evident if two lines are arranged, on one of which
+are all evenly odds, and on the other all the first oddly evens, which
+will be their doubles starting from six, which, as has been said, is
+the first evenly odd, as this table shows.
+
+|--------------------+----+----+----+----+----+----+----|
+| Evenly odds.       |  6 | 10 | 14 | 18 | 22 | 26 | 30 |
+|--------------------+----+----+----+----+----+----+----|
+| First oddly evens. | 12 | 20 | 28 | 36 | 44 | 52 | 60 |
+|--------------------+----+----+----+----+----+----+----|
+
+And it should be noted that all these are spaced apart by eight, just
+as evenly odds are spaced apart by four. However, the second ones are
+divided three times, and are the doubles of the first: as in 24, 40,
+80, and so on without limit; and from what has been said, it will be
+clear that from evenly evens the first is four, and it extends to
+infinity through double progression; from evenly odds the first is
+six, and it proceeds to infinity through the addition of four; and
+from oddly evens the first is twelve, and it can be found through the
+addition of eight without limit. And, to encompass everything in few
+words, whenever someone can be divided either evenly odds or oddly
+evens, the whole will be double from ternary, and will be the first of
+that order, and is produced by the addition of all from ternary
+doubles. And this should suffice to have said about the species of
+even numbers.
+
+** [Chapter 1.7]
+Of the Species of Odd Numbers. CHAP. VII.
+
+There are also three species of odd numbers: for some of them are
+prime and indivisible, some are composite and second, while others are
+intermediate, which when taken by themselves are indeed second and
+composite, and when compared with another are prime and indivisible,
+and are called prime against each other. Therefore, the first and
+indivisible number is that which is measured by unity alone, such as
+the ternary and the quinary, whose only unity is a numerical or
+multiplicative part, or, as more recent scholars say, aliquot. And
+that part is said to be numerical or aliquot, which when taken several
+times restores the whole: for example, the binary is a numerical part
+of the senary: because taken three times it restores the senary: and
+it is not a part of the ternary or quinary, because taken twice it
+exceeds the ternary and falls short of the quinary; for it constitutes
+the quaternary, which is greater than the ternary and less than the
+quinary: taken three times, it restores the senary, which is greater
+than the quinary. The unity, however, of all numbers is a common
+measure; because whatever number it is multiplied by, it restores
+itself, as in ten multiplied by ten, in a hundred by a hundred. And it
+should be known that to measure is the same as to count. Now all odd
+numbers are prime and indivisible, except for the binary, which is the
+first of the even numbers; and therefore it can only be counted from
+unity. The second and composite is that which, besides unity, is
+measured by another number; such as 9 and 15, of which the former is
+also measured by the ternary besides unity; for taken three times it
+makes nine, and the latter is measured by the same ternary and
+quinary: the former five times, and the latter three times taken. But
+whoever wishes to know how these second numbers are generated from the
+firsts by some divine artifice, and how wonderfully they proceed from
+them in order; let him read Boethius in the first book of his
+Arithmetic, and Jordan, to whom all confess they owe much of
+Arithmetic. For we profess Music, and not Arithmetic, and we hasten to
+its instruction. The numbers that are prime against each other are
+those which (as has been said) when considered by themselves are found
+to be second and composite: and when compared with each other, they
+share the nature of prime and indivisible. Such are 9 and 25, of which
+the former is measured by the ternary, and the latter by the quinary;
+but neither of them measures both. For 5 measures 25, but not 9: and 3
+measures 9, but not 25. This does not happen in the nonary and
+quindenary: for both are measured by the ternary, as has been shown
+above: 9 and 25 can only be measured by unity, which, as has been
+said, measures all numbers. However, the art by which this can be
+demonstrated will be taught below: when we will teach the method by
+which proportions can be reduced to the smallest numbers in which they
+can be found.
+
+** [Chapter 1.8]
