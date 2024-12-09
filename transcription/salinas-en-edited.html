@@ -1,24 +1,257 @@
-#+startup: overview
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-12-09 Mon 22:33 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="author" content="Johannes Keller" />
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
 
-* [Comments]
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#orge2be016">1. [Comments]</a></li>
+<li><a href="#org4b1f6cf">2. [Preface]</a></li>
+<li><a href="#orgffd2bd6">3. [Book 1]</a>
+<ul>
+<li><a href="#orgec95c49">3.1. [Chapter 1.1]</a></li>
+<li><a href="#orgb8964f8">3.2. [Chapter 1.2]</a></li>
+<li><a href="#org15236cf">3.3. [Chapter 1.3]</a></li>
+<li><a href="#org597fa34">3.4. [Chapter 1.4]</a></li>
+<li><a href="#orgd3e6952">3.5. [Chapter 1.5]</a></li>
+<li><a href="#org938d1ce">3.6. [Chapter 1.6]</a></li>
+<li><a href="#org46d110a">3.7. [Chapter 1.7]</a></li>
+<li><a href="#org932c298">3.8. [Chapter 1.8]</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orge2be016" class="outline-2">
+<h2 id="orge2be016"><span class="section-number-2">1.</span> [Comments]</h2>
+<div class="outline-text-2" id="text-1">
+<p>
 This is a machine translation made by kagi.translate. It has been
 mildly edited: obvious mistakes were corrected and structuring in
 paragraphs has been added.
+</p>
+</div>
+</div>
 
-* [Preface]
+<div id="outline-container-org4b1f6cf" class="outline-2">
+<h2 id="org4b1f6cf"><span class="section-number-2">2.</span> [Preface]</h2>
+<div class="outline-text-2" id="text-2">
+<p>
 PREFACE OF FRANCISCI SALINAE BVRGENSIS IN THE BOOKS OF MUSIC.
+</p>
 
+<p>
 Among the voices of all living beings, the human voice is rightly
 considered to hold the principal place: because it alone is endowed
 with the ability to speak and sing. For one man is truly and properly
 said to grasp and speak: whereas other animals, by a certain analogy
 and resemblance, are said to laugh like meadows and waters.
+</p>
 
+<p>
 In order to exercise these two gifts more accurately and perfectly,
 observation combined with reason discovered Grammar and Music, the
 most ancient of the arts: of which one was said to be the science of
 speaking correctly, the other of singing well.
+</p>
 
+<p>
 They are so similar from their very beginnings that they are
 considered not only sisters but almost twins. For just as Grammar
 begins with letters, from which it takes its name: then through
@@ -36,7 +269,9 @@ length of syllables is preserved: so also, and much more (if I may say
 so) is this maintained in music: from which the former pertains to
 harmony, the latter to rhythm, two parts of music, which contain the
 whole power of it within themselves.
+</p>
 
+<p>
 However, Grammar and Music differ in that the discipline of the former
 relies solely on the authority of the speaker, collected from the
 usage of the ancients who spoke well: whereas the doctrine of the
@@ -48,7 +283,9 @@ minds, the doctrine of music has always held the most honorable place:
 the most evident argument for which is that of the philosophers, whose
 lives have been committed to the monuments of letters, there is hardly
 any who is not said to have had a teacher in music.
+</p>
 
+<p>
 The knowledge and use of which is deemed necessary for a civil man no
 less than for a philosopher for many reasons, as Aristotle determines
 in the whole of the eighth book of the Politics. First, that he may
@@ -69,11 +306,15 @@ and happily in leisure. But a blessed life consists not only in honor,
 nor in pleasure, but in honorable pleasure. Moreover, he asserts that
 music is among the most delightful things, all agree. This is also
 confirmed by the testimony of the ancient Muse poet, who
+</p>
 
-#+begin_quote
+<blockquote>
+<p>
 "The most delightful, he says, is the song for mortals."
-#+end_quote
+</p>
+</blockquote>
 
+<p>
 But besides this pleasure, which by its very nature provides for all,
 for which every human age, condition, and character finds it pleasant,
 he says it holds a more honorable place: for it can greatly contribute
@@ -83,7 +324,9 @@ Boethius also Severinus says, besides this, just as the other
 mathematics labor around the investigation of truth, it is also
 connected to morality: for each one becomes such as the harmonies and
 rhythms he is accustomed to hear.
+</p>
 
+<p>
 He considers that it should primarily be proposed to children: so that
 through it, from their very childhood, they may become accustomed to
 rejoice in the best things, and be kept away from base and
@@ -95,7 +338,9 @@ from music, should be more important to him. Although I do not know
 what greater utility could exist than that which arises from music:
 for indeed we become more humane, more religious, and more learned
 from it.
+</p>
 
+<p>
 More humane indeed, because, as Plato says, just as
 gymnastics best restores the body to its proper state; so music tames
 and softens the spirit more than is fitting: which in a certain young
@@ -107,19 +352,27 @@ from such a deed by any words, Pythagoras commanded the lyre player to
 change the rhythm and sing a spondee, by which act, becoming more
 gentle, he returned home with the deed undone. Nor is it to be
 wondered that poets have imagined Orpheus and Amphion, the former
+</p>
 
-#+begin_quote
+<blockquote>
+<p>
 "With maternal art delaying the swift flow of rivers, and the swift
 winds, leading the gentle and golden sounds with melodious lyres."
-#+end_quote
+</p>
+</blockquote>
 
+<p>
 The latter, the founder of Thebes
+</p>
 
-#+begin_quote
+<blockquote>
+<p>
 "Moved the rocks with the sound of the tortoise shell, and by gentle
 prayer led them wherever he wished."
-#+end_quote
+</p>
+</blockquote>
 
+<p>
 Unless it is that wandering and dispersed men, which is nothing more
 alien to humanity, were drawn back to human society and civil life by
 the sweetness of song. It is evident that we are made more religious
@@ -131,11 +384,15 @@ of monks or canons have been established on earth, except that, just
 as the angels in heavenly choirs always assist God, celebrating his
 most beautiful praises with melodies and rhythms, where, as the holy
 Church sings,
+</p>
 
-#+begin_quote
+<blockquote>
+<p>
 "The new harmonies are always sung with melodious voice."
-#+end_quote
+</p>
+</blockquote>
 
+<p>
 So also in earthly choirs, religious men would always be vigilant in
 singing hymns and psalms, and would praise God, the Best and Greatest,
 in the best way they could. This is what even evil demons desired,
@@ -165,7 +422,9 @@ of many scriptures in the books of Christian doctrine. And the two
 lights of the Church, Gregory and Ambrose, have testified how much
 music contributes to the increase of religion by composing many hymns,
 which are still sung in one Milan and another Rome.
+</p>
 
+<p>
 No one doubts that the study of music makes us more learned, who has
 been even slightly, less than moderately exercised in mathematics: for
 indeed one of the four mathematics has always been held, which among
@@ -174,7 +433,9 @@ truth of which must be revealed by us in these seven books, which we
 have finally brought to completion after many years and great labors
 on this matter. In order to undertake this work, I was led by not a
 few reasons of no small moment.
+</p>
 
+<p>
 First, the thought of that ancient saying came to mind, by which we
 are warned to spend time in that art which we know. Indeed, from my
 very childhood, I devoted myself to musical matters throughout my
@@ -196,7 +457,9 @@ which is called Harmonic, and pertains to the composition of
 instrumental harmony. About which, whoever has been engaged in the
 musical instruments we use will be able to judge much more easily and
 perfectly.
+</p>
 
+<p>
 Moreover, lest I seem to have touched upon nothing at all regarding
 the study of others: perhaps, while I was still a boy, a certain woman
 of honorable birth came to my homeland, who was skilled in the
@@ -210,7 +473,9 @@ letters of music would be harmful. From this experience of this
 discipline, I became more eager to learn and persuaded my parents to
 send me to Salamanca, where I devoted myself to the studies of the
 Greek language and the arts and philosophy for several years.
+</p>
 
+<p>
 But then, forced by the familiar poverty, I went to the royal court,
 and was warmly received by Peter Sarmento, Archbishop of Compostella,
 and shortly thereafter, when he was raised to the number of Cardinals,
@@ -226,7 +491,9 @@ labors. But those who relied solely on reasoning and letters seem to
 have pursued a shadow, not a reality. But those who have learned both,
 as if armed with all weapons, have more quickly achieved what was
 proposed with authority.
+</p>
 
+<p>
 Therefore, when I learned from Aristotle that the ratios of numbers,
 consonances, and harmonic intervals are the causes of examples, and I
 could not find all consonances or lesser intervals in their legitimate
@@ -243,7 +510,9 @@ the two books of Aristoxenus on Harmonic elements, and two books of
 Nicomachus, whom Boethius followed, one of Bachus, three books of
 Aristides, likewise three of Briennius, which Cardinal Burgensis had
 ordered to be transcribed for himself from the Library of St. Mark.
+</p>
 
+<p>
 With these, having become more learned from what they said
 well, and more cautious from what they said otherwise, I was able to
 reach the exact knowledge of this discipline. In the inquiry and
@@ -258,12 +527,16 @@ could provide a very meager sustenance, I decided to return to
 Spain. However, I had determined that, as long as I had time left in
 life, I would confine myself within my own walls, and live an idle
 life in honorable poverty, singing only for myself and the Muses:
+</p>
 
-#+begin_quote
+<blockquote>
+<p>
 "For neither do joys befall the rich alone, nor did he live badly,
 who, born and dying, deceived."
-#+end_quote
+</p>
+</blockquote>
 
+<p>
 But I think it has seemed otherwise to God the Almighty, who recalled
 me from Italy, after I had spent almost twenty years there not
 entirely unknown, to Spain: and from other cities of Spain, in which I
@@ -273,7 +546,9 @@ almost thirty years, since I had departed from it. In which one,
 sufficiently honorable rewards have been proposed for the doctrine of
 music, both as it speculates and as it operates, to the one who is
 engaged in it.
+</p>
 
+<p>
 For Alfonso, King of Castile, the Tenth of this name, surnamed the
 Wise, who either first instituted it or reduced it to a better form,
 understood that it was necessary to learn not less the discipline of
@@ -325,15 +600,21 @@ entire life in such a way that, thinking of nothing about posterity, I
 had made my trial only in the progress of those who wished to learn
 from me. And if ever there was any talent and learning in me, I would
 have attempted to prove it otherwise than by teaching others.**
+</p>
 
+<p>
 The text begins with a discussion about the scarcity of knowledge in a
 particular discipline, which is often derived from the understanding
 of this science.
+</p>
 
-#+begin_quote
+<blockquote>
+<p>
 Few, whom water loved, Jupiter.
-#+end_quote
+</p>
+</blockquote>
 
+<p>
 It is difficult to find anyone among those who are most interested in
 knowing this doctrine, who would attend the gymnasium dedicated to its
 teaching. Therefore, with a better purpose, unless hope deceives me, I
@@ -391,11 +672,15 @@ confidence because we have never been so occupied with great matters
 that we neglected the lesser ones: nor have we ever pursued such
 beautiful things that we did not prefer the useful. To this, no
 success or favor has ever been able to inflate me so much that
+</p>
 
-#+begin_quote
+<blockquote>
+<p>
 It would be shameful to speak of the art, which I have made.
-#+end_quote
+</p>
+</blockquote>
 
+<p>
 Therefore, I take nothing envious upon myself if I say that I have
 collected many things, which, although useful and almost necessary,
 others despise; and I do not blush to bring them forth for the common
@@ -432,7 +717,9 @@ understand that part of music which pertains to rhythm, it is fitting
 that he be not a little practiced in poetry, so that he may be able to
 judge more easily and perfectly about the diverse variety of meters
 and verses from various examples of poets.
+</p>
 
+<p>
 Therefore, whatever we have deemed pertinent to the perfect knowledge
 of this science, we have gathered with as much care as we could from
 everywhere, and what we have found not only among musicians,
@@ -540,11 +827,15 @@ as it was necessary to demonstrate the truth in harmony through
 numbers and their proportions, so we have also been compelled to show
 it in rhythm through the notes of songs and figures: which songs are
 also said to be numbers accepted metaphorically, as in Virgil, Orpheus
+</p>
 
-#+begin_quote
+<blockquote>
+<p>
 Speaks of seven distinctions of voices.
-#+end_quote
+</p>
+</blockquote>
 
+<p>
 All of which can be made clear to anyone from the reading of the
 entire work: meanwhile, it will be enough to have prefaced these. And
 lest the preface exceed the manner of a prologue, and swell into the
@@ -553,10 +844,14 @@ approach the beginning of the work, we ask for the help of Almighty
 God, who wishes to have His praises sung adorned with various
 harmonies and rhythms on earth as well as in heaven, from the very
 beginning of the world.
+</p>
 
+<p>
 JOANNIS SCRIBONII IN ACADEMIA Salmanticensi Professor of Greek.
+</p>
 
-#+begin_quote
+<blockquote>
+<p>
 Hulayogas rè nadas dinaiun ixrrioar (xdeus
 roruious noeu ioxa tidonin.
 Eira d agiootiros ouotior nealo nudot
@@ -569,11 +864,15 @@ Touso vrvennéiligt niy aupoliene e Sadunant
 xai veagir nogion, rixuitd rs xparson.
 Pulposs dacuegun vodvydureave reirines ourus
 Jadure weulais, ruri ravsopivois.
-#+end_quote
+</p>
+</blockquote>
 
+<p>
 THE SAME IN LATIN.
+</p>
 
-#+begin_quote
+<blockquote>
+<p>
 Tiresie quondam ceco pensauerat auctor
 Naturae damnum munere fatidico.
 Luminis amißsi iacturam cacus Homerus
@@ -586,8 +885,10 @@ Vnus at hie magnus pro maltis ecce SALIN AS,
 Orbatus visu præstat ptrunq simul.
 Cernit in hoc opere id, quod lynceus ille nequiret,
 Iigenio quantum nullue in orbe pidet.
-#+end_quote
+</p>
+</blockquote>
 
+<p>
 I have seen the book of Music, which was composed by Master Francisco
 de Salinas, and I find nothing in it that cannot be printed, and thus
 it seems to me that it should be granted a License, because it is a
@@ -595,14 +896,22 @@ work very advanced compared to what has been written in the field
 until now, and it will be very useful to all theoretical and practical
 musicians who wish to take advantage of it. In Madrid, September
 7, 1575.
+</p>
 
+<p>
 Juan Lopez de Velasco.
+</p>
 
+<p>
 LUDOVICI CHAZARETAE in praise of the author
+</p>
 
+<p>
 EPIGRAM.
+</p>
 
-#+begin_quote
+<blockquote>
+<p>
 While you, O glory of our age,
 Aonian lyre, learned Salinas,
 Urge to penetrate the inaccessible recesses of the grove,
@@ -627,8 +936,10 @@ She says to you, priest, worthy of our dances,
 Repay the sweet losses of your sacrifice.
 These will be your arts, to reveal the secrets of the world
 Our, and to renew the strings of Bistonia's lyre.
-#+end_quote
+</p>
+</blockquote>
 
+<p>
 I, Juan Fernandez de Herrera, Secretary of the Council of His Majesty,
 certify that having seen a book that with the license of the said
 Lords was printed by Master Francisco de Salinas, Professor of the
@@ -638,17 +949,34 @@ book to be sold on paper for six hundred maravedis, with which before,
 and first, he should have it printed on the first page of this
 testimony of tax: done in Madrid, six days of the month of
 November, 1577.
+</p>
 
+<p>
 Juan Fernandez de Herrera.
+</p>
+</div>
+</div>
 
-* [Book 1]
-** [Chapter 1.1]
+<div id="outline-container-orgffd2bd6" class="outline-2">
+<h2 id="orgffd2bd6"><span class="section-number-2">3.</span> [Book 1]</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-orgec95c49" class="outline-3">
+<h3 id="orgec95c49"><span class="section-number-3">3.1.</span> [Chapter 1.1]</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
 ON MUSIC BOOK I.
+</p>
 
+<p>
 ON THE DUAL DIVISION OF UNIVERSAL MUSIC, ONE ACCORDING TO THE POSITIONS OF THE ANCIENTS, THE OTHER RECENTLY CONCEIVED.
+</p>
 
+<p>
 CHAPTER ONE.
+</p>
 
+<p>
 Since we are about to speak of Music, and its power is so widely
 spread throughout the universe that nothing is believed to exist
 without it, it will be necessary to divide it into parts, so that the
@@ -755,11 +1083,19 @@ about Music, so that we may finally be able to reconcile those who
 rejoice only in its use with those who are dedicated to its
 speculation. The definition of which requires reason and order of
 doctrine, so that we may attempt to bring it to light first of all.
+</p>
+</div>
+</div>
 
-** [Chapter 1.2]
+<div id="outline-container-orgb8964f8" class="outline-3">
+<h3 id="orgb8964f8"><span class="section-number-3">3.2.</span> [Chapter 1.2]</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
 Of the Definition and Division of Instrumental Music.
 CHAPTER II.
+</p>
 
+<p>
 Therefore, Music, which is perfected by the judgment of the senses and
 reason (as Aristides, a not insignificant author among the Greeks,
 defines it at the beginning of his Music), is the science of
@@ -831,11 +1167,19 @@ examine more suitably in the sixth book, when we discuss
 meters. Meanwhile, since harmonic is prior to Rhythm, we must first
 have a discourse on Harmonic before we discuss Rhythmic, and we will
 explain who the judges in it are, as briefly as we can.
+</p>
+</div>
+</div>
 
-** [Chapter 1.3]
+<div id="outline-container-org15236cf" class="outline-3">
+<h3 id="org15236cf"><span class="section-number-3">3.3.</span> [Chapter 1.3]</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
 *That not only the senses but also the judgment of reason is necessary
 in Harmony. CHAP. III.
+</p>
 
+<p>
 In Harmony, the judges are the senses and reason, but not in the same
 way. For, as Ptolemy says, the senses judge according to matter and
 affection, while reason judges according to form and cause. From these
@@ -874,13 +1218,23 @@ sounds, that is, the Diapason, is the formal cause of the ratio of two
 to one. We shall pursue all these matters broadly, if we first briefly
 show what the subject of Music is, the knowledge of which seems very
 necessary.
+</p>
+</div>
+</div>
 
-** [Chapter 1.4]
+<div id="outline-container-org597fa34" class="outline-3">
+<h3 id="org597fa34"><span class="section-number-3">3.4.</span> [Chapter 1.4]</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
 What the subject of the science of music is, and whether it should be
 called mathematical or not, and that it is subordinate to arithmetic.
+</p>
 
+<p>
 CHAPTER IV.
+</p>
 
+<p>
 From what has been said, it is easily evident that the subject of
 music cannot be merely the number taken by itself; its judgment seems
 to pertain to reason, and not to sense: nor can sound be considered
@@ -954,12 +1308,22 @@ number, before the latter. And briefly, concerning the number as
 simple as it is related, we will say those things that pertain to the
 present institution, without which the doctrine of music would be
 entirely crippled.
+</p>
+</div>
+</div>
 
-** [Chapter 1.5]
+<div id="outline-container-orgd3e6952" class="outline-3">
+<h3 id="orgd3e6952"><span class="section-number-3">3.5.</span> [Chapter 1.5]</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
 Of the acceptance and definition of numbers.
+</p>
 
+<p>
 CHAP. V.
+</p>
 
+<p>
 And since both the reason of nature clearly demonstrates, and the
 teachings of the most learned men warn us, that before we attempt to
 explain what it is, we should first diligently inquire into what it
@@ -1006,12 +1370,22 @@ divided, necessarily one part is even, and the other odd: as 7 is
 divided into 4 and 3, into 5 and 2, and into 6 and 1, in which
 divisions neither part is odd, but one is even, the other is found to
 be odd.
+</p>
+</div>
+</div>
 
-** [Chapter 1.6]
+<div id="outline-container-org938d1ce" class="outline-3">
+<h3 id="org938d1ce"><span class="section-number-3">3.6.</span> [Chapter 1.6]</h3>
+<div class="outline-text-3" id="text-3-6">
+<p>
 Of the species of even numbers.
+</p>
 
+<p>
 CHAP. VI.
+</p>
 
+<p>
 There are three species of even numbers: some are evenly even, some
 evenly odd, and some oddly even. The evenly even and evenly odd are
 like opposites, and the oddly even is in between them. Therefore, an
@@ -1026,14 +1400,59 @@ into two equal parts. And these numbers arise from the doubling of all
 odds, progressing to infinity without any limit. This will be easily
 understood if all odds are arranged in order on one side, and all
 evenly odds on the other, as can be seen in this table.
+</p>
 
-#+caption: Odds and their doubles
-|----------------+---+---+----+----+----+----+----+----|
-| Odds.          | 1 | 3 |  5 |  7 |  9 | 11 | 13 | 15 |
-|----------------+---+---+----+----+----+----+----+----|
-| Their doubles. | 2 | 6 | 10 | 14 | 18 | 22 | 26 | 30 |
-|----------------+---+---+----+----+----+----+----+----|
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<caption class="t-above"><span class="table-number">Table 1:</span> Odds and their doubles</caption>
 
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Odds.</th>
+<th scope="col" class="org-right">1</th>
+<th scope="col" class="org-right">3</th>
+<th scope="col" class="org-right">5</th>
+<th scope="col" class="org-right">7</th>
+<th scope="col" class="org-right">9</th>
+<th scope="col" class="org-right">11</th>
+<th scope="col" class="org-right">13</th>
+<th scope="col" class="org-right">15</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Their doubles.</td>
+<td class="org-right">2</td>
+<td class="org-right">6</td>
+<td class="org-right">10</td>
+<td class="org-right">14</td>
+<td class="org-right">18</td>
+<td class="org-right">22</td>
+<td class="org-right">26</td>
+<td class="org-right">30</td>
+</tr>
+</tbody>
+</table>
+
+<p>
 And it should be noted that, just as evenly evens originate from
 unity, which is the principle of all numbers; so evenly odds arise
 from binary, which is the origin of all evens. And all these will
@@ -1087,14 +1506,55 @@ odds. This will be evident if two lines are arranged, on one of which
 are all evenly odds, and on the other all the first oddly evens, which
 will be their doubles starting from six, which, as has been said, is
 the first evenly odd, as this table shows.
+</p>
 
-#+caption: Evenly odds and their doubles
-|--------------------+----+----+----+----+----+----+----|
-| Evenly odds.       |  6 | 10 | 14 | 18 | 22 | 26 | 30 |
-|--------------------+----+----+----+----+----+----+----|
-| First oddly evens. | 12 | 20 | 28 | 36 | 44 | 52 | 60 |
-|--------------------+----+----+----+----+----+----+----|
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<caption class="t-above"><span class="table-number">Table 2:</span> Evenly odds and their doubles</caption>
 
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Evenly odds.</th>
+<th scope="col" class="org-right">6</th>
+<th scope="col" class="org-right">10</th>
+<th scope="col" class="org-right">14</th>
+<th scope="col" class="org-right">18</th>
+<th scope="col" class="org-right">22</th>
+<th scope="col" class="org-right">26</th>
+<th scope="col" class="org-right">30</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">First oddly evens.</td>
+<td class="org-right">12</td>
+<td class="org-right">20</td>
+<td class="org-right">28</td>
+<td class="org-right">36</td>
+<td class="org-right">44</td>
+<td class="org-right">52</td>
+<td class="org-right">60</td>
+</tr>
+</tbody>
+</table>
+
+<p>
 And it should be noted that all these are spaced apart by eight, just
 as evenly odds are spaced apart by four. However, the second ones are
 divided three times, and are the doubles of the first: as in 24, 40,
@@ -1109,10 +1569,18 @@ evens, the whole will be double from ternary, and will be the first of
 that order, and is produced by the addition of all from ternary
 doubles. And this should suffice to have said about the species of
 even numbers.
+</p>
+</div>
+</div>
 
-** [Chapter 1.7]
+<div id="outline-container-org46d110a" class="outline-3">
+<h3 id="org46d110a"><span class="section-number-3">3.7.</span> [Chapter 1.7]</h3>
+<div class="outline-text-3" id="text-3-7">
+<p>
 Of the Species of Odd Numbers. CHAP. VII.
+</p>
 
+<p>
 There are also three species of odd numbers: for some of them are
 prime and indivisible, some are composite and second, while others are
 intermediate, which when taken by themselves are indeed second and
@@ -1157,5 +1625,18 @@ said, measures all numbers. However, the art by which this can be
 demonstrated will be taught below: when we will teach the method by
 which proportions can be reduced to the smallest numbers in which they
 can be found.
+</p>
+</div>
+</div>
 
-** [Chapter 1.8]
+<div id="outline-container-org932c298" class="outline-3">
+<h3 id="org932c298"><span class="section-number-3">3.8.</span> [Chapter 1.8]</h3>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Johannes Keller</p>
+<p class="date">Created: 2024-12-09 Mon 22:33</p>
+</div>
+</body>
+</html>

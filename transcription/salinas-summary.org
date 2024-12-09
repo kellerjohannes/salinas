@@ -23,9 +23,8 @@ Speech and music differ in the fact that speech relies solely on the
 authority of the speaker while music can be defined by mathematical
 principles which form the categories of true and false.
 
-[Aristotle, Book 8 of
-_Politics_][https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D8]:
-Music is necessary to fuse honor and pleasure.
+According to [[https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D8][Aristotle, Book 8 of _Politics_]] Music is necessary to
+fuse honor and pleasure.
 
 Beyond pleasure, teaching and learning music also increases moral,
 since searching for truth and exposing the mind to it forms a deep
@@ -80,8 +79,8 @@ After having studied Aristotle's teachings on ratios, consonances and
 harmonic intervals I discovered that music consists of more intervals
 than what Artistotle provided ratios for. To investigate this further
 I read Greek manuscripts that have not yet been translated into Latin,
-namely Ptolemy, Aristoxenus, Nicomachus, Bachus, Aristides and
-Briennius.
+namely [[https://brill.com/display/title/6825][Ptolemy]], [[https://en.wikipedia.org/wiki/Elementa_harmonica][Aristoxenus]], [[https://archive.org/details/manualofharmonic0000nico][Nicomachus]], [[https://www.oxfordreference.com/display/10.1093/acref/9780198662778.001.0001/acref-9780198662778-e-5768][Bacchius]], [[https://www.cambridge.org/core/journals/early-music-history/article/abs/aristides-quintilianus-on-music-in-three-books-translation-with-introduction-commentary-and-annotations-by-thomas-j-mathiesen-new-haven-and-london-yale-university-press-1983-xiii-217-pp/40B80D4BE6355D8E594CF67064B7A2B3][Aristides]] and
+[[https://en.wikipedia.org/wiki/Manuel_Bryennios][Briennius]].
 
 After more than 23 years of examination and research I came to a more
 complete understanding. But I was also confronted with many deaths of
