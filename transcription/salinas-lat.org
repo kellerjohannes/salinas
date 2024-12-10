@@ -1270,131 +1270,164 @@ Quid sit Proportio, & quot modis consideretur.
 
 CAP. X.
 
-AD aliquid quantitas est, quae in comparatione ad aliam consideratur: yt ternarius
-ad binarium collatus sortitur nomen respectiuum, & dicitur sesquialter: quae con¬
-paratio duarum inter se quantitatum, vocatur proportio. E S Tautem PROPOR
-TIO (vt ab Euclidis interpretibus quinto de Geometricis elementis libro definitur)
-DVARVM, QVANTAECVNQVE SINT, EIVSDEM GENE-
-RIS OVANTITATVM CERTA ALTERIVS AD ALTERAM
-HABITVDO. Nam apud ipsum Euclidem Graecè sic habet: ae οfoviα Sgo-
-viui nora nνdnrura rgs ennda roexi. quod est Latinè: Proportio est duarum magnitu
-dinum eiusdem generis mutua quaedam secundum quantitatem habitudo. Et dicitur HA
-BITVDO, quasi quaedam inter duas quantitates conuenientia, sicut inter homines co
-gnatio, quę potest esse maior & minor. Nam quemadmodum in hominibus diuersę sunt
-cognationes, aliae maiores , & aliae minores, (magis enim cognati sunt germani fratres,
-quam consobrini) & alij sunt, qui nullam inter se cognationem habent, sed sola in huma
-nitate communicant, per cuius participationem plures homines sunt vnus homo: sic etiam
-in quantitatibus potest reperiri maior, & minor conuenientia. Nam magis inter se conue
-niunt aequales, qua inęquales. & inter inaequales multae sunt differentiae: aliter enim se habet
-quaternarius ad binariu, qui continet eum bis; aliter senarius ad quaternarium, qui continet eu
-semel, & eius dimidium; & aliter quinarius ad ternarium, qui nec continet eum pluries,
-nec semel, & aliquam eius partem, sed habent se solùm vt numerus ad numerum, vel, vt
-D. Augnstinus eos vocat, vt tot ad tot. Et sicut duo homines, qui nullam habent cogna-
-tionem, in sola humanitate; sic huiusmodi numeri in vnitate sola communicant. Dicitui
-etiam CERTA, hoc est, determinata. Et DVARVM QVANTITATVM, quia
-proportio non reperitur, nisi in duabus quantitatibus, oportet enim esse quantitate, quae
-comparetur, & cui comparetur: & HABITVDO, quę ex ea comparatione prouenit,
+AD aliquid quantitas est, quae in comparatione ad aliam consideratur:
+yt ternarius ad binarium collatus sortitur nomen respectiuum, &
+dicitur sesquialter: quae conparatio duarum inter se quantitatum,
+vocatur proportio. E S Tautem PROPORTIO (vt ab Euclidis interpretibus
+quinto de Geometricis elementis libro definitur) DVARVM, QVANTAECVNQVE
+SINT, EIVSDEM GENERIS OVANTITATVM CERTA ALTERIVS AD ALTERAM
+HABITVDO. Nam apud ipsum Euclidem Graecè sic habet: ae οfoviα Sgoviui
+nora nνdnrura rgs ennda roexi. quod est Latinè: Proportio est duarum
+magnitudinum eiusdem generis mutua quaedam secundum quantitatem
+habitudo. Et dicitur HABITVDO, quasi quaedam inter duas quantitates
+conuenientia, sicut inter homines cognatio, quę potest esse maior &
+minor. Nam quemadmodum in hominibus diuersę sunt cognationes, aliae
+maiores , & aliae minores, (magis enim cognati sunt germani fratres,
+quam consobrini) & alij sunt, qui nullam inter se cognationem habent,
+sed sola in humanitate communicant, per cuius participationem plures
+homines sunt vnus homo: sic etiam in quantitatibus potest reperiri
+maior, & minor conuenientia. Nam magis inter se conueniunt aequales,
+qua inęquales. & inter inaequales multae sunt differentiae: aliter
+enim se habet quaternarius ad binariu, qui continet eum bis; aliter
+senarius ad quaternarium, qui continet eu semel, & eius dimidium; &
+aliter quinarius ad ternarium, qui nec continet eum pluries, nec
+semel, & aliquam eius partem, sed habent se solùm vt numerus ad
+numerum, vel, vt D. Augnstinus eos vocat, vt tot ad tot. Et sicut duo
+homines, qui nullam habent cognationem, in sola humanitate; sic
+huiusmodi numeri in vnitate sola communicant. Dicitui etiam CERTA, hoc
+est, determinata. Et DVARVM QVANTITATVM, quia proportio non reperitur,
+nisi in duabus quantitatibus, oportet enim esse quantitate, quae
+comparetur, & cui comparetur: & HABITVDO, quę ex ea comparatione
+prouenit, vocatur proportio. Dicitur autem QVANTITATVM, quia non solùm
+in numeris, sed in continuis quoque reperitur. Et QVANTAECVNQVE sint,
+hoc est, finitarum; quia inter infinitas nulla fit comparatio. EIVSDEM
+autem GENERIS ideò recte ponitur, quia inter quantitates diuersorum
+generum non potest fieri comparatio; vt inter lineam, & superficiem ,
+aut inter locum , & tempus: non enim dicitur linea maior, aut minor
+superficie: neque spatium, aut locus tempore. Diuiditur autem
+proportio prima sui diuisione ab Euclidis interpretibus, &
+enarratoribus Latinis in rationalem. & irrationalem. Quamuis ego
+proportionem irrationalem impropriè dici existimem, ed quòd omnis
+proportio ratio est, atque in ratione consistit. meliùs Gręci, qui
+proportionemn hoc est, rationem appellant, & non rationalem &
+irrationalem, sed juri & α, quod est dicibilem & indicibilem, esse
+dicunt. Sed dicetur irrationalis, cuius ratio confusa est, qualis est
+ea, quae non reperitur in numeris, in quibus ratio maximè vim suam
+ostendit. Rationalis ergo est, quę reperitur inter duas quantitates
+aliqua in parte communicantes, quae sit vtriusque mensura communis: vt
+quę reperitur inter duos numeros, quos saltem in vnitate communicare
+necesse est. Irrationalis autem est, quę reperitur inter duas
+quantitates, nulla in parte, quae vtramque metiatur, communicantes:
+vnde à Græecis  vocatur, cuiusmodi est Diametri ad latus in quadrato,
+& multę aliae, quae à Geometris considerantur. Differunt autem,
+quoniam irrationalis non consideratur in Arithmetica: ipsa enim est de
+vnitate, & numero ; & huiusmodi proportio non potest ab aliquo numero,
+neque ab vnitate denominari. In Geometria autem vtraque consideratur,
+quae tractat de magnitudinibus, ex quibus aliquae sunt
+commensurabiles, aliquae non. Constat enim Geometriam considerare
+latera quadrati commensurabilia, & Diametrum incomensurabilem lateri,
+quae ad Musicae considerationem non pertinent: quoniam Musica, vt
+diximus, Arithmeticae subalternatur; & eas solùm proportiones assumit,
+quae in illa considerantur. Et inde forsitan irrationales, surdae à
+Mathematicis dictae sunt, & ignotae. Ex quibus manifestum est,
+irrationales in quantitate continua solùm reperiri, & ad Geometram
+earum considerationem pertinere: rationales autem in continua, &
+discreta demonstrari, & ab omnibus Mathematicis considerari debere,
+sed praecipuè ab Arithmetico, & Musico. Quare relicta Geometris
+irrationali, de rationali tantùm nobis habendus est sermo.
 
-
-vocatur proportio. Dicitur autem QVANTITATVM, quia non solùm in nume
-ris, sed in continuis quoque reperitur. Et QVANTAECVNQVE sint, hoc est, fi
-nitarum; quia inter infinitas nulla fit comparatio. EIVSDEM autem GENERIS
-ideò recte ponitur, quia inter quantitates diuersorum generum non potest fieri compara
-tio; vt inter lineam, & superficiem , aut inter locum , & tempus: non enim dicitur linea
-maior, aut minor superficie: neque spatium, aut locus tempore. Diuiditur autem propor
-tio prima sui diuisione ab Euclidis interpretibus, & enarratoribus Latinis in rationalem.
-& irrationalem. Quamuis ego proportionem irrationalem impropriè dici existimem, ed
-quòd omnis proportio ratio est, atque in ratione consistit. meliùs Gręci, qui proportionem
-nhoc est, rationem appellant, & non rationalem & irrationalem, sed juri & α, quod
-est dicibilem & indicibilem, esse dicunt. Sed dicetur irrationalis, cuius ratio confusa est,
-qualis est ea, quae non reperitur in numeris, in quibus ratio maximè vim suam ostendit.
-Rationalis ergo est, quę reperitur inter duas quantitates aliqua in parte communicantes,
-quae sit vtriusque mensura communis: vt quę reperitur inter duos numeros, quos saltem
-in vnitate communicare necesse est. Irrationalis autem est, quę reperitur inter duas quan
-titates, nulla in parte, quae vtramque metiatur, communicantes: vnde à Græecis &ο
-vocatur, cuiusmodi est Diametri ad latus in quadrato, & multę aliae, quae à Geometris con
-siderantur. Differunt autem, quoniam irrationalis non consideratur in Arithmetica: ipsa
-enim est de vnitate, & numero ; & huiusmodi proportio non potest ab aliquo numero,
-neque ab vnitate denominari. In Geometria autem vtraque consideratur, quae tractat de
-magnitudinibus, ex quibus aliquae sunt commensurabiles, aliquae non. Constat enim Geo
-metriam considerare latera quadrati commensurabilia, & Diametrum incomensurabilem
-lateri, quae ad Musicae considerationem non pertinent: quoniam Musica, vt diximus, Arith
-meticae subalternatur; & eas solùm proportiones assumit, quae in illa considerantur. Et
-inde forsitan irrationales, surdae à Mathematicis dictae sunt, & ignotae. Ex quibus manife
-stum est, irrationales in quantitate continua solùm reperiri, & ad Geometram earum con¬
-siderationem pertinere: rationales autem in continua, & discreta demonstrari, & ab om¬
-nibus Mathematicis considerari debere, sed praecipuè ab Arithmetico, & Musico. Qua-
-re relicta Geometris irrationali, de rationali tantùm nobis habendus est sermo.
+** [chapter 1.11]
 De proportionis rationalis prima, & secunda diuisione
-XI.
-CAP.
-Roportio rationalis primùm diuiditur in proportionem aequalitatis, & proportio¬
-nem inaequalitatis: na quaelibet quantitas, quae alterius ratione metitur, aut illi ęqua¬
-lis est, aut inaequalis. AEqualitatis autem proportio est, quae inter duas aequales quan
-titates inuenitur, & in vtroque extremo summam denotat ęqualitatem: vt in numeris, in¬
-ter binarium, & binarium; & quaternarium, & quaternarium; & in magnitudinibus, cùm
-palmus palmo, aut pes pedi comparatur. Cuius duae sunt proprietates: altera, quòd natura
-sua est indiuisa, & (vt Boëtius ait) eandem seruat in propria moderatione mensuram: alte¬
-ra, quòd duo extrema eodem nomine nuncupantur. Et quia indiuisibilis est, nullas habet
-sub se species, sed uouοis à Graecis appellatur. Ipsa autem species estRelationis, quam Dia
-lectici vocant AEquiparantiae; cuius species sunt Vicinitas, Similitudo, Amicitia, AEqua¬
-litas. nam sicut vicinus est vicino vicinus, et amicus amico amicus: sic aequale equali ęqua¬
-le. Est itaque proprium quantitatis (vt vult Aristoteles) ęquale, vel inaequale dici: quemad
-modum qualitatis simile, vel dissimile. Fit autem aequalitas ex multiplicatione ab vnitate
-denominata: vt ex binario in vnitatem ducto fit binarius: quandoquidem vnitas in quem¬
-cunque numerum ducatur, ipsum restituit: multiplicatio autem à numero denominata
-efficit multiplicitatem; à binario quidem duplicitatem, à ternario triplicitatem, atque ità
 
+CAP. XI.
 
-LIBERI
-deinceps: vnde nascitur proportio inaequalitatis. quae duplex est; maioris inaequalitatis, &
-minoris inaequalitatis. Proportio maioris inaequalitatis est, in qua maius comparatur mi¬
-nori: vt 4. ad 2, bicubitum cubito. Et est species relationis, quam logici superpositionis ap
-pellant. Quae est illa, in qua relatum habet dignitatem quandam super illud, ad quod re¬
-fertur; vt paternitas in patre super filium, dominium in domino super seruum. Vnde Relati¬
-ua superpositionis dicunt respectum excedentis ad excessum, id est, maioris ad minus; cu
-ius species sunt duplum ad subduplum, triplum ad subtriplum, & sic ascendendo in nu¬
-meris; & vt dominus ad seruum, pater ad filium. Proportio minoris inaequalitatis est, in
-qua minus comparatur maiori: vt 2, ad 4; & 3. ad 6; cubitum bicubito. Haec species est ter¬
-tij generis subalterni eorum, quae ad aliquid sunt, & dicitur suppositionis. Quae est illa, in
-qua relatum esse videtur indignius illo, ad quod refertur, vt filiatio in filio erga patrem, &
-seruitus in seruo erga dominum. Species autem suppositionis sumuntur è conuerso, vt
-subduplum ad dupium, subtriplum ad triplum, seruus ad dominum. Et quemadmodum
-superpositio, & suppositio non sumuntur, vt sub, & supra in linea praedicamentali, ita, vt
-vnum praedicetur de altero; sed opponuntur relatiuè: sic etiam proportio maioris inęqua
-litatis, & proportio minoris sunt diuersorum generum; sicut proportio aequalitatis, &
-proportio inaequalitatis. Est autem proprium horum duorum generum inęqualitatis, quòd
-naturaliter diuidi possunt, & sub se plures habent species; quod est contrarium generi
-aequalitatis: atque etiam, quòd diuersa nuncupatione funguntur, vt cum 10. comparan¬
-tur ad 5. Sed differunt inter se, quia in proportione maioris aequalitatis fit comparatio
-secundum excessum, & continentis ad contentum: & in proportione minoris inaequali¬
-tatis secundum defectum, & contenti ad continens. Habent se igitur quodammodo vt
-actionis & passionis praedicamenta. Et differunt etiam in hoc quod proportionis maioris
-inaequalitatis omnes sunt aequa proportione maiores, minoris verò minores, vt in sequem¬
-ti figura apparet, in qua, ternarius in medio positus, numeris superioribus collatus consti
-tuit primò aequam proportionem, deinde aequa paulò maiorem superparticularem, mox
-superpartientem, tam aequa quàm superparticulari maiorem, & sic deinceps in singulis
-generibus; inferioribus autem numeris collatus primò aequam, deinde hac minorem sub¬
-superparticularem, mox vtrauis harum minorem subsuperpartientem, reliquasque aliam
-alia minorem.
-5
-92
-Et, vt in summam ea, quae dicta sunt, redigamus, quicquid alteri comparatur, aut illi
-aequale est, aut inaequale. Comparatio autem inter aequalia semper vno eodemque fit mo
-do: inter inaequalia verò fit duobus modis; nam aut maius coparatur minori, aut minus
-maiori. Quax duae comparationes quamuis materia sint eędem, differunt tamen forma, &
-diuersa
+PRoportio rationalis primùm diuiditur in proportionem aequalitatis, &
+proportionem inaequalitatis: na quaelibet quantitas, quae alterius
+ratione metitur, aut illi ęqualis est, aut inaequalis. AEqualitatis
+autem proportio est, quae inter duas aequales quantitates inuenitur, &
+in vtroque extremo summam denotat ęqualitatem: vt in numeris, inter
+binarium, & binarium; & quaternarium, & quaternarium; & in
+magnitudinibus, cùm palmus palmo, aut pes pedi comparatur. Cuius duae
+sunt proprietates: altera, quòd natura sua est indiuisa, & (vt Boëtius
+ait) eandem seruat in propria moderatione mensuram: altera, quòd duo
+extrema eodem nomine nuncupantur. Et quia indiuisibilis est, nullas
+habet sub se species, sed uouοis à Graecis appellatur. Ipsa autem
+species estRelationis, quam Dialectici vocant AEquiparantiae; cuius
+species sunt Vicinitas, Similitudo, Amicitia, AEqualitas. nam sicut
+vicinus est vicino vicinus, et amicus amico amicus: sic aequale equali
+ęquale. Est itaque proprium quantitatis (vt vult Aristoteles) ęquale,
+vel inaequale dici: quemad modum qualitatis simile, vel dissimile. Fit
+autem aequalitas ex multiplicatione ab vnitate denominata: vt ex
+binario in vnitatem ducto fit binarius: quandoquidem vnitas in
+quemcunque numerum ducatur, ipsum restituit: multiplicatio autem à
+numero denominata efficit multiplicitatem; à binario quidem
+duplicitatem, à ternario triplicitatem, atque ità deinceps: vnde
+nascitur proportio inaequalitatis. quae duplex est; maioris
+inaequalitatis, & minoris inaequalitatis. Proportio maioris
+inaequalitatis est, in qua maius comparatur minori: vt 4. ad 2,
+bicubitum cubito. Et est species relationis, quam logici
+superpositionis appellant. Quae est illa, in qua relatum habet
+dignitatem quandam super illud, ad quod refertur; vt paternitas in
+patre super filium, dominium in domino super seruum. Vnde Relatiua
+superpositionis dicunt respectum excedentis ad excessum, id est,
+maioris ad minus; cuius species sunt duplum ad subduplum, triplum ad
+subtriplum, & sic ascendendo in numeris; & vt dominus ad seruum, pater
+ad filium. Proportio minoris inaequalitatis est, in qua minus
+comparatur maiori: vt 2, ad 4; & 3. ad 6; cubitum bicubito. Haec
+species est tertij generis subalterni eorum, quae ad aliquid sunt, &
+dicitur suppositionis. Quae est illa, in qua relatum esse videtur
+indignius illo, ad quod refertur, vt filiatio in filio erga patrem, &
+seruitus in seruo erga dominum. Species autem suppositionis sumuntur è
+conuerso, vt subduplum ad dupium, subtriplum ad triplum, seruus ad
+dominum. Et quemadmodum superpositio, & suppositio non sumuntur, vt
+sub, & supra in linea praedicamentali, ita, vt vnum praedicetur de
+altero; sed opponuntur relatiuè: sic etiam proportio maioris inęqua
+litatis, & proportio minoris sunt diuersorum generum; sicut proportio
+aequalitatis, & proportio inaequalitatis. Est autem proprium horum
+duorum generum inęqualitatis, quòd naturaliter diuidi possunt, & sub
+se plures habent species; quod est contrarium generi aequalitatis:
+atque etiam, quòd diuersa nuncupatione funguntur, vt
+cum 10. comparantur ad 5. Sed differunt inter se, quia in proportione
+maioris aequalitatis fit comparatio secundum excessum, & continentis
+ad contentum: & in proportione minoris inaequalitatis secundum
+defectum, & contenti ad continens. Habent se igitur quodammodo vt
+actionis & passionis praedicamenta. Et differunt etiam in hoc quod
+proportionis maioris inaequalitatis omnes sunt aequa proportione
+maiores, minoris verò minores, vt in sequemti figura apparet, in qua,
+ternarius in medio positus, numeris superioribus collatus constituit
+primò aequam proportionem, deinde aequa paulò maiorem
+superparticularem, mox superpartientem, tam aequa quàm
+superparticulari maiorem, & sic deinceps in singulis generibus;
+inferioribus autem numeris collatus primò aequam, deinde hac minorem
+subsuperparticularem, mox vtrauis harum minorem subsuperpartientem,
+reliquasque aliam alia minorem.
 
+|------------------------+-----------------+-------------------+---------------+-----------+-----------------------------+-------------------------+------------------------+
+|                        |               3 |                 4 |             5 |         6 |                           7 |                       8 | Maioris inaequalitaris |
+|------------------------+-----------------+-------------------+---------------+-----------+-----------------------------+-------------------------+------------------------+
+| Minoris inaequalitaris |               3 |                 3 |             3 |         3 |                           3 |                       3 | Maioris inaequalitaris |
+|------------------------+-----------------+-------------------+---------------+-----------+-----------------------------+-------------------------+------------------------+
+| Minoris inaequalitaris |               3 |                 4 |             5 |         6 |                           7 |                       8 |                        |
+|                        | Aequa proportio | Superparticularis | Superpartiens | Multiplex | Multiplex superparticularis | Multiplex superpartiens |                        |
 
-diuersa ex illis oriuntur genera proportionum. Sicut enim ex comparatione patris ad fi¬
-lium oritur paternitas, & ex filij ad patrem filiatio (quae diuersae sunt relationes) sic ex con
-paratione maioris ad minus oriuntur aliae proportiones, quàm ex comparatione minoris
-ad maius. Quarum species, iam tandem opus est, vt explicare tentemus.
-De speciebus proportionum tam maioris, quàm minoris inaequalitatis,
-& de genere multiplici, & submultiplici.
-XII.
-CAP.
-D Roportio maioris inaequalitatis habet sub se quinque species, & totidem habet pro¬
+Et, vt in summam ea, quae dicta sunt, redigamus, quicquid alteri
+comparatur, aut illi aequale est, aut inaequale. Comparatio autem
+inter aequalia semper vno eodemque fit modo: inter inaequalia verò fit
+duobus modis; nam aut maius coparatur minori, aut minus maiori. Quax
+duae comparationes quamuis materia sint eędem, differunt tamen forma,
+& diuersa ex illis oriuntur genera proportionum. Sicut enim ex
+comparatione patris ad filium oritur paternitas, & ex filij ad patrem
+filiatio (quae diuersae sunt relationes) sic ex conparatione maioris
+ad minus oriuntur aliae proportiones, quàm ex comparatione minoris ad
+maius. Quarum species, iam tandem opus est, vt explicare tentemus.
+
+** [chapter 1.12]
+De speciebus proportionum tam maioris, quàm minoris inaequalitatis, &
+de genere multiplici, & submultiplici.
+
+CAP. XII.
+
+PRoportio maioris inaequalitatis habet sub se quinque species, & totidem habet pro¬
 portio minoris inaequalitatis. Sunt autem maioris inaequalitatis species (quae etia ge¬
 nera subalterma, respectu suorum inferiorum, nominari possunt) Multiplex, Super¬
 particularis, Superpartiens, Multiplex superparticularis, & Multiplex superpartiens. Atque
