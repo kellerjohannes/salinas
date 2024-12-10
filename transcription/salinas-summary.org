@@ -3,6 +3,9 @@
 #+author: Johannes Keller
 #+startup: overview
 
+# Math notation:
+#   Testing \( \frac{1}{2} \) within a line.
+
 * Comments
 
 * Preface
