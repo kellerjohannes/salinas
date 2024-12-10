@@ -1643,91 +1643,141 @@ excessum habentibus, vt in hoc typo perspici poterit.
 |---------------------------+-------------------+---------------+------------+-------------+------------+---------+---------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------|
 |                           | Superbipartientes | Supertripart. | Superquad. | Superquint. | Supersext. | Super 7 | Super 8 | Super 9 | Super 10 | Super 11 | Super 12 | Super 13 | Super 14 | Super 15 | Super 16 | Super 17 | Super 18 |
 
+In his primum est superbipartiens, secundum supertripartiens, & sic
+deinceps omnia nomen sortiuntur à numero partium, quibus numeri
+minoresà maioribus superantur. Sed horum generum vnumquodque habet
+infinitas sub se species, denominatas quidem illas à nominibus
+diuersarum partium, vt à tertijs, quartis, quintis, atque ita
+deinceps. Nam superbipartiens, si duae partes, quibus maior superat
+minorem sunt tertiae, dicituf superbipartiens tertias, yt in hac
+proportione 5. ad 3, in qua duę partes, quibus quinarius superat
+ternarium, sunt duae tertiae ternarij: si autem erunt quintae, dicetut
+superbipartiens quintas, vt 7. ad 5. Et aduertendum est, in hoc genere
+semper oportere numeratorem partium esse minorem, quàm denominatorem,
+vt in his; superbipartiens tertias, supertripartiens quartas; in
+quibus minor est numerator duarum, aut trium partium, quàm denominatot
+tertiarum, aut quartarum. Atque etiam sciendum est, quòd si alter,
+siue numerator, siue denominator, sit par, necessariò alter erit
+impar, vt superbipartiens tertias, & supertripartiens quartas;
+impossibile autem est vtrumque esse parem, nec enim rectè dicas
+superbipartiens quartas: possibile verò est, vtrumque esse imparem, &
+dato vno impari reliquum esse parem; nisi numerum aliquem, praeter
+vnitatem, communem mensuram admittant; itaque rectè dicitur
+supertripartiens quintas, & supertripartiens septimas, non aute
+supertripartiens sextas, aut supertripartiens nonas, quòd in his
+communis mensura est ternarius, illi autem numerum, praeter vnitatem,
+communem mensuram nullum admittunt, sed sunt contra se primi. Sed,
+quia, si credimus Senecae, praeceptorum iter longum est, ac difficile,
+exemplorum autem breue, & efficax; duos, aut tres apponemus typos, in
+quibus haec omnia, oculis subiecta, planiùs ac manifestiùs
+intelligentur: & in primo erunt superbipartientis species, quarum
+radices inuenientur in omnibus imparibus numeris, secundo ad primum, &
+tertio ad secundum, & sic deinceps comparatis, in secundo & tertio
+typo supertripartientis; in quarto & quinto superquadripartientis
+species continentur.
 
+|------------------------------+---+-------------+---+---------+---+-----------+---+-----------+----+------------+----+------------+----|
+| Numeri binario se excedentes | 3 |             | 5 |         | 7 |           | 9 |           | 11 |            | 13 |            | 15 |
+|------------------------------+---+-------------+---+---------+---+-----------+---+-----------+----+------------+----+------------+----|
+| SVPERBIPARTIENTES.           |   | Supbitertij |   | supbi 5 |   | superbi 7 |   | superbi 9 |    | superbi 11 |    | superbi 13 |    |
+|------------------------------+---+-------------+---+---------+---+-----------+---+-----------+----+------------+----+------------+----|
 
-In his primum est superbipartiens, secundum supertripartiens, & sic deinceps omnia
-nomen sortiuntur à numero partium, quibus numeri minoresà maioribus superantur. Sed
-horum generum vnumquodque habet infinitas sub se species, denominatas quidem illas à
-nominibus diuersarum partium, vt à tertijs, quartis, quintis, atque ita deinceps. Nam su¬
-perbipartiens, si duae partes, quibus maior superat minorem sunt tertiae, dicituf superbi¬
-partiens tertias, yt in hac proportione 5. ad 3, in qua duę partes, quibus quinarius superat
-ternarium, sunt duae tertiae ternarij: si autem erunt quintae, dicetut superbipartiens quin¬
-tas, vt 7. ad 5. Et aduertendum est, in hoc genere semper oportere numeratorem partium
-esse minorem, quàm denominatorem, vt in his; superbipartiens tertias, supertripartiens
-quartas; in quibus minor est numerator duarum, aut trium partium, quàm denominatot
-tertiarum, aut quartarum. Atque etiam sciendum est, quòd si alter, siue numerator, siue
-denominator, sit par, necessariò alter erit impar, vt superbipartiens tertias, & supertripar¬
-tiens quartas; impossibile autem est vtrumque esse parem, nec enim rectè dicas superbi¬
-partiens quartas: possibile verò est, vtrumque esse imparem, & dato vno impari reliquum
-esse parem; nisi numerum aliquem, praeter vnitatem, communem mensuram admittant;
-itaque rectè dicitur supertripartiens quintas, & supertripartiens septimas, non aute super¬
+|----------------------------+---+-----------------+---+-------------+----+--------------+----+--------------+----+--------------+----|
+| A 4 excedentes se ternario | 4 |                 | 7 |             | 10 |              | 13 |              | 16 |              | 19 |
+|----------------------------+---+-----------------+---+-------------+----+--------------+----+--------------+----+--------------+----|
+| SVPERTRIPARTIENTES         |   | Supertriquarti. |   | supertri 7. |    | supertri 10. |    | supertri 13. |    | supertri 16. |    |
+|----------------------------+---+-----------------+---+-------------+----+--------------+----+--------------+----+--------------+----|
 
+|-----------------------+---+----------------+---+------------+----+-------------+----+-------------+----+-------------+----|
+| A 5. excedentes se 3. | 5 |                | 8 |            | 11 |             | 14 |             | 17 |             | 20 |
+|-----------------------+---+----------------+---+------------+----+-------------+----+-------------+----+-------------+----|
+| SVPERTRIPARTIENTES.   |   | Supertriquinti |   | supertri 8 |    | supertri 11 |    | supertri 14 |    | supertri 17 |    |
+|-----------------------+---+----------------+---+------------+----+-------------+----+-------------+----+-------------+----|
 
-tripartiens sextas, aut supertripartiens nonas, quòd in his communis mensura est ternarius,
-illi autem numerum, praeter vnitatem, communem mensuram nullum admittunt, sed
-sunt contra se primi. Sed, quia, si credimus Senecae, praeceptorum iter longum est, ac dif¬
-ficile, exemplorum autem breue, & efficax; duos, aut tres apponemus typos, in quibus haec
-omnia, oculis subiecta, planiùs ac manifestiùs intelligentur: & in primo erunt superbipar
-tientis species, quarum radices inuenientur in omnibus imparibus numeris, secundo ad primum,
-& tertio ad secundum, & sic deinceps comparatis, in secundo & tertio typo supertripartien
-tis; in quarto & quinto superquadripartientis species continentur.
-Numeri binario se excedentes
-SVPERBIPARTIENT ES. Supbitertijsupbi s supbiy, supbig supbi 11. supbir3.
-A4 excedentes se ternario
-SVPERTRIPARTIENTES. Suptriquarti. suptri 7. suptri 10. suptri 13. suptri 16.
-A5. excedentes se 3.
-SVPERTRIPARTIENTES. Suptiquini sipertis supri ri fupti a siprir7
-A5. excedentes se 4.
-SVPERQVADRIPARTIENTES Supquadriqueil supquadrig suipquadri 13
-Ayexcedentes se 4.
-SVPERQVADRIPAR T. Superquadriseptimi superquadri 11 superquadri15
-His typis inspectis facile erit cuiqe superquintipartientis, ac reliquorum, quotquot li¬
-buerit generum species effingere, easque in infinitum producere, obseruato cuiusque seriei
-tum principio, tum numerorum inter se excessu. Excessus ex generis cuiusque nomine co
-gnoscitur; nam quadripartiens dicitur, cuius numeri quaternario se excedunt; quintipar
-tiens cuius numeri se excedunt quinario, & sic de reliquis: principium autem numerorum
-sumitur ab omnibus numeris excessu maioribus, & duplo eiusdem minoribus, nisi si
-qui cum excessu numerum alium praeter vnitatem communem habeant mensuram, ideo
-superquadripartientes incipiunt ab his numeris, qui sunt inter 4. & 8, veluti à 5. & 7, non
-autem a 6, quia 4. & 6. ambo pares sunt, pariumque omnium praeter vnitatem etiam binarius
-est communis mensura.
+|-----------------------+---+-------------------+---+---------------+----+----------------+----|
+| A 5. excedentes se 4. | 5 |                   | 9 |               | 13 |                | 17 |
+|-----------------------+---+-------------------+---+---------------+----+----------------+----|
+| SVPERQVADRIPARTIENTES |   | Superquadriquinti |   | superquadri 9 |    | superquadri 13 |    |
+|-----------------------+---+-------------------+---+---------------+----+----------------+----|
+
+|----------------------+---+--------------------+----+----------------+----+----------------+----|
+| A 7 excedentes se 4. | 7 |                    | 11 |                | 15 |                | 19 |
+|----------------------+---+--------------------+----+----------------+----+----------------+----|
+| SVPERQVADRIPART.     |   | Superquadriseptimi |    | superquadri 11 |    | superquadri 15 |    |
+|----------------------+---+--------------------+----+----------------+----+----------------+----|
+
+His typis inspectis facile erit cuiqe superquintipartientis, ac
+reliquorum, quotquot libuerit generum species effingere, easque in
+infinitum producere, obseruato cuiusque serieitum principio, tum
+numerorum inter se excessu. Excessus ex generis cuiusque nomine
+cognoscitur; nam quadripartiens dicitur, cuius numeri quaternario se
+excedunt; quintipartiens cuius numeri se excedunt quinario, & sic de
+reliquis: principium autem numerorum sumitur ab omnibus numeris
+excessu maioribus, & duplo eiusdem minoribus, nisi siqui cum excessu
+numerum alium praeter vnitatem communem habeant mensuram, ideo
+superquadripartientes incipiunt ab his numeris, qui sunt inter 4. & 8,
+veluti à 5. & 7, non autem a 6, quia 4. & 6. ambo pares sunt,
+pariumque omnium praeter vnitatem etiam binarius est communis mensura.
+
+** [chapter 1.16]
 De genere Multiplici super particulari, &y eius speciebus.
+
 CAP. XVI.
-TRia genera simplicia sequuntur duo composita: nam Multiplex componitur cum
-reliquis duobus, quorum alterum dicitur Multiplex superparticulare, alterum Mul
-tiplex superpartiens. Multiplex superparticulare est, cùm numerus maior minori
-collatus continet eum pluries, & aliquam eius partem. & quatenus eum habet pluries, me¬
-ritò vocatur Multiplex: & quia continet insuper vnam ipsius partem, dicitur etiam super¬
-particulare: vt 5. ad 2, in qua proportione quinarius continet binarium bis, vnde est Mul
-tiplex genus, & dupla proportio; & vnitatem, quae est dimidium binarij, quare est super¬
 
+TRia genera simplicia sequuntur duo composita: nam Multiplex
+componitur cum reliquis duobus, quorum alterum dicitur Multiplex
+superparticulare, alterum Multiplex superpartiens. Multiplex
+superparticulare est, cùm numerus maior minori collatus continet eum
+pluries, & aliquam eius partem. & quatenus eum habet pluries, meritò
+vocatur Multiplex: & quia continet insuper vnam ipsius partem, dicitur
+etiam superparticulare: vt 5. ad 2, in qua proportione quinarius
+continet binarium bis, vnde est Multiplex genus, & dupla proportio; &
+vnitatem, quae est dimidium binarij, quare est superparticularis
+generis, & proportio sesquialtera: & simul dicitur esse dupla
+sesquialtera. Sic etiam in hac proportione 7. ad 3. septem continet
+tria bis, & tertiam eius partem, quare erit dupla sesquitertia. Atque
+ita in eo inueniuntur omnes species Multiplicis cum singulis
+superparticularibus, & omnes superparticulares cum singulis
+Multiplicibus. exemplum prioris, dupla sesquialtera 5. ad 2: tripla
+sesquialtera 7. ad 2: quadrupla sesquialtera 9. ad 2. exemplum
+posterioris, dupla sesquitertia 7. ad 3: dupla sesquiquarta 9. ad 4:
+dupla sesquiquinta 11. ad 5. Atque ita variæ possunt fieri vtriusque
+generis coniugationes, vt per hunc typum manifestum esse poterit.
 
-particularis generis, & proportio sesquialtera: & simul dicitur esse dupla sesquialtera. Sic
-etiam in hac proportione 7. ad 3. septem continet tria bis, & tertiam eius partem, quare
-erit dupla sesquitertia. Atque ita in eo inueniuntur omnes species Multiplicis cum singu
-lis superparticularibus, & omnes superparticulares cum singulis Multiplicibus. exemplum
-prioris, dupla sesquialtera 5. ad 2: tripla sesquialtera 7. ad 2: quadrupla sesquialtera 9. ad 2.
-exemplum posterioris, dupla sesquitertia 7. ad 3: dupla sesquiquarta 9. ad 4: dupla sesqui¬
-quinta 11. ad 5. Atque ita variæ possunt fieri vtriusque generis coniugationes, vt per hunc
-typum manifestum esse poterit.
-Comites.
-Dupli.
-Tripli.
-Quadrupli.
-Quintupli.
-Longitudo
-Idem determinatum sit circa genus Submultiplex subsuperparticulare, quandoquide
-solum ratione differunt, vt superius demonstratum est. Id fortè non inutiliter additur,
-posse praecedentem typum tam secundum longitudinem; quàm secundum latitudinem
-in infinitum extendi, solo numerorum excessu obseruato, quem ipsa proportionum no
-mina reuelant. nam secundum longitudinem dupli sese binario excedunt, tripli ternariò,
-quadrupli quaternario; secundum satitudinem similiter sesquialteri binario, sesquiter¬
-tij ternario, sesquiquarti quaternario: ergo dupli sesquialteri vtrimque binario se excedunt;
-at dupli sesquitertij secundum longitudinem binario, secundum latitudinem ternario,
-& sic de reliquis, longitudine multiplicibus, latitudine autem superparticularibus at¬
-tributa.
+|-------------+----------+----------+----------+----------+----------+----------+----------+-----------+-----------+-----------+-------------+-------------|
+|           2 |        3 |        4 |        5 |        6 |        7 |        8 |        9 |        10 |        11 |        12 | Comites.    |             |
+|-------------+----------+----------+----------+----------+----------+----------+----------+-----------+-----------+-----------+-------------+-------------|
+|           5 |        7 |        9 |       11 |       13 |       15 |       17 |       19 |        21 |        23 |        25 | Dupli.      | ad Comites. |
+|-------------+----------+----------+----------+----------+----------+----------+----------+-----------+-----------+-----------+-------------+-------------|
+|           7 |       10 |       13 |       16 |       19 |       22 |       25 |       28 |        31 |        34 |        37 | Tripli.     | ad Comites. |
+|-------------+----------+----------+----------+----------+----------+----------+----------+-----------+-----------+-----------+-------------+-------------|
+|           9 |       13 |       17 |       21 |       25 |       29 |       33 |       37 |        41 |        45 |        49 | Quadrupuli. | ad Comites. |
+|-------------+----------+----------+----------+----------+----------+----------+----------+-----------+-----------+-----------+-------------+-------------|
+|          11 |       16 |       21 |       26 |       31 |       36 |       41 |       46 |        51 |        56 |        61 | Quintupli.  | ad Comites. |
+|-------------+----------+----------+----------+----------+----------+----------+----------+-----------+-----------+-----------+-------------+-------------|
+|          13 |       19 |       25 |       31 |       37 |       43 |       46 |       55 |        61 |        67 |        73 | Sescupli.   | ad Comites. |
+|-------------+----------+----------+----------+----------+----------+----------+----------+-----------+-----------+-----------+-------------+-------------|
+| Sesquialeri | Sesqui 3 | Sesqui 4 | Sesqui 5 | Sesqui 6 | Sesqui 7 | Sesqui 8 | Sesqui 9 | Sesqui 10 | Sesqui 11 | Sesqui 12 |             |             |
+|-------------+----------+----------+----------+----------+----------+----------+----------+-----------+-----------+-----------+-------------+-------------|
+
+Idem determinatum sit circa genus Submultiplex subsuperparticulare,
+quandoquide solum ratione differunt, vt superius demonstratum est. Id
+fortè non inutiliter additur, posse praecedentem typum tam secundum
+longitudinem; quàm secundum latitudinem in infinitum extendi, solo
+numerorum excessu obseruato, quem ipsa proportionum nomina
+reuelant. nam secundum longitudinem dupli sese binario excedunt,
+tripli ternariò, quadrupli quaternario; secundum satitudinem similiter
+sesquialteri binario, sesquitertij ternario, sesquiquarti quaternario:
+ergo dupli sesquialteri vtrimque binario se excedunt; at dupli
+sesquitertij secundum longitudinem binario, secundum latitudinem
+ternario, & sic de reliquis, longitudine multiplicibus, latitudine
+autem superparticularibus attributa.
+
+** [chapter 1.17]
 De genere Multiplici superpartienti, & de eius speciebus.
+
 CAP. XVII.
+
 Dem etiam dici potest de multiplici superpartienti, in quo numerus maior continet
 minorem pluries, & aliquas eius partes: quatenus enim continet eum pluries, dicitur
 Multiplex: & quatenus continet insuper aliquas eius partes, quae non faciunt vna, est
