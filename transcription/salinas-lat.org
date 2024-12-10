@@ -1427,166 +1427,224 @@ de genere multiplici, & submultiplici.
 
 CAP. XII.
 
-PRoportio maioris inaequalitatis habet sub se quinque species, & totidem habet pro¬
-portio minoris inaequalitatis. Sunt autem maioris inaequalitatis species (quae etia ge¬
-nera subalterma, respectu suorum inferiorum, nominari possunt) Multiplex, Super¬
-particularis, Superpartiens, Multiplex superparticularis, & Multiplex superpartiens. Atque
-eadem erunt nomina specierum proportionum minoris inaequalitatis, praeposita, sub, prę
-positione, vt Submultiplex, Subsuperparticularis, Subsuperpartiens, & sic de reliquis. Atque
-eadem, quae dicentur de proportionibus maioris inaequalitatis, intelligi poterunt dicta es
-se è conuerso de proportionibus minoris. Ex his autem quinque generibus tria sunt sim¬
-plicia, Multiplex, Superparticulare, Superpartiens, & duo composita, Multiplex superpar
-ticulare, & Multiplex superpartiens. Multiplex genus est, in quo numerus maior, minori
-comparatus, continet eum pluries adaequate, ita vt nihil deficiat, aut superet: vt 4. continet
-2.bis, 9. continet 3. ter, 20. quater 5, & sic de reliquis. Habet autem sub se species plurimas:
-nam, si maior numerus continet minorem bis, dicitur dupla, quolis est 8. ad 4, 12. ad 6; si
-ter, vocatur tripla, vt 12. ad 4,6. ad 2; si quater, quadrupla; & sic sine statu. Idem intelligi
-debet de submultiplici; (vt dictum est) quod est, cùm numerus minor, maiori compara¬
-tus, continetur ab eo pluries adęquatè. & si bis continetur, est proportio subdupla, vt 3.
-ad 6; si ter, subtripla, vt 5. ad 15; & sic etiam sine statu: atque ita in hoc genere semper nu¬
-merus minor est pars numeratiua maioris; quod in nullo alio potest euenire. Est etiam hu
-ius generis proprium, quòd in eo reperitur minima proportio, & non maxima. Est autem
-minima, dupla: quia in ea numerus maior continet minorem bis; neque minùs continere
-potest, si pluries continere debet. Et sic inuenitur in primo numero ad vnitatem collato,
-qui est binarius: & est prima proportionum inaequalitatis; quia proximè omnium ad aequali
-tatem accedit. Et sciendum est, ad vnitatem omnes numeros collatos esse multiplices: nam
-binarius est duplus, ternarius triplus, quaternarius quadruplus; & sic in infinitum potest
-procedi. Atque haec ita nota sunt, vt non multùm in eis immorari debeamus: quoniam de
-his plurimi scripserunt, & nos ad ea, quae sunt Musicae propria, properamus, quae sunt in
-Arithmetica exactiora, ipsius professoribus relinquentes.
+PRoportio maioris inaequalitatis habet sub se quinque species, &
+totidem habet proportio minoris inaequalitatis. Sunt autem maioris
+inaequalitatis species (quae etia genera subalterma, respectu suorum
+inferiorum, nominari possunt) Multiplex, Superparticularis,
+Superpartiens, Multiplex superparticularis, & Multiplex
+superpartiens. Atque eadem erunt nomina specierum proportionum minoris
+inaequalitatis, praeposita, sub, prępositione, vt Submultiplex,
+Subsuperparticularis, Subsuperpartiens, & sic de reliquis. Atque
+eadem, quae dicentur de proportionibus maioris inaequalitatis,
+intelligi poterunt dicta esse è conuerso de proportionibus minoris. Ex
+his autem quinque generibus tria sunt simplicia, Multiplex,
+Superparticulare, Superpartiens, & duo composita, Multiplex
+superparticulare, & Multiplex superpartiens. Multiplex genus est, in
+quo numerus maior, minori comparatus, continet eum pluries adaequate,
+ita vt nihil deficiat, aut superet: vt 4. continet
+2.bis, 9. continet 3. ter, 20. quater 5, & sic de reliquis. Habet
+autem sub se species plurimas: nam, si maior numerus continet minorem
+bis, dicitur dupla, quolis est 8. ad 4, 12. ad 6; si ter, vocatur
+tripla, vt 12. ad 4,6. ad 2; si quater, quadrupla; & sic sine
+statu. Idem intelligi debet de submultiplici; (vt dictum est) quod
+est, cùm numerus minor, maiori comparatus, continetur ab eo pluries
+adęquatè. & si bis continetur, est proportio subdupla, vt 3. ad 6; si
+ter, subtripla, vt 5. ad 15; & sic etiam sine statu: atque ita in hoc
+genere semper numerus minor est pars numeratiua maioris; quod in nullo
+alio potest euenire. Est etiam huius generis proprium, quòd in eo
+reperitur minima proportio, & non maxima. Est autem minima, dupla:
+quia in ea numerus maior continet minorem bis; neque minùs continere
+potest, si pluries continere debet. Et sic inuenitur in primo numero
+ad vnitatem collato, qui est binarius: & est prima proportionum
+inaequalitatis; quia proximè omnium ad aequalitatem accedit. Et
+sciendum est, ad vnitatem omnes numeros collatos esse multiplices: nam
+binarius est duplus, ternarius triplus, quaternarius quadruplus; & sic
+in infinitum potest procedi. Atque haec ita nota sunt, vt non multùm
+in eis immorari debeamus: quoniam de his plurimi scripserunt, & nos ad
+ea, quae sunt Musicae propria, properamus, quae sunt in Arithmetica
+exactiora, ipsius professoribus relinquentes.
+
+** [chapter 1.13]
 De genere superparticulari, & subsuperparticulari.
+
 CAP. XIII.
-DOst genus Multiplex, quod omnium primum est inaequalitatis, quia inter primos nu¬
-meros inaequales (vt diximus) inuenitur, statim sequitur genus superparticulare, nam
-sicut prima multiplicium reperitur inter duo, & vnum: sic prima superparticularium
-inuenitur inter 3. & 2. Atque ita ab aequalitate ad inaequalitatem ordinatim proceditur:
-quoniam aequa proportio, quae est omnium mater & origo, inuenitur inter duas vnita¬
-tes, quibus nihil potest minus comparari; & Multiplex, quod est primum inaequalitatis
-inter duo, & vnum; & Superparticulare in ternario ad binarium collato, neque in mino¬
-ribus numeris inueniri potest. Quamquam si quantitatis ordinem spectes, genus aequali¬
-tatis non multiplex, sed superparticulare & superpartiens sequuntur, quorum propor¬
 
-
-tiones inter aequam & duplam inueniuntur, vt in numeris ordine cum ternario collatis
-in typo capitis vndecimi videre licet. Est autem genus Superparticulare, cum maior nu-
-merus minori collatus continet eum semel, & aliquam partem minoris numeratiuam; quae
-si erit secunda, vel dimidia, efficiet proportionem sesquialteram; vt 3. ad 2, 6. ad 4; nam
-ternarius continet binarium, & vnitatem, quae est illius dimidium; & sex 4, atque insuper
-binarium, qui est ipsius dimidium: & si erit tertia pars, constituetur proportio sesquiter¬
-tia; quae in minimis eius numeris inuenitur inter 4. & 3: & si quarta pars, sesquiquarta, vi
-5. ad 4: & sic habet species plurimas, per quas sine statu potest procedi, addita semper vni¬
-tate, vt 6. ad 5,7. ad 6. Et denominabuntur à minori numero praeposita hac particula, ses-
-qui, vt sesquiquinta sesquisexta: aut ab ea parte minoris, in qua maior eum superabit: vt ea,
-quae est à 9. ad 8, dicitur sesquioctaua; quia vnitas, qua maior minorem superat, est octaua
-pars illius. Habet autem hoc genus proprietatem omnino contrariam ei, quam diximus
-multiplex habere: quoniam in illo inuenitur minima proportio, quae est dupla, & non ma¬
-xima; in hoc verò datur maxima, & non minima. nam sesquialtera, quae est ipsius prima spe¬
-cies, est omnium maxima; & sesquitertia proxima; & sic minuendo in infinitum, nec mi¬
-nima poterit inueniri. Maior autem proportio est ea, quae denominatur à minori nume¬
-ro, & a maiori parte: vt sesquialtera, quae etiam dicitur sesquisecunda, & denominatur à
-minimo numero, qui est binarius, & a maxima parte, quae est dimidium: & sesquitertia a
-ternario, qui est maior quàm binarius, & à tertia parte, quae est minor quàm dimidium.
-Quare maior (vt diximus) proportio denominabitur in hoc genere à minori numero, &
-à maiori parte: & minor à maiori numero, & à minori parte. Nec potuit hoc genus inue-
-niriinter duo, & vnum: quia (vt diximus) omnes numeri ad vnitatem sunt multiplices, quae
-quoniam indiuisibilis est, nullas habet partes, in quarum aliqua possit ab vllo numero su¬
-perari. Et quia breues esse studemus, haec de genere Superparticulari dicta sufficiant: si ta
-men hoc solum admonuerimus, genus subsuperparticulare ab hoc sumi è conuerso; & es
-se illud, in quo minor numerus continetur à maiori semel, & aliqua pars ipsius numerati¬
-ua, vt binarius ad ternarium; & tot, & easdem species habere cum superparticulari, sed no
-minari praemissa, sub, praepositione, vt subsesquialtera, subsesquitertia, & sic per omnes,
+POst genus Multiplex, quod omnium primum est inaequalitatis, quia
+inter primos numeros inaequales (vt diximus) inuenitur, statim
+sequitur genus superparticulare, nam sicut prima multiplicium
+reperitur inter duo, & vnum: sic prima superparticularium inuenitur
+inter 3. & 2. Atque ita ab aequalitate ad inaequalitatem ordinatim
+proceditur: quoniam aequa proportio, quae est omnium mater & origo,
+inuenitur inter duas vnitates, quibus nihil potest minus comparari; &
+Multiplex, quod est primum inaequalitatis inter duo, & vnum; &
+Superparticulare in ternario ad binarium collato, neque in minoribus
+numeris inueniri potest. Quamquam si quantitatis ordinem spectes,
+genus aequalitatis non multiplex, sed superparticulare & superpartiens
+sequuntur, quorum proportiones inter aequam & duplam inueniuntur, vt
+in numeris ordine cum ternario collatis in typo capitis vndecimi
+videre licet. Est autem genus Superparticulare, cum maior numerus
+minori collatus continet eum semel, & aliquam partem minoris
+numeratiuam; quae si erit secunda, vel dimidia, efficiet proportionem
+sesquialteram; vt 3. ad 2, 6. ad 4; nam ternarius continet binarium, &
+vnitatem, quae est illius dimidium; & sex 4, atque insuper binarium,
+qui est ipsius dimidium: & si erit tertia pars, constituetur proportio
+sesquitertia; quae in minimis eius numeris inuenitur inter 4. & 3: &
+si quarta pars, sesquiquarta, vi 5. ad 4: & sic habet species
+plurimas, per quas sine statu potest procedi, addita semper vnitate,
+vt 6. ad 5,7. ad 6. Et denominabuntur à minori numero praeposita hac
+particula, sesqui, vt sesquiquinta sesquisexta: aut ab ea parte
+minoris, in qua maior eum superabit: vt ea, quae est à 9. ad 8,
+dicitur sesquioctaua; quia vnitas, qua maior minorem superat, est
+octaua pars illius. Habet autem hoc genus proprietatem omnino
+contrariam ei, quam diximus multiplex habere: quoniam in illo
+inuenitur minima proportio, quae est dupla, & non maxima; in hoc verò
+datur maxima, & non minima. nam sesquialtera, quae est ipsius prima
+species, est omnium maxima; & sesquitertia proxima; & sic minuendo in
+infinitum, nec minima poterit inueniri. Maior autem proportio est ea,
+quae denominatur à minori numero, & a maiori parte: vt sesquialtera,
+quae etiam dicitur sesquisecunda, & denominatur à minimo numero, qui
+est binarius, & a maxima parte, quae est dimidium: & sesquitertia a
+ternario, qui est maior quàm binarius, & à tertia parte, quae est
+minor quàm dimidium. Quare maior (vt diximus) proportio denominabitur
+in hoc genere à minori numero, & à maiori parte: & minor à maiori
+numero, & à minori parte. Nec potuit hoc genus inueniriinter duo, &
+vnum: quia (vt diximus) omnes numeri ad vnitatem sunt multiplices,
+quae quoniam indiuisibilis est, nullas habet partes, in quarum aliqua
+possit ab vllo numero superari. Et quia breues esse studemus, haec de
+genere Superparticulari dicta sufficiant: si tamen hoc solum
+admonuerimus, genus subsuperparticulare ab hoc sumi è conuerso; & esse
+illud, in quo minor numerus continetur à maiori semel, & aliqua pars
+ipsius numeratiua, vt binarius ad ternarium; & tot, & easdem species
+habere cum superparticulari, sed nominari praemissa, sub,
+praepositione, vt subsesquialtera, subsesquitertia, & sic per omnes,
 quotquot voluerimus inuenire.
+
+** [chapter 1.14]
 De quibusdam consideratione dignis circa tria genera simplicia; Multi¬
-plex, & Superparticulare, & Superpartiens: quae etiam
-pertinent ad duo composita
+plex, & Superparticulare, & Superpartiens: quae etiam pertinent ad duo
+composita
+
 CAP. XIIII.
-HAEc duo genera, de quibus locuti sumus, vnicè, & tanquam sacrosancta (vt Por¬
-phyrius ait super Harmonica Ptolemaei) venerabatur antiquitas: alterum propter
-ordinem, & alterum propter simplicitatem. In priori namque idem, qui & in nu¬
-meris, custoditur ordo: vt enim illi ab vnitate per binarium, & ternarium, & qui sequun¬
-tur naturali procedunt ordine: sic etiam multiplices à dupla per triplam, & quadruplam
-eodem ordine progrediuntur; ita vt in eis semper comes sit pars numeratiua ducis. Vocan-
-tur autem duces numeri maiores, & comites minores, vt in proportione 6. ad 3, senarius
-est dux, & ternarius comes. In superparticulari verò summa reperitur simplicitas: quan¬
-doquidem omnes eius generis proportiones in suis radicibus inter numeros sola vnitate
-distantes inueniuntur: quae simplices nuncupantur, quia sine aliarum commercio nascum¬
-tur, vt in sesquialtera, quae à ternario ad binarium inuenitur, nullus est numerus, qui in¬
-tercidat. Quod aliter accidit in omnibus multiplicibus, praeterquàm in dupla; in tripla
-enim, quae inter 3. & vnum inuenitur, binarius intercidit, qui ad vnitatem est duplus, & ad
 
+HAEc duo genera, de quibus locuti sumus, vnicè, & tanquam sacrosancta
+(vt Porphyrius ait super Harmonica Ptolemaei) venerabatur antiquitas:
+alterum propter ordinem, & alterum propter simplicitatem. In priori
+namque idem, qui & in numeris, custoditur ordo: vt enim illi ab
+vnitate per binarium, & ternarium, & qui sequuntur naturali procedunt
+ordine: sic etiam multiplices à dupla per triplam, & quadruplam eodem
+ordine progrediuntur; ita vt in eis semper comes sit pars numeratiua
+ducis. Vocantur autem duces numeri maiores, & comites minores, vt in
+proportione 6. ad 3, senarius est dux, & ternarius comes. In
+superparticulari verò summa reperitur simplicitas: quandoquidem omnes
+eius generis proportiones in suis radicibus inter numeros sola vnitate
+distantes inueniuntur: quae simplices nuncupantur, quia sine aliarum
+commercio nascumtur, vt in sesquialtera, quae à ternario ad binarium
+inuenitur, nullus est numerus, qui intercidat. Quod aliter accidit in
+omnibus multiplicibus, praeterquàm in dupla; in tripla enim, quae
+inter 3. & vnum inuenitur, binarius intercidit, qui ad vnitatem est
+duplus, & ad ternarium subsesquialter: quare in sua radice ex
+commercio duplae, & sesquialterae nasci reperitur. Sola dupla (vt
+diximus) habet hoc commune cum superparticularibus, quòd inter numeros
+sola vnitate distantes inuenitur, & sine alterius proportionis
+commercio procreatur; nam inter binarium, & vnitatem potest inueniri,
+qui proximè ad duas vnitates, in quibus aequa consistit, accedunt,
+neque ab vllo numero possunt intercipi. Et si autem numeri duplae sint
+inaequales, hoc tamen habent maxim è aequalitatis, quòd excessus est
+ęqualis ei, quod exceditur: quandoquidem binarius vnitatem excedit
+vnitate, quae est vnitati aequalis; quod nulli alij potest
+contingere. Inueniuntur praeterea in his duobus generibus duae
+quantitatis species expressae, quoniam multiplex seruat quantitatis
+discretae proprietatem, superparticulare autem continuae. quemadmodum
+enim in continui diuisione, ita in hoc numeri semper augescunt:
+multiplices verò proportiones numerorum ordinem custodiunt, quod est
+proprium quantitatis discretae. & sicut partes decrescunt, quod est
+proprium continuae: sic etiam semper superparticulares minuuntur; ita
+vt sesquialtera sit earum maxima, & à maxima denominetur parte, quae
+est dimidium; & sesquitertia sit illa minor, quia tertia pars minor
+est dimidio; & sesquiquarta minor sesquitertia, & sic quae deinceps
+sequuntur: quia minores erunt partes, a quibus denominabutur. & vt
+partes decrescunt, ita numeri succrescunt; sicut in sesquidecima, pars
+decima minor est, quàm nona, numerus verò denarius maior, quàm
+nouenarius. Hoc etiam animaduertendum est, duplam (quae minima est
+multiplicium) maiorem esse sesquialtera superparticularium maxima:
+quin potiùs duas superparticularium maximas, quae sunt sesquiaitera, &
+sesquitertia, duplam aequare; neque alias duas id efficere posse, vt
+in his numeris percipi potest. 2.3.4;a 4.ad 2. dupla,
+à 3. ad 2. sesquialtera, à 4. ad 3. sesquitertia. Tertij verò generis,
+& reliquorum parua, aut nulla mentio fit apud Graecos: sed omnes quae
+in eis proportiones consistut, vocant vt numeri ad numerum. volentes
+significare, nullam inter eos numeros praeter numeralem cognationem
+inueniri, vt 5. ad 3, & 7. ad 2. Et D. Augustinus vocat huiusmodi
+proportiones vt tot ad tot: & ex his quinque generibus duo tantum
+facit, alterum, quod appellat connumeratorum, alterum
+dinumeratorum. Et connumeratos quidem dicit eos esse, in quibus aut
+maior aliqua sui parte coaequatur minori, aut eum exuperat, vt in his
+numeris, 4. ad 2, & 8. ad 6: in quorum prioribus maior dimidia sui
+parte minori coaequatur; & in posterioribus maior quarta sui parte
+minorem exuperat. Dinumeratos autem eos esse dicit, in quibus neutrum
+horum inueniri potest, vt in his numeris, 10. ad 3, & 4. ad 11: in
+quibus neque ternarius est pars denarij, nec quaternarius vndenarij;
+neque in his, 9. & 5, quinarius nouenarij. quibus exemplis ostendit,
+superpartiens, & duo composita sub dinumeratis contineri: neque de his
+magnam esse curam habendam, vt quae multùm recedant à simplicitate, &
+ordine connumeratorum. Rursus connumeratos diuidit in complicatos, &
+sesquatos: vt complicati sint, quos Boëtius, atque alij Multiplices
+vocant: sesquati verò, qui superparticulares appellantur, vt
+sesquialter, sesquitertius, in quibus (vt ostensum est) haec
+particula, sesqui, semper inuenitur. Sunt & alij recentiores, qui duo
+tantùm genera faciunt, Multiplex, & Partiens. Et Multiplex esse
+dicunt, in quo maior numerus ita pluries minorem continet, vt nil
+deficiat, aut superet: Partiens autem, in quo maior numerus semel, aut
+pluries minorem contineat, & semper aliquid superet; nihil curantes
+sitne id, quod superat, pars, an partes: atque ita ex quatuor
+generibus vnum tantùm constituunt. Sed nos antiquorum, & doctissimorum
+vestigijs insistentes, communi incedemus via: quia facilior, & ad
+praesens institutum accommodatior est.
 
-ternarium subsesquialter: quare in sua radice ex commercio duplae, & sesquialterae nasci
-reperitur. Sola dupla (vt diximus) habet hoc commune cum superparticularibus, quòd
-inter numeros sola vnitate distantes inuenitur, & sine alterius proportionis commercio
-procreatur; nam inter binarium, & vnitatem potest inueniri, qui proximè ad duas vnitates,
-in quibus aequa consistit, accedunt, neque ab vllo numero possunt intercipi. Et si autem nu
-meri duplae sint inaequales, hoc tamen habent maxim è aequalitatis, quòd excessus est ęqua¬
-lis ei, quod exceditur: quandoquidem binarius vnitatem excedit vnitate, quae est vnitati
-aequalis; quod nulli alij potest contingere. Inueniuntur praeterea in his duobus generibus
-duae quantitatis species expressae, quoniam multiplex seruat quantitatis discretae proprie¬
-tatem, superparticulare autem continuae. quemadmodum enim in continui diuisione, ita
-in hoc numeri semper augescunt: multiplices verò proportiones numerorum ordinem cu¬
-stodiunt, quod est proprium quantitatis discretae. & sicut partes decrescunt, quod est pro¬
-prium continuae: sic etiam semper superparticulares minuuntur; ita vt sesquialtera sit ea¬
-rum maxima, & à maxima denominetur parte, quae est dimidium; & sesquitertia sit illa
-minor, quia tertia pars minor est dimidio; & sesquiquarta minor sesquitertia, & sic quae
-deinceps sequuntur: quia minores erunt partes, a quibus denominabutur. & vt partes de-
-crescunt, ita numeri succrescunt; sicut in sesquidecima, pars decima minor est, quàm no¬
-na, numerus verò denarius maior, quàm nouenarius. Hoc etiam animaduertendum est,
-duplam (quae minima est multiplicium) maiorem esse sesquialtera superparticularium ma¬
-xima: quin potiùs duas superparticularium maximas, quae sunt sesquiaitera, & sesquitertia,
-duplam aequare; neque alias duas id efficere posse, vt in his numeris percipi potest. 2.3.4;a
-4.ad 2. dupla, à 3. ad 2. sesquialtera, à 4. ad 3. sesquitertia. Tertij verò generis, & reliquorum
-parua, aut nulla mentio fit apud Graecos: sed omnes quae in eis proportiones consistut, vo
-cant vt numeri ad numerum. volentes significare, nullam inter eos numeros praeter nu¬
-meralem cognationem inueniri, vt 5. ad 3, & 7. ad 2. Et D. Augustinus vocat huiusmo¬
-di proportiones vt tot ad tot: & ex his quinque generibus duo tantum facit, alterum, quod
-appellat connumeratorum, alterum dinumeratorum. Et connumeratos quidem dicit eos
-esse, in quibus aut maior aliqua sui parte coaequatur minori, aut eum exuperat, vt in his nu
-meris, 4. ad 2, & 8. ad 6: in quorum prioribus maior dimidia sui parte minori coaequatur;
-& in posterioribus maior quarta sui parte minorem exuperat. Dinumeratos autem eos es
-se dicit, in quibus neutrum horum inueniri potest, vt in his numeris, 10. ad 3, & 4. ad 11:
-in quibus neque ternarius est pars denarij, nec quaternarius vndenarij; neque in his, 9. &
-5, quinarius nouenarij. quibus exemplis ostendit, superpartiens, & duo composita sub di¬
-numeratis contineri: neque de his magnam esse curam habendam, vt quae multùm rece¬
-dant à simplicitate, & ordine connumeratorum. Rursus connumeratos diuidit in compli
-catos, & sesquatos: vt complicati sint, quos Boëtius, atque alij Multiplices vocant: sesqua¬
-ti verò, qui superparticulares appellantur, vt sesquialter, sesquitertius, in quibus (vt osten-
-sum est) haec particula, sesqui, semper inuenitur. Sunt & alij recentiores, qui duo tantùm
-genera faciunt, Multiplex, & Partiens. Et Multiplex esse dicunt, in quo maior numerus
-ita pluries minorem continet, vt nil deficiat, aut superet: Partiens autem, in quo maior nu
-merus semel, aut pluries minorem contineat, & semper aliquid superet; nihil curantes sit¬
-ne id, quod superat, pars, an partes: atque ita ex quatuor generibus vnum tantùm consti-
-tuunt. Sed nos antiquorum, & doctissimorum vestigijs insistentes, communi incedemus
-via: quia facilior, & ad praesens institutum accommodatior est.
+** [chapter 1.15]
 De genere superpartiente, & subsuperpartiente.
+
 CAP. XV.
 
+SVperpartiens igitur genus est tertium in ordine, & superparticulare
+sequitur: quia sicut Multiplex incipit ab vnitate, & superparticulare
+ortum habet à binario; ita superpartiens initium sumit à ternario, qui
+binarium sequitur. Est ergo genus superpartiens, cùm maior numerus
+minori collatus continet eum semel, & aliquas eius partes, duas, aut
+tres, aut plures, ex quibus non possit vna conflari, quae minorem
+metiatur: vt in hac proportione, à 5. ad 3, in qua quinarius continet
+ternarium semel, & duas eius partes, ex quibus non potest fieri vna
+pars, quae ternarium metiatur: quia, si fieri posset, reduceretur ad
+multiplex, vel ad superparticulare: vt in hae proportione,6. ad 4,
+senarius cotinet quaternarium, & duas eius quartas: sed quia duae
+quartae constituunt dimidium, quae est vna, & maxima pars quaternarij;
+non superpartiens, sed superparticularis, & sesquialtera dicenda
+est. Est autem hoc genus amplissimum, & latissimum, & habet sub se
+plura genera, quae plurimas habent species: & haec genera denominantur
+à numero partium, quibus dux comitem superat, quae si erunt duae,
+dicetur superbipartiens; si tres, supertripartiens; si quatuor,
+superquadripartiens; & sic deinceps, ita tamen vt partes non adęquent
+minoris summam, vt à 99. ad 50. quia maior superat minorem
+quadragintanouem partibus, dicetui superquadragintanonipartiens
+quinquagesimas: quod si maior fuisset centum, esset dupla proportio:
+vnde sequitur,quòd omnis superpartiens semper erit minor dupla,
+quantumcunque ad eam proximè accedat. Et sciendum est, quòd
+superbipartiens incipit à ternario, quia in nullo minori numero
+possunt duae partes inueniri; & supertripartiens à quaternario, quia
+is primùm potest habere tres sui partes, & sic deinceps consequenter,
+dispositis ex vna parte naturali serie numeris à ternario
+incipientibus, & ex altera numeris imparibus à quinario, partium
+excessum habentibus, vt in hoc typo perspici poterit.
 
-SVperpartiens igitur genus est tertium in ordine, & superparticulare sequitur: quia si¬
-cut Multiplex incipit ab vnitate, & superparticulare ortum habet à binario; ita super¬
-partiens initium sumit à ternario, qui binarium sequitur. Est ergo genus superpar¬
-tiens, cùm maior numerus minori collatus continet eum semel, & aliquas eius partes, duas,
-aut tres, aut plures, ex quibus non possit vna conflari, quae minorem metiatur: vt in hac
-proportione, à 5. ad 3, in qua quinarius continet ternarium semel, & duas eius partes, ex
-quibus non potest fieri vna pars, quae ternarium metiatur: quia, si fieri posset, reduceretur
-ad multiplex, vel ad superparticulare: vt in hae proportione,6. ad 4, senarius cotinet qua-
-ternarium, & duas eius quartas: sed quia duae quartae constituunt dimidium, quae est vna,
-& maxima pars quaternarij; non superpartiens, sed superparticularis, & sesquialtera dicen
-da est. Est autem hoc genus amplissimum, & latissimum, & habet sub se plura genera, quae
-plurimas habent species: & haec genera denominantur à numero partium, quibus dux co
-mitem superat, quae si erunt duae, dicetur superbipartiens; si tres, supertripartiens; si qua¬
-tuor, superquadripartiens; & sic deinceps, ita tamen vt partes non adęquent minoris sum¬
-mam, vt à 99. ad 50. quia maior superat minorem quadragintanouem partibus, dicetui
-superquadragintanonipartiens quinquagesimas: quod si maior fuisset centum, esset du¬
-pla proportio: vnde sequitur,quòd omnis superpartiens semper erit minor dupla, quan-
-tumcunque ad eam proximè accedat. Et sciendum est, quòd superbipartiens incipit à terna
-rio, quia in nullo minori numero possunt duae partes inueniri; & supertripartiens à qua¬
-ternario, quia is primùm potest habere tres sui partes, & sic deinceps consequenter, dispo
-sitis ex vna parte naturali serie numeris à ternario incipientibus, & ex altera numeris im¬
-paribus à quinario, partium excessum habentibus, vt in hoc typo perspici poterit.
-Numeri natiua serieia 3.
-Impares a 5.
+|---------------------------+-------------------+---------------+------------+-------------+------------+---------+---------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------|
+| Numeri natiua seriei a 3. |                 3 |             4 |          5 |           6 |          7 |       8 |       9 |      10 |       11 |       12 |       13 |       14 |       15 |       16 |       17 |       18 |       19 |
+|---------------------------+-------------------+---------------+------------+-------------+------------+---------+---------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------|
+| Impares a 5.              |                 5 |             7 |          9 |          11 |         13 |      15 |      17 |      19 |       21 |       23 |       25 |       27 |       29 |       31 |       33 |       35 |       37 |
+|---------------------------+-------------------+---------------+------------+-------------+------------+---------+---------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------|
+|                           | Superbipartientes | Supertripart. | Superquad. | Superquint. | Supersext. | Super 7 | Super 8 | Super 9 | Super 10 | Super 11 | Super 12 | Super 13 | Super 14 | Super 15 | Super 16 | Super 17 | Super 18 |
+
+
+
 In his primum est superbipartiens, secundum supertripartiens, & sic deinceps omnia
 nomen sortiuntur à numero partium, quibus numeri minoresà maioribus superantur. Sed
 horum generum vnumquodque habet infinitas sub se species, denominatas quidem illas à
