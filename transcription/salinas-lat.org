@@ -2008,280 +2008,350 @@ minimos numeros reducantur.
 
 CAP. XX.
 
-OPortet etiam Harmonicum examinare solerter excessuum quantitates, quibus vna
-proportio superatur ab altera, vt possit exactas earum inter se differentias cogno¬
-scere: quam cognitionem perfectam habere nequaquam poterit, nisi priùs vnam
-ab altera discat subtrahere. Fit autem subtractio per multiplicationem numerorum ante¬
-sedentium per consequentes, ita vt antecedens proportionis vnius ducatur in consequem
-tem alterius. vt, si velimus subtrahere sesquitertiam à sesquialtera, multiplicabimus quater
-narium, antecedentem sesquitertiae, per binarium, consequentem sesquialterae, & emer¬
-get 8; & ternarium, antecedentem sesquialterae, per ternarium, consequentem sesquiter¬
-tiae, & prouenient 9, & proportio, quae est à 9. ad 8, erit reliqua ex subtractione sesquiter¬
-tiae à sesquialtera. Quod probari potest, si denuò eo modo, quo in praecedenti capite di-
-ctum est, coniungantur sesquitertia, & sesquioctaua; redibit enim sesquialtera, ex vtraque
-conflata; nam 8. in 3. ducta, faciunt 24, & 9. in 4,36. Et vt Subtractionem per Additionem,
-ita contrà & Additionem per Subtractionem probare licebit. Potest & alio modo fieri
-subtractio, si, assumptis minoribus numeris duarum proportionum, quarum maioris ad
-minorem excessum scire velimus, alterum in alterum ducamus: in eo enim numero, qui
-ex ea multiplicatione proueniet, vtraque poterit inueniri, ex quo facilè vnius ad alteram
-excessus deprehendetur. vt si scire propositum sit excessum sesquialterae ad sesquitertiam,
-ternarium, minorem sesquitertiae, ducemus in binarium, minorem sesquialterae, & proue¬
-niet senarius, qui, quoniam habet dimidiam, & tertiam partem, habebit numeros sesquial
-terum, & sesquitertium: nam, si ternarium illi superaddamus, qui est eius dimidium, emer
-get nouenarius ad eum sesquialter; &, si binarium adiungamus, proueniet octonarius, qui
-erit ad eum sesquitertius quo facto, facilè apparebit, sesquialteram esse maiorem sesquiter
+OPortet etiam Harmonicum examinare solerter excessuum quantitates,
+quibus vna proportio superatur ab altera, vt possit exactas earum
+inter se differentias cognoscere: quam cognitionem perfectam habere
+nequaquam poterit, nisi priùs vnam ab altera discat subtrahere. Fit
+autem subtractio per multiplicationem numerorum antesedentium per
+consequentes, ita vt antecedens proportionis vnius ducatur in
+consequemtem alterius. vt, si velimus subtrahere sesquitertiam à
+sesquialtera, multiplicabimus quaternarium, antecedentem
+sesquitertiae, per binarium, consequentem sesquialterae, & emerget 8;
+& ternarium, antecedentem sesquialterae, per ternarium, consequentem
+sesquitertiae, & prouenient 9, & proportio, quae est à 9. ad 8, erit
+reliqua ex subtractione sesquitertiae à sesquialtera. Quod probari
+potest, si denuò eo modo, quo in praecedenti capite dictum est,
+coniungantur sesquitertia, & sesquioctaua; redibit enim sesquialtera,
+ex vtraque conflata; nam 8. in 3. ducta, faciunt 24, & 9. in 4,36. Et
+vt Subtractionem per Additionem, ita contrà & Additionem per
+Subtractionem probare licebit. Potest & alio modo fieri subtractio,
+si, assumptis minoribus numeris duarum proportionum, quarum maioris ad
+minorem excessum scire velimus, alterum in alterum ducamus: in eo enim
+numero, qui ex ea multiplicatione proueniet, vtraque poterit inueniri,
+ex quo facilè vnius ad alteram excessus deprehendetur. vt si scire
+propositum sit excessum sesquialterae ad sesquitertiam, ternarium,
+minorem sesquitertiae, ducemus in binarium, minorem sesquialterae, &
+proueniet senarius, qui, quoniam habet dimidiam, & tertiam partem,
+habebit numeros sesquialterum, & sesquitertium: nam, si ternarium illi
+superaddamus, qui est eius dimidium, emerget nouenarius ad eum
+sesquialter; &, si binarium adiungamus, proueniet octonarius, qui erit
+ad eum sesquitertius quo facto, facilè apparebit, sesquialteram esse
+maiorem sesquitertia ea proportione, quæ est a 9. ad 8, vt ostendit
+hic typus.
 
+[figure 1 pdf page 67, book page 24]
 
-tia ea proportione, quæ est a 9. ad 8, vt ostendit hic typus.
-Et eodem modo in quibuslibet alijs & vna ab altera subtrahi, & vnius ad alteram exces¬
-sus poterit inueniri. Et quoniam saepe necesse est, radices alicuius proportionis inuestiga
-re, & minimos, in quibus reperiri potest, numeros inuenire, id hac via commodissimè fie¬
-ri poterit; Si minorem numerum toties a maiore subtrahamus, donec ad numerum mini¬
-mum, qui vtrumque metiatur, perueniamus, qui si erit vnitas, nequaquam vlteriùs erit pro¬
-grediendum, vt si velimus proportionem, quę est à 24. ad 15, ad suas radices reducere, pri
-mùm inuestigandus est numerus, qui sit vtriusque communis mensura. subtrahatur igi¬
-tur 15.à 24, & relinquetur 9, quo subtracto à 15, restabit 6, quem si à 9. auferas, relinque¬
-tur 3, quo a 6. subtracto, restabit etiam 3; & quia 3. à seipso subtrahi non potest, is erit nu¬
-merus, qui vtrumque metietur. quare proportio 24. ad 15. erit per 3. diuidenda, & ad tertias par
-tes reducenda, quae erunt 5. & 8. Et si velimus examinare, sintne hi numeri ipsius minimi,
-an ad minores possint reduci, eadem via erit inuestigandum, subtrahendo videlicet quina-
-rium ab octonario, & restabit ternarius, quo subtracto à quinario relinquetur binarius,
-quo sublato à ternario restabit vnitas, quae sola erit communis quinarij, & octonarij men¬
-sura: quamobrem vlteriùs procedi non poterit, & hi erunt minimi numeri huius propor
-tionis. Et hac etiam regula poterunt cognosci numeri contra se primi, de quorum natu¬
-ra, & proprietatibus superius abundè dictum est: vt si scire velimus, vtrùm hi duo nume¬
-ri, 9. & 25, (quorum vterque compositus est, alter ex ternarij, alter ex quinarij mult plica
-tione) sint contra se primi, eadem via procedendum erit. nam subtractis 9.à 25. restabunt
-16, eisdem à 16. sublatis, relinquentur 7, quibus à 9. subtractis, restabunt 2, & his à 7. subtra
-ctis, reliqui erunt 5, & à 5. 3, & a 3.1, quo sublato a 2, relinquetur ipsamet vnitas, quae sola
-metietur vtrumque. Quod non ita euenit in his numeris, 9. & 21: nam si fiat idem, terna¬
-rius vtriusque reperietur esse mensura. quare non erunt contra se primi; & proportio, quae
-in huiusmodi numeris reperietur, ad minores numeros reduci poterit, quod non contin
-git in numeris contra se primis, sed, siue vterque sit impar, vt 9. & 2 5, siue sit alter par, & al
-ter impar, vt 64. & 8i; proportio, quae in eis inuenietur, ad minores numeros reduci non
-poterit. Nunc autem ad resiqua, quae praesenti sunt instituto necessaria, pergamus.
+Et eodem modo in quibuslibet alijs & vna ab altera subtrahi, & vnius
+ad alteram excessus poterit inueniri. Et quoniam saepe necesse est,
+radices alicuius proportionis inuestigare, & minimos, in quibus
+reperiri potest, numeros inuenire, id hac via commodissimè fieri
+poterit; Si minorem numerum toties a maiore subtrahamus, donec ad
+numerum minimum, qui vtrumque metiatur, perueniamus, qui si erit
+vnitas, nequaquam vlteriùs erit progrediendum, vt si velimus
+proportionem, quę est à 24. ad 15, ad suas radices reducere, primùm
+inuestigandus est numerus, qui sit vtriusque communis
+mensura. subtrahatur igitur 15.à 24, & relinquetur 9, quo subtracto à
+15, restabit 6, quem si à 9. auferas, relinquetur 3, quo
+a 6. subtracto, restabit etiam 3; & quia 3. à seipso subtrahi non
+potest, is erit numerus, qui vtrumque metietur. quare
+proportio 24. ad 15. erit per 3. diuidenda, & ad tertias partes
+reducenda, quae erunt 5. & 8. Et si velimus examinare, sintne hi
+numeri ipsius minimi, an ad minores possint reduci, eadem via erit
+inuestigandum, subtrahendo videlicet quinarium ab octonario, &
+restabit ternarius, quo subtracto à quinario relinquetur binarius, quo
+sublato à ternario restabit vnitas, quae sola erit communis quinarij,
+& octonarij mensura: quamobrem vlteriùs procedi non poterit, & hi
+erunt minimi numeri huius proportionis. Et hac etiam regula poterunt
+cognosci numeri contra se primi, de quorum natura, & proprietatibus
+superius abundè dictum est: vt si scire velimus, vtrùm hi duo
+numeri, 9. & 25, (quorum vterque compositus est, alter ex ternarij,
+alter ex quinarij multiplicatione) sint contra se primi, eadem via
+procedendum erit. nam subtractis 9.à 25. restabunt 16, eisdem
+à 16. sublatis, relinquentur 7, quibus à 9. subtractis, restabunt 2, &
+his à 7. subtractis, reliqui erunt 5, & à 5. 3, & a 3.1, quo sublato a
+2, relinquetur ipsamet vnitas, quae sola metietur vtrumque. Quod non
+ita euenit in his numeris, 9. & 21: nam si fiat idem, ternarius
+vtriusque reperietur esse mensura. quare non erunt contra se primi; &
+proportio, quae in huiusmodi numeris reperietur, ad minores numeros
+reduci poterit, quod non contingit in numeris contra se primis, sed,
+siue vterque sit impar, vt 9. & 2 5, siue sit alter par, & alter
+impar, vt 64. & 8i; proportio, quae in eis inuenietur, ad minores
+numeros reduci non poterit. Nunc autem ad resiqua, quae praesenti sunt
+instituto necessaria, pergamus.
+
+** [chapter 1.21]
 De Arithmetica Proportionalitate
-XXI.
-CAP.
-Am tandem de Proportionalitatibus agendum est, quas Analogias Græci vocant, in
-quibus porportio ipsa medio aliquò inuenitur diuisa, & ex vna in duas dissoluta. Scien
-dum verò est, quosdam politioris literaturae viros vocem Graecorum aν vertere ra
-tionem, & avaias proportionem: nos contrà nν proportionem, & advie propor-
-tionalitatem vocamus, tum vt Boëtium, & alios grauissimos autores sequamur, tum quòd,
-vt avadoylar ano roù doyn, ita & proportionalitas à proportione deriuatur. Est autem pro-
-portionalitas proportionum inter se habitudo, sicut proportio numerorum. Et quemad
-modum proportio in paucioribus, quàm duobus numeris, reperiri non potest; sic etiam
-proportionalitas ex duabus saltem proportionibus constare debet, & tribus numeris, quo¬
-rum medius eas conuenienter diuidat. Et quamquàm tempore Boëtij decem diuidenda
-rum proportionum modi fuerant inuenti, quibus vndecimum Iordanus, cui plurimùm
 
+XXI. CAP.
 
-Arithmetica debet, adiecit; nos tamen tribus his, quas Pythagoram Boëtius asserit inue-
-nisse, erimus in praesentia contenti; de quibus tantum ab Arist. & Platone factam esse men
-tionem compertum est, & quae solae, ad faciendas rerum Musicalium speculationes, sunt
-necessarię; quae sunt Arithmetica, Geometrica, & Harmonica. Prima autem est Arithme
-tica, quae mediatio fiumeralis Latinè dici potest, quandoquidem numerus natura prior est
-mensura, & harmonia; quamobrem de medio Arithmetico priùs, quàm de alijs, agemus,
-& de eo, atque alijs, ea tantùm afferemus, quae huic instituto videbuntur esse necessaria,
-quàm plurimis, scitu dignissimis, his, qui exactam Arithmeticae cognitionem prositentur,
-relictis. Medium ergo Arithmeticum dicimus esse illud, quod ab vtroque extromo per
-aequales differentias, & inaequales proportiones disiunctum est. Vocamus autem differen¬
-tias excessuum quantitates, quae inter ipsos inuicem numeros inueniuntur: vt in ea pro¬
-portione, quae est ab 8. ad 4, dicimus 6. medium Arithmeticum esse: quia distat ab vtroque
-per aequalem differentiam, quae est binarius; sed per inaequales proportiones, quia 6. ad 4.
-facit sesquialteram, 8. verò ad 6. sesquitertiam: vt liquidò constat in his numeris, 4. 6. 8, in
-quibus eadem est differentia à 6. ad 4, quae à 6. ad 8, nam vtraque est binarius; sed non ea¬
-dem, vt diximus, proportio. Sed in hac proportionalitate potissimùm à Musico videtur es
-se considerandum, quòd in ea maiores proportiones in minoribus numeris, & minores in
-maioribus collocatae reperiuntur; vt in hac dupla 4. ad 2. per hoc medium Arithmeticum
-3. diuisa in sesquialteram, & sesquitertiam, sesquialtera, quae maior est, à 3. ad 2, qui nume¬
-ri sunt minores, inuenitur; & à 4. ad 3, qui maiores, sesquitertia; vt ostendunt hi numeri,
-2.3.4. Modus autem medij Arithmetici inueniendi commodissimus erit, si duo extrema
-coniungantur, & dimidium eius summae capiatur, quod erit medium quaesitum; vt in hac
-eadem dupla, 4. & 2. aggregati faciunt 6, cuius summae dimidium est 3, qui medium in ę¬
-est Arithmeticum. Est tamen aduertendum, quòd, si numerus, ex duorum extremorum
-aggregatione proueniens, fuerit impar, (quod contingit cum extremorum alter est par,
-alter impar) quia medietatem non habebit, duplicandi erunt extremi, & tunc, qui proue¬
-niet, erit par, atque eius dimidium poterit assumi: vt, si velimus inuenire medium huius
-proportionis 3. ad 2, quia ex eorum collectione conficitur quinarius, qui est impar, non
-poterit inter eos medium inueniri, atque etiam, quia sola distant vnitate, quae indiuisibi¬
-lis est; quare duplicandi sunt, vt proueniant 4. & 6, qui simul sumpti faciunt 10, cuius di¬
-midium erit 5, qui medium erit inter eos. Et haec de Arithmetica proportionalitate dixis
-se sit satis.
+Am tandem de Proportionalitatibus agendum est, quas Analogias Græci
+vocant, in quibus porportio ipsa medio aliquò inuenitur diuisa, & ex
+vna in duas dissoluta. Sciendum verò est, quosdam politioris
+literaturae viros vocem Graecorum aν vertere rationem, & avaias
+proportionem: nos contrà nν proportionem, & advie proportionalitatem
+vocamus, tum vt Boëtium, & alios grauissimos autores sequamur, tum
+quòd, vt avadoylar ano roù doyn, ita & proportionalitas à proportione
+deriuatur. Est autem proportionalitas proportionum inter se habitudo,
+sicut proportio numerorum. Et quemad modum proportio in paucioribus,
+quàm duobus numeris, reperiri non potest; sic etiam proportionalitas
+ex duabus saltem proportionibus constare debet, & tribus numeris,
+quorum medius eas conuenienter diuidat. Et quamquàm tempore Boëtij
+decem diuidendarum proportionum modi fuerant inuenti, quibus vndecimum
+Iordanus, cui plurimùm Arithmetica debet, adiecit; nos tamen tribus
+his, quas Pythagoram Boëtius asserit inuenisse, erimus in praesentia
+contenti; de quibus tantum ab Arist. & Platone factam esse mentionem
+compertum est, & quae solae, ad faciendas rerum Musicalium
+speculationes, sunt necessarię; quae sunt Arithmetica, Geometrica, &
+Harmonica. Prima autem est Arithmetica, quae mediatio fiumeralis
+Latinè dici potest, quandoquidem numerus natura prior est mensura, &
+harmonia; quamobrem de medio Arithmetico priùs, quàm de alijs, agemus,
+& de eo, atque alijs, ea tantùm afferemus, quae huic instituto
+videbuntur esse necessaria, quàm plurimis, scitu dignissimis, his, qui
+exactam Arithmeticae cognitionem prositentur, relictis. Medium ergo
+Arithmeticum dicimus esse illud, quod ab vtroque extromo per aequales
+differentias, & inaequales proportiones disiunctum est. Vocamus autem
+differentias excessuum quantitates, quae inter ipsos inuicem numeros
+inueniuntur: vt in ea proportione, quae est ab 8. ad 4,
+dicimus 6. medium Arithmeticum esse: quia distat ab vtroque per
+aequalem differentiam, quae est binarius; sed per inaequales
+proportiones, quia 6. ad 4. facit sesquialteram, 8. verò
+ad 6. sesquitertiam: vt liquidò constat in his numeris, 4. 6. 8, in
+quibus eadem est differentia à 6. ad 4, quae à 6. ad 8, nam vtraque
+est binarius; sed non eadem, vt diximus, proportio. Sed in hac
+proportionalitate potissimùm à Musico videtur esse considerandum, quòd
+in ea maiores proportiones in minoribus numeris, & minores in
+maioribus collocatae reperiuntur; vt in hac dupla 4. ad 2. per hoc
+medium Arithmeticum 3. diuisa in sesquialteram, & sesquitertiam,
+sesquialtera, quae maior est, à 3. ad 2, qui numeri sunt minores,
+inuenitur; & à 4. ad 3, qui maiores, sesquitertia; vt ostendunt hi
+numeri, 2.3.4. Modus autem medij Arithmetici inueniendi commodissimus
+erit, si duo extrema coniungantur, & dimidium eius summae capiatur,
+quod erit medium quaesitum; vt in hac eadem dupla, 4. & 2. aggregati
+faciunt 6, cuius summae dimidium est 3, qui medium in ęa est
+Arithmeticum. Est tamen aduertendum, quòd, si numerus, ex duorum
+extremorum aggregatione proueniens, fuerit impar, (quod contingit cum
+extremorum alter est par, alter impar) quia medietatem non habebit,
+duplicandi erunt extremi, & tunc, qui proueniet, erit par, atque eius
+dimidium poterit assumi: vt, si velimus inuenire medium huius
+proportionis 3. ad 2, quia ex eorum collectione conficitur quinarius,
+qui est impar, non poterit inter eos medium inueniri, atque etiam,
+quia sola distant vnitate, quae indiuisibilis est; quare duplicandi
+sunt, vt proueniant 4. & 6, qui simul sumpti faciunt 10, cuius
+dimidium erit 5, qui medium erit inter eos. Et haec de Arithmetica
+proportionalitate dixisse sit satis.
+
+** [chapter 1.22]
 De Proportionalitate Geometrica.
+
 CAP. XXII.
-PRoportionalitas Geometrica est ea, in qua medium distat ab vtroque extremo per
-æequales proportiones, & inaequales differentias: vt, in proportione 4. ad 1. medium
-Geometricum erit 2, qui est duplus ad vnitatem, quemadmodum quaternarius ad
-eum etiam est duplus. Et differentiae sunt inaequales, quia binarius ab vnitate distat per
-ynitatem, & à quaternario per binarium, quod demonstrant hi numeri.
+
+PRoportionalitas Geometrica est ea, in qua medium distat ab vtroque
+extremo per æequales proportiones, & inaequales differentias: vt, in
+proportione 4. ad 1. medium Geometricum erit 2, qui est duplus ad
+vnitatem, quemadmodum quaternarius ad eum etiam est duplus. Et
+differentiae sunt inaequales, quia binarius ab vnitate distat per
+unitatem, & à quaternario per binarium, quod demonstrant hi numeri.
+
 Excellus
 Geaneries Lusluge laillo.
 Dupla Dupla
 Quadrupla.
-Huiusmodi mediatio in multò paucioribus proportionibus inuenitur, quàm aliarum
-quælibet: quoniam in his tantùm inueniri potest, quæe ex aggregatione duarum aequalium
+
+[figure 1 pdf page 68, book page 25]
 
 
-reperiuntur esse compositae, in quas etiam diuidi poterunt: vt in quadrupla, quae compo¬
-nitur ex duabus duplis, vt in praemisso typo ostendimus; & in noncupla, quae constat ex
-duabus triplis, vt 1. 3. 9; & in ea, quae est a 9. ad 4, quae ex duabus sesquialteris componitur,
-vt apparet in his numeris, 4.6.9; & in ea, quæe est a 25. ad 9, quæ componitur ex duabus su
-perbipartiontibus tertias, vt ostendunt hi numeri, 9. 15. 25. Atque ita passim occurrent
-ex empla in omnibus generibus proportionum; praeterquàm in superparticulari, cuius nul¬
-la proportio, in duò aequa certo constitutóque numero diuisa, poterit inueniri. Habet
-etiam naec proportionalitas hoc sibi peculiare, quòd numerus, qui vocatur in ea diuisor
-Geometricus, in seipsum ductus, facit eandem summam, quam duo extrema, altero in al¬
-terum ducto: vt in hac proportione 9. ad 4. medium Geometricum est 6, quoniam eandem
-proportionem facit ad 4, quam 9. ad ipsum, vtraque enim est sesquialtera; & differentiae,
-sunt inaequales, quoniam a quaternario distat binario, & à nouenario ternario; ductus au
-tem in seipsum facit 36, & 9. in 4. ductus, in eandem excrescit summam. Quamobrem nul
-lus est accommodatior modus inueniendi medij Geometrici, quàm duos numeros eius
-proportionis, quam Geometricè diuidère proponemus, vnum in alterum ducere, ac dein¬
-de inter eos quaerere aliquem, qui ductus in seipsum eandem summam, quam illi fecerint.
-constituat; vt si velimus diuidere Geometricè eam proportionem, quae est à 16. ad 9, in-
-ueniemus ex altero in alterum ducto prouenire 144. Neque vllus est inter eos numerus,
-qui, ductus in seipsum, eandem summam faciat, nisi duodenarius; quare is erit Geometri¬
-cus eius diuisor, quoniam eandem proportionem facit ad 9, quam 16. ad ipsum, vtraque
-enim est sesquitertia. Atque haec visa sunt nobis, quae Musicum in hac proportionalitate
-considerare oporteret. Solùm hoc illum admonendum putauimus, in numeris vniuscu¬
-iusque proportionis, Geometricè diuidendae, duos numeros, qui sint eius radices, sem¬
-per esse quadratos. nam si diuidenda est in duas ęquales, (vt Geometrica postulat diuisio
-oportet eam ex duabus etiam aequalibus esse compositam; quam compositionem supe¬
-riùs duplationem diximus appellari, duplationem autem cuiuscunque proportionis fie¬
-ri, per duorum numerorum, in quibus inuenitur simpla, quadrationem. Quare necesse
-erit, illos, in quibus inuenitur duplata, quadratos esse. Etiam hoc animaduersione dignum
-est, inter duos quadratos medium Geometricum semper esse longilaterum, & inter duos
-longilateros quadratum esse medium Arithmeticum: prioris exemplum, 1.2.4; posterio¬
-ris, 2.4.6. Et hæc de Geometrica proportionalitate dicta sufficiant.
+Huiusmodi mediatio in multò paucioribus proportionibus inuenitur, quàm
+aliarum quælibet: quoniam in his tantùm inueniri potest, quæe ex
+aggregatione duarum aequalium reperiuntur esse compositae, in quas
+etiam diuidi poterunt: vt in quadrupla, quae componitur ex duabus
+duplis, vt in praemisso typo ostendimus; & in noncupla, quae constat
+ex duabus triplis, vt 1. 3. 9; & in ea, quae est a 9. ad 4, quae ex
+duabus sesquialteris componitur, vt apparet in his numeris, 4.6.9; &
+in ea, quæe est a 25. ad 9, quæ componitur ex duabus
+superbipartiontibus tertias, vt ostendunt hi numeri, 9. 15. 25. Atque
+ita passim occurrent ex empla in omnibus generibus proportionum;
+praeterquàm in superparticulari, cuius nulla proportio, in duò aequa
+certo constitutóque numero diuisa, poterit inueniri. Habet etiam naec
+proportionalitas hoc sibi peculiare, quòd numerus, qui vocatur in ea
+diuisor Geometricus, in seipsum ductus, facit eandem summam, quam duo
+extrema, altero in alterum ducto: vt in hac
+proportione 9. ad 4. medium Geometricum est 6, quoniam eandem
+proportionem facit ad 4, quam 9. ad ipsum, vtraque enim est
+sesquialtera; & differentiae, sunt inaequales, quoniam a quaternario
+distat binario, & à nouenario ternario; ductus autem in seipsum facit
+36, & 9. in 4. ductus, in eandem excrescit summam. Quamobrem nullus
+est accommodatior modus inueniendi medij Geometrici, quàm duos numeros
+eius proportionis, quam Geometricè diuidère proponemus, vnum in
+alterum ducere, ac deinde inter eos quaerere aliquem, qui ductus in
+seipsum eandem summam, quam illi fecerint. constituat; vt si velimus
+diuidere Geometricè eam proportionem, quae est à 16. ad 9, inueniemus
+ex altero in alterum ducto prouenire 144. Neque vllus est inter eos
+numerus, qui, ductus in seipsum, eandem summam faciat, nisi
+duodenarius; quare is erit Geometricus eius diuisor, quoniam eandem
+proportionem facit ad 9, quam 16. ad ipsum, vtraque enim est
+sesquitertia. Atque haec visa sunt nobis, quae Musicum in hac
+proportionalitate considerare oporteret. Solùm hoc illum admonendum
+putauimus, in numeris vniuscuiusque proportionis, Geometricè
+diuidendae, duos numeros, qui sint eius radices, semper esse
+quadratos. nam si diuidenda est in duas ęquales, (vt Geometrica
+postulat diuisio oportet eam ex duabus etiam aequalibus esse
+compositam; quam compositionem superiùs duplationem diximus appellari,
+duplationem autem cuiuscunque proportionis fieri, per duorum
+numerorum, in quibus inuenitur simpla, quadrationem. Quare necesse
+erit, illos, in quibus inuenitur duplata, quadratos esse. Etiam hoc
+animaduersione dignum est, inter duos quadratos medium Geometricum
+semper esse longilaterum, & inter duos longilateros quadratum esse
+medium Arithmeticum: prioris exemplum, 1.2.4; posterioris, 2.4.6. Et
+hæc de Geometrica proportionalitate dicta sufficiant.
+
+** [chapter 1.23]
 De Proportionalitate Harmonica.
-CAP. XXIII.
-REliquum est, vt de proportionalitate Harmonica dicamus, quę sic dicta fuisse vide
-tur, quòd maximè ad harmoniam apta sit: consonantiae enim harmonicè diuisę Har
-moniae vocantur à Musicis, quae proportionibus, harmonica mediatione disiun¬
-ctis, respondere, suo loco demonstrabuntur. Est autem Harmonica proportionalitas, in
-qua medium ad extrema nec seruat aequalitatem differentiarum, vt Arithmeticum, nec
-proportionum, vt Geometricum; sed ita collocatum est inter ea, vt, quae proportio est al¬
-terius ad alterum extremorum, eadem sit differentiae maximi, & medij ad differentiam
-medij, & minimi. vt in hac proportione, 6.ad 3, in qua medium harmonicum erit 4: quia
-differentiae 6. ad 4, quae est binarius, ad differentiam 4. ad 3, quae est vnitas, eadem est pro¬
-portio cum ea, quæe est à 6. ad 3, vtraque enim esse dupla reperitur, yt apparet in huis nume
-ris.
 
+CAP. XXIII.
+
+REliquum est, vt de proportionalitate Harmonica dicamus, quę sic dicta
+fuisse vide tur, quòd maximè ad harmoniam apta sit: consonantiae enim
+harmonicè diuisę Harmoniae vocantur à Musicis, quae proportionibus,
+harmonica mediatione disiunctis, respondere, suo loco
+demonstrabuntur. Est autem Harmonica proportionalitas, in qua medium
+ad extrema nec seruat aequalitatem differentiarum, vt Arithmeticum,
+nec proportionum, vt Geometricum; sed ita collocatum est inter ea, vt,
+quae proportio est alterius ad alterum extremorum, eadem sit
+differentiae maximi, & medij ad differentiam medij, & minimi. vt in
+hac proportione, 6.ad 3, in qua medium harmonicum erit 4: quia
+differentiae 6. ad 4, quae est binarius, ad differentiam 4. ad 3, quae
+est vnitas, eadem est proportio cum ea, quæe est à 6. ad 3, vtraque
+enim esse dupla reperitur, yt apparet in huis numeris.
 
 DVPLA
 Differentia Medij & extremorum.
-Harmonica Duplediuisio.
+Harmonica Duplae divisio.
 Sesquialtera Sesquitertia
 DVPLA
-Hoc multò breuiùs & concinniùs in Timaeo Plato videtur expressisse, vbi medium harmoni
-cum eisdem ipsorum extremorum partibus alterum superare, & ab altero ait superari; vt
-8. inter sex & duodecim, quoniam superat senarium tertia senarij parte, & superatur à duo¬
-denario tertia etiam parte duodenarij. Sciendum est autem harmonicam proportionali¬
-tatem nihil aliud esse, quàm Arithmeticam inuersam. in easdem enim proportiones in¬
-uenitur diuisa: nisi quod maiores proportiones, in illa minoribus comprehensę numeris, in
-hac ad maiores transferuntur; & minores (vt par est) in minoribus numeris collocantur,
-&, si fieri potest, in ijsdem, in quibus antè fuerant, remanent collocatae. vt in hac dupla
-Arithmeticè diuisa,2.3.4, quam si harmonicè mediatam habere velimus, sesquialtera pro¬
-portio, quae est à 3. ad 2, transferenda est ad maiores numeros, &, vt sesquitertia, in quibus
-erat, collocata remaneat, examinandum est, vtrùm 4. habeat supra se sesquialterum, quem
-necessariò, cùm par sit, habebit, si ipsi dimidium eius, quod est 2, aggregetur, vnde proue¬
-niet 6, à quo ad 4. erit sesquialtera, & à 4. ad 3. sesquitertia, vt erat antè, relinquetur. atque
-ita maior proportio in maioribus numeris, & minor in minoribus (quod harmonicę pro¬
-portionalitatis proprium est) inuenitur. Quod ostendunt hi numeri:
-Muarpanes properionlines
-Arithmetca proportionautas
+
+[figure 1 pdf page 70, book page 27]
+
+Hoc multò breuiùs & concinniùs in Timaeo Plato videtur expressisse,
+vbi medium harmonicum eisdem ipsorum extremorum partibus alterum
+superare, & ab altero ait superari; vt 8. inter sex & duodecim,
+quoniam superat senarium tertia senarij parte, & superatur à
+duodenario tertia etiam parte duodenarij. Sciendum est autem
+harmonicam proportionalitatem nihil aliud esse, quàm Arithmeticam
+inuersam. in easdem enim proportiones inuenitur diuisa: nisi quod
+maiores proportiones, in illa minoribus comprehensę numeris, in hac ad
+maiores transferuntur; & minores (vt par est) in minoribus numeris
+collocantur, &, si fieri potest, in ijsdem, in quibus antè fuerant,
+remanent collocatae. vt in hac dupla Arithmeticè diuisa,2.3.4, quam si
+harmonicè mediatam habere velimus, sesquialtera proportio, quae est
+à 3. ad 2, transferenda est ad maiores numeros, &, vt sesquitertia, in
+quibus erat, collocata remaneat, examinandum est, vtrùm 4. habeat
+supra se sesquialterum, quem necessariò, cùm par sit, habebit, si ipsi
+dimidium eius, quod est 2, aggregetur, vnde proueniet 6, à quo
+ad 4. erit sesquialtera, & à 4. ad 3. sesquitertia, vt erat antè,
+relinquetur. atque ita maior proportio in maioribus numeris, & minor
+in minoribus (quod harmonicę proportionalitatis proprium est)
+inuenitur. Quod ostendunt hi numeri:
+
+Harmonica proportionalitas
+Arithmetca proportionalitas
 PSesgalera Sesqui z. Sesgaltera
 DVPLA
 DVPLA
-Restat nunc, yt modum harmonici medij inueniendi diligenter exquiramus, qui facilis
-erit inuentu, habito priùs Arithmetico. quoniam vbi non poterit inueniri Arithmeticum,
-neutiquam inuenietur harmonicum: quandoquidem harmonica proportionalitas Arith
-meticae, vt diximus, est inuersa. Inuento igitur ad modum, quem superiùs ostendimus,
-Arithmetico, primùm inquirendum est, vtrùm habeat supra se numerum, qui ad eum fa¬
-ciat eandem proportionem cum ea, cuius est medius, quem si habuerit, illo assumpto, pro¬
-portio harmonicè reperietur diuisa: in qua ipse, qui erat medium in proportionalitate Arith
-metica, erit minus extremum in Harmonica; & qui erat maius extremum in Arithmeti¬
-ca, erit medium harmonicum; & numerus assumptus maius erit extremum. Vt, si velimus
-harmonicè diuidere hanc triplam, quae est à 3. ad 1,accipiemus medium eius Arithmeti¬
-cum, quod est 2, & inquiremus numerum eius triplum, qui erit 6. Atque ita proportio,
-quæe erat à 3. ad 1. Arithmeticè diuisa, inuenietur harmonicè mediata à 6. ad 2: & 3. maius
-extremum in proportionalitate Arithmetica, erit medium in harmonica; & 2. medium
-Arithmeticae, minus extremum; & 6. numerus assumptus, erit maius. vt percipi potest in
-his numeris:
 
+[figure 2 pdf page 70, book page 27]
+
+
+Restat nunc, yt modum harmonici medij inueniendi diligenter
+exquiramus, qui facilis erit inuentu, habito priùs
+Arithmetico. quoniam vbi non poterit inueniri Arithmeticum, neutiquam
+inuenietur harmonicum: quandoquidem harmonica proportionalitas
+Arithmeticae, vt diximus, est inuersa. Inuento igitur ad modum, quem
+superiùs ostendimus, Arithmetico, primùm inquirendum est, vtrùm habeat
+supra se numerum, qui ad eum faciat eandem proportionem cum ea, cuius
+est medius, quem si habuerit, illo assumpto, proportio harmonicè
+reperietur diuisa: in qua ipse, qui erat medium in proportionalitate
+Arithmetica, erit minus extremum in Harmonica; & qui erat maius
+extremum in Arithmetica, erit medium harmonicum; & numerus assumptus
+maius erit extremum. Vt, si velimus harmonicè diuidere hanc triplam,
+quae est à 3. ad 1,accipiemus medium eius Arithmeticum, quod est 2, &
+inquiremus numerum eius triplum, qui erit 6. Atque ita proportio, quæe
+erat à 3. ad 1. Arithmeticè diuisa, inuenietur harmonicè mediata
+à 6. ad 2: & 3. maius extremum in proportionalitate Arithmetica, erit
+medium in harmonica; & 2. medium Arithmeticae, minus extremum;
+& 6. numerus assumptus, erit maius. vt percipi potest in his numeris:
 
 TRIPLA Arithmnetice diuisa.
-MEDIVMI Maius ex-
-Minusex-
-Arithmeti¬
-tremum
-tremum
-cùm.
-MEDIVM Maius ex¬
-Minus ex-
-tremum
-Harmoni-
-tremum
-cum
-TRIP LA Harmonce diuisi.
-Quòd si nullus in maioribus numeris inuenietur, qui ad Arithmeticum diuisorem ean¬
-dem faciat proportionem cum ea, quam ipse diuisit; duplicandi, aut triplicandi erunt nu
-meri, donec inueniatur. neque id temerè faciendum est, sed regula quadam adhibita. Quo¬
-niam in multiplicibus ferme omnibus inuenietur, vt in dupla, & tripla paulò superiùs osten
-sum est, & in quadrupla, ac quintupla ostendent hi numeri:
-QVADRVPLA diuidenda.
-Quadrupladiusa Arichmetice
-Qusdrupla diuisa Harmonice
-QVINTVPLA
-Arithmeticè diuisa
-Harmonice diuisa
-QVINTVPLA
-Et sic in omnibus ferè multiplicibus passim occurrent exempla. Sed in superparticulari¬
-bus multò certiori, & constantiori ordine procedendum est. Nam, vt in omnibus, ad in¬
-ueniendum medium Arithmeticum, necessariò duplicandi sunt numeri; ita ad inuenien¬
-dum harmonicum, inuento Arithmetico, in sesquialtera sunt duplicandi, in sesquitertia
-triplicandi, in sesquiquarta quadruplandi: & hoc ordine seruato, in omnibus superparti¬
-cularibus medium harmonicum facilimè poterit inueniri, vt his tribus exemplis satis erit
-omnibus manifestum:
+
+[figure 1 pdf page 71, book page 28]
+
+Quòd si nullus in maioribus numeris inuenietur, qui ad Arithmeticum
+diuisorem eandem faciat proportionem cum ea, quam ipse diuisit;
+duplicandi, aut triplicandi erunt numeri, donec inueniatur. neque id
+temerè faciendum est, sed regula quadam adhibita. Quoniam in
+multiplicibus ferme omnibus inuenietur, vt in dupla, & tripla paulò
+superiùs osten sum est, & in quadrupla, ac quintupla ostendent hi
+numeri:
+
+[figure 2 pdf page 71, book page 28]
+
+Et sic in omnibus ferè multiplicibus passim occurrent exempla. Sed in
+superparticularibus multò certiori, & constantiori ordine procedendum
+est. Nam, vt in omnibus, ad inueniendum medium Arithmeticum,
+necessariò duplicandi sunt numeri; ita ad inueniendum harmonicum,
+inuento Arithmetico, in sesquialtera sunt duplicandi, in sesquitertia
+triplicandi, in sesquiquarta quadruplandi: & hoc ordine seruato, in
+omnibus superparticularibus medium harmonicum facilimè poterit
+inueniri, vt his tribus exemplis satis erit omnibus manifestum:
+
 EXEMPLVM PRIMVM.
 2. 3. SESQVIALTERA diuidenda.
 4. 5. 6. Sesquialtera diuisa Arithmeticè.
 8.10.12. Numeri Arithmeticae proportionalitatis duplicati.
 10.12. 15. Sesquialtera divisa Harmonice.
+
 EXEMPLVM SECVNDVM.
 3. 4. SESQVITERTIA diuidenda.
 6. 7. 8. Arithmeticè diuisa.
 18.21.24. Triplicati numeri.
 21.24.28. Harmonicè diuisa.
+
 EXEMPLVM TERTIVM.
 4. 5. SESQVIQVARTA diuidenda.
 8. 9.10. Arithmeticè diuisa.
 32. 36.40. Quadruplati numeri.
 36.40.45. Harmonicè diuisa.
 
+Atque hic modus inueniendi medij harmonici mihi videtur esse multò
+facilior, & commodior, quàm is qui traditus est ab antiquis, & adhuc
+in omnibus docetur scholis.
 
-Atque hic modus inueniendi medij harmonici mihi videtur esse multò facilior, & com¬
-modior, quàm is qui traditus est ab antiquis, & adhuc in omnibus docetur scholis.
+** [chapter 1.24]
 De alio modo medij Harmonici simul & Arithmetici inueniendi, qui multò
-videtur esse facilior: & de quibusdam, quae in harmonica pro¬
-portionalitate, praeter ea quae dicta sunt, oportet con¬
-siderare CAP. XXIIII.
-Tquoniam haec proportionalitas omnium maximè ad Harmonici considerationem
-pertinet, nulli mirum videri debebit, si in ipsius explicatione diutiùs, quàm in alia¬
-rum enarratione, immorabimur. Quamobrem cùm valdè Musico conducat, me¬
-dium Harmonicum inuenire, & modus eius inueniendi ab antiquis traditus sit difficili¬
-mus: quamuis ille, quem supra attulimus, facilis satis esse videatur, alterum nunc afferemu¬
-multò faciliorem, quo eam simul harmonicè & arithmeticè poterimus habere diuisam,
-is talis est: Accipiendi sunt numeri, in quibus arithmeticè diuisa reperitur, & minimus, &
-maximus per medium arithmeticum multiplicandi, & in numeris, qui ex ea multiplica¬
-tione prouenient, reperietur arithmeticè simul, & harmonicè diuisa: harmonicè quidem.
-si minimus in maximum ducatur, arithmeticè verò, medio in seipsum ducto. Vt, exempli
-gratia, accepta sesquialtera arithmeticè diuisa in his numeris, 4. 5. 6, ductis 4. & 6. in 5,
-prouenient 20. & 30, qui continebunt sesquialteram tam Harmonicè, quàm Arithmeti¬
-cè diuidendam; nam ducto 4. in 6,emergent 24, qui numerus erit medium harmonicum;
-& 5. in seipsum ducto, surgent 25, qui numerus erit medium arithmeticum, vt in sequen¬
-ti numerorum dispositione apparet:
+videtur esse facilior: & de quibusdam, quae in harmonica
+proportionalitate, praeter ea quae dicta sunt, oportet considerare
+
+CAP. XXIIII.
+
+ET quoniam haec proportionalitas omnium maximè ad Harmonici
+considerationem pertinet, nulli mirum videri debebit, si in ipsius
+explicatione diutiùs, quàm in aliarum enarratione,
+immorabimur. Quamobrem cùm valdè Musico conducat, medium Harmonicum
+inuenire, & modus eius inueniendi ab antiquis traditus sit
+difficilimus: quamuis ille, quem supra attulimus, facilis satis esse
+videatur, alterum nunc afferemumultò faciliorem, quo eam simul
+harmonicè & arithmeticè poterimus habere diuisam, is talis est:
+Accipiendi sunt numeri, in quibus arithmeticè diuisa reperitur, &
+minimus, & maximus per medium arithmeticum multiplicandi, & in
+numeris, qui ex ea multiplicatione prouenient, reperietur arithmeticè
+simul, & harmonicè diuisa: harmonicè quidem. si minimus in maximum
+ducatur, arithmeticè verò, medio in seipsum ducto. Vt, exempli gratia,
+accepta sesquialtera arithmeticè diuisa in his numeris, 4. 5. 6,
+ductis 4. & 6. in 5, prouenient 20. & 30, qui continebunt
+sesquialteram tam Harmonicè, quàm Arithmeticè diuidendam; nam
+ducto 4. in 6,emergent 24, qui numerus erit medium harmonicum; & 5. in
+seipsum ducto, surgent 25, qui numerus erit medium arithmeticum, vt in
+sequenti numerorum dispositione apparet:
+
 3. SESQVIALTERA diuidenda.
 4. 5. 6. Arithmaticè diuisa.
 20. 30. Numeri producti ex medio 5. in exttema 4. & 6. ducto.
@@ -2289,33 +2359,40 @@ Medium Harmonicum ex multiplicatione extremorum 4. & 6.
 Medium Arithmeticum ex medio 5. in seipsum ducto.
 20.24. 30. Proportionalitas Harmonica.
 20.25.30. Proportionalitas Arithmetica.
-Hic medij Harmonici inueniendi modus in omnibus omnium generum proportioni¬
-bus certissimus inuenitur. Atque haec de proportionalitate quidem harmonica ad prae¬
-sentem institutionem dicta sufficiunt. Vnum verò hoc de tribus medijs praetermittendum
-minimè videtur, quòd, si aliquando proportio aliqua per haec tria media reperietur diui¬
-sa, medium Arithmeticum erit maiori extremo proximum, Harmonicum minori: Geo¬
-metricum verò medium tenebit locum, nec solum geometricè diuidet duo extrema, sed
-& media harmonicum, & arithmeticum; & proportio, quae reperietur inter ea, geometri
-cè erit diuisa: vt in his numeris perspici poterit, 10.16.20.25.40, in quibus proportio diui
-denda est à 40. ad 10: Medium Arithmeticum 25, quia per aequales numeros distat ab
-vtroque: Medium Geometricum 20, quia eandem proportionem facit ad 10, quam ad
-ipsum 40: Harmonicum verò 16, quia differentia eius ad 40, quae est 24, ad differentiam
-ipsius ad 10, qua est 6, quadruplam habet proportionem, vt 40. ad 10: & in ea proportio¬
-ne, quæe est a 25. ad 16, etiam est 20. medium Geometricum, quoniam vtraque propor¬
-tio, in quas inuenitur diuisa, est sesquiquarta; & 20, ductus in seipsum, facit 400, qua ean¬
-dem summam faciunt 40. per 10, & 25. per 16. multiplicati. Quòd si per duo solùm me¬
-dia, arithmeticum, & harmonicum, inuenietur diuisa, altero in alterum ducto, vicem obti
-nebunt medij Geometrici. nam eandem summam facient, quam duo extrema, altero in
-alterum ducto. Vt in ea proportione, quae est à 12. ad 6, medium arithmeticum 9. si duca¬
-tur in 8. medium harmonicum, consurgent 72: & eadem summa proueniet ex 12. per se¬
 
+Hic medij Harmonici inueniendi modus in omnibus omnium generum
+proportionibus certissimus inuenitur. Atque haec de proportionalitate
+quidem harmonica ad praesentem institutionem dicta sufficiunt. Vnum
+verò hoc de tribus medijs praetermittendum minimè videtur, quòd, si
+aliquando proportio aliqua per haec tria media reperietur diuisa,
+medium Arithmeticum erit maiori extremo proximum, Harmonicum minori:
+Geometricum verò medium tenebit locum, nec solum geometricè diuidet
+duo extrema, sed & media harmonicum, & arithmeticum; & proportio, quae
+reperietur inter ea, geometricè erit diuisa: vt in his numeris
+perspici poterit, 10.16.20.25.40, in quibus proportio diuidenda est
+à 40. ad 10: Medium Arithmeticum 25, quia per aequales numeros distat
+ab vtroque: Medium Geometricum 20, quia eandem proportionem facit ad
+10, quam ad ipsum 40: Harmonicum verò 16, quia differentia eius ad 40,
+quae est 24, ad differentiam ipsius ad 10, qua est 6, quadruplam habet
+proportionem, vt 40. ad 10: & in ea proportione, quæe est a 25. ad 16,
+etiam est 20. medium Geometricum, quoniam vtraque proportio, in quas
+inuenitur diuisa, est sesquiquarta; & 20, ductus in seipsum, facit
+400, qua eandem summam faciunt 40. per 10,
+& 25. per 16. multiplicati. Quòd si per duo solùm media, arithmeticum,
+& harmonicum, inuenietur diuisa, altero in alterum ducto, vicem
+obtinebunt medij Geometrici. nam eandem summam facient, quam duo
+extrema, altero in alterum ducto. Vt in ea proportione, quae est
+à 12. ad 6, medium arithmeticum 9. si ducatur in 8. medium harmonicum,
+consurgent 72: & eadem summa proueniet ex 12. per senarium
+multiplicato. Postremò illud non minore consideratione dignum puto,
+quòd, si tria media quadrentur, duo verò extrema, & binae
+differentiae, alterae arithmeticae proportionalitatis, alterae
+harmonicae, inter se multiplicentur; productum extren brum,
+quadratorum aliud aequabit, aliud luperabit, & ab alio superabitur;
+aequabit geometricum, superabit harmonicum producto differentiarum
+eius, & superabitur ab arithmetico similiter producto differentiarum
+eius, vt sequens declarat figura:
 
-narium multiplicato. Postremò illud non minore consideratione dignum puto, quòd, si
-tria media quadrentur, duo verò extrema, & binae differentiae, alterae arithmeticae propor
-tionalitatis, alterae harmonicae, inter se multiplicentur; productum extren brum, quadra
-torum aliud aequabit, aliud luperabit, & ab alio superabitur; aequabit geometricum, su¬
-perabit harmonicum producto differentiarum eius, & superabitur ab arithmetico simili¬
-ter producto differentiarum eius, vt sequens declarat figura:
 MEDIVMIEXTREMVM
 EXTREMVMIMEDIVMMEDIVM
 Arithmeticum
@@ -2328,9 +2405,14 @@ Media quadrata
 pducta ex differentijs
 SVMMA
 RESIDVVM
-De noua ratione inueniendi tria Media (Arithmeticum, Geometricum,
-& Harmonicum) ex eorum & Extremorum differentis.
+
+[figure 1 pdf page 73, book page 30]
+
+** [chapter 1.25]
+De noua ratione inueniendi tria Media (Arithmeticum, Geometricum, & Harmonicum) ex eorum & Extremorum differentis.
+
 CAP. XXV.
+
 QVae hactenus de trium Mediorum inuentione attulimus, ea pleraque nobis cum
 alijs, qui de hac re scripserunt, conueniunt. Id verò nemo est, qui ex ijs, quorum
 ad me scripta publicè edita peruenerunt, considerauerit, quòd, cognitis Ex¬
