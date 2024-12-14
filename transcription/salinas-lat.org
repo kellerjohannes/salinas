@@ -2408,137 +2408,158 @@ RESIDVVM
 
 [figure 1 pdf page 73, book page 30]
 
+** TODO create continuous figure numbering
+** TODO crop figures and store them
 ** [chapter 1.25]
 De noua ratione inueniendi tria Media (Arithmeticum, Geometricum, & Harmonicum) ex eorum & Extremorum differentis.
 
 CAP. XXV.
 
-QVae hactenus de trium Mediorum inuentione attulimus, ea pleraque nobis cum
-alijs, qui de hac re scripserunt, conueniunt. Id verò nemo est, qui ex ijs, quorum
-ad me scripta publicè edita peruenerunt, considerauerit, quòd, cognitis Ex¬
-tremis, & quales eorundem ac Mediorum oporteat esse Differentias, eo ipso statim &
-Media patere possunt. Quae eorum inuestigandorum ratio cùm superioribus & facilior
-sit, & ipsis Medijs magis propria, (quid enim eis magis sit proprium, quàm id, per quod con
-stituta, inter se & differunt, & definiuntur?) facere non possum, quin eam praemissis prae¬
-ceptis, iam vsu receptis, adiungam. Verùm, cùm tota haec ratio ex Differentiarum pen¬
-deat natura ac proprietate, de ea quaedam præemittenda videntur. Sciend migitur im pri
-mis est, Differentias esse vel aequales, vel inaequales. ęquales sunt in proportionalitate Arith
-metica, in caeteris inaequales. Cumque Arithmeticae differentię proportior es constituant
-aequam simpliciter & per se; reliquae non per se, sed alteri proportioni aequam constituunt,
-Harmonicae quidem proportioni diuisae, Geometricae verò diuidentibus. Quod in qua¬
-druplae diuisione videre licet, quae sit 40. ad 10: in ea differentiarum Arithmeticarum 15.
-ad 15. proportio aequa est: Harmonicarum verò 24. ad 6. proportio aequa est quadruplae
-diuisae, sicut Geometricarum 20. ad 10. duplis eam diuidentibus, quae sunt 20, ad 10, &
-40. ad 20. Quæ, & plura quæ sequuntur, in hac formula intueri licebit:
-Exemplum Quadruplae tripliciter diuisae.
-Minus ex-Mediu Har-Mediu Geo- Mediu Arith- Maiusex-
-tremum. monicum. metricum. meticum.
-tremum.
-Quadrupladiuidenda
-Quadrupla diuisa
-Meiori . enrenasi silieriene 6
-Quad equa Dupla aqua AEqua
-Differentiarum proportiones.
-diuisae diuidentibus
-Fryygr Geon lu.
+QVae hactenus de trium Mediorum inuentione attulimus, ea pleraque
+nobis cum alijs, qui de hac re scripserunt, conueniunt. Id verò nemo
+est, qui ex ijs, quorum ad me scripta publicè edita peruenerunt,
+considerauerit, quòd, cognitis Extremis, & quales eorundem ac Mediorum
+oporteat esse Differentias, eo ipso statim & Media patere
+possunt. Quae eorum inuestigandorum ratio cùm superioribus & facilior
+sit, & ipsis Medijs magis propria, (quid enim eis magis sit proprium,
+quàm id, per quod constituta, inter se & differunt, & definiuntur?)
+facere non possum, quin eam praemissis praeceptis, iam vsu receptis,
+adiungam. Verùm, cùm tota haec ratio ex Differentiarum pendeat natura
+ac proprietate, de ea quaedam præemittenda videntur. Sciend migitur im
+primis est, Differentias esse vel aequales, vel inaequales. ęquales
+sunt in proportionalitate Arithmetica, in caeteris inaequales. Cumque
+Arithmeticae differentię proportior es constituant aequam simpliciter
+& per se; reliquae non per se, sed alteri proportioni aequam
+constituunt, Harmonicae quidem proportioni diuisae, Geometricae verò
+diuidentibus. Quod in quadruplae diuisione videre licet, quae
+sit 40. ad 10: in ea differentiarum
+Arithmeticarum 15. ad 15. proportio aequa est: Harmonicarum
+verò 24. ad 6. proportio aequa est quadruplae diuisae, sicut
+Geometricarum 20. ad 10. duplis eam diuidentibus, quae sunt 20, ad 10,
+& 40. ad 20. Quæ, & plura quæ sequuntur, in hac formula intueri
+licebit:
+
+[figure 2 pdf page 73, book page 30]
 
 
-Cumque proportionum Geometricè diuidentium vtralibet (nam aequales sunt) duplo
-à diuisa superetur, simul proportio differentiarum Geometricarum ab Harmonicarum
-proportione duplo vincatur necesse est, vt in eodem exemplo patet.diuisa enim quadru-
-pla Geometricè, vtralibet proportionum diuidentium, 20. ad 10, & 40. ad 20, duplo à
-quadrupla diuisa superatur: cumque & differentiae Geometricae, 20. ad 10, duplam consti
-tuant, & Harmonica,24. ad 6, quadruplum; manifestum est ab his illas eadem proportio¬
-ne superari. Itaque si quis velit tres differentiarum proportiones ad vnum aliquem termi
-num communem constituere, eum terminùm Arithmeticus quidem aequabit, Arithme¬
-ticum verò superabit Geometricus, & Geometricum item Harmonicus; ita vt; quoties
-Arithmeticum Geometricus, toties Geometricum contineat Harmonicus; solumque su
-peretur Arithmeticus, superétque Harmonicus, Geometricus verò tam superet, quam su
-peretur; & tantum superet, quantum superetur: superat enim Arithmeticum eadem parte,
-qua ab Harmonico superatur. Nam si, eadem quadrupla tripliciter diuisa, triplices orian¬
-tur differentiae, vt in praemissa figura, harumque omnium vnum terminum communem
-constituamus 2; erit reliquus terminus Arithmeticus quidem 2, Geometricus verò 4, &
-Harmonicus 8: nam communi termino 2. aequus est 2, quem 4. vt duplo superat, ita & ab
-8. duplo superatur. Guius contrarium contingit in tribus Medijs inter eadem extrema
-collocatis. nam Geometricum superat non Arithmeticum, sed Harmonicum; ab Arith¬
-metico verò superatur eadem parte, qua ab ipso superatur Harmonicum: nam, cùm sint
-tria Media quadruplae, 16.20.25, superatur 16. quarta sui parte à 2ò, itémque 26. quarta
-sui parte superatur a 25. Plura de Differentiarum natura ac proprietatè afferri possent;
-sed nos, ne longiùs ab instituto diuagari videamur, nunc èa, quae praesenti négocio ma-
-ximè conducere videntur, memoriae mandanda recésebimus. In Arithmetica igitur pro¬
-portionalitate notandum est differentias esse aequales, proportiones verò inaequales, ita
-vt maior proportio minoribus numeris, minor maioribus contineatur. In Geometrica
-contrà inaequales sunt differentiae, proportiones verò aequales. Praeterea differentia minor
-ad minus extremum, maiórque ad maius sunt numeri secundi & compositi, hoc est, qui
-communi mensura coniunguntur; idque ita vt, quoties minor mensura metitur differen
-tiam minorem, toties maior metiatur maiorem; quod de maxima communi mensura ac¬
-cipiendum est, quae non potest omnibus esse eadem, sed minor est, quae metitur differen
-tiam & extremum minora, maior autem, quae maiora. Medium quoque Geometricum
-ad vtrumque extremum est compositum; non tamen vni tantùm, sed duplici subijcitur
-mensurae, quippe ijsdem, quibus & differentiae; quarum alteram habet communem cum
-minori extremitate, alteram cum maiori. éstque his mensuris illud proprium, quòd eadem
-à se inuicem distant proportione, qua Medium ab extremis: quare minor mensura tot par
-tibus superatur à maiori, quot minus extremum à Medio, Mediumque ab extremo maio
-ri. Suntque quatuor haec in eadem proportione, minus extremum cum Medio, Medium
-cum extremo maiori, duae differentiae, & duae communes mensurae. Mensurarum verò
-altera metitur Medium, differentiámque & extremum minora, altera Medium, & diffe
-rentiam atque extremum maiora. In Harmonica tandem proportionalitate tam differen
-tiae quàm proportiones inęquales sunt. nam sicut proportio in numeris minoribus reperi
-tur in proportionalitate Arithmetica maior, & in Geometrica aequa, ita in Harmonica
-minor, contráque in numeris maioribus maior. Differentiae verò constituunt proportio¬
-nem eandem cum proportione diuisa. His rectè intellectis, facilimè percipientur ea; quae
-nunc de Mediorum ex Differentijs inuentione in medium allaturi sumus. In qua illud
-ambigi à nemine potest, praedictas ternas differentias potentia contineri in Extremorum
-differentia confusa, quare si communis illa ac confusa differentia distinguatur in duas
-partes, quales requirit quarumlibet differentiarum natura ac proprietas; deinde pars mi¬
-nor (vel vtralibet, si sint aequae, yt in Arithmetica proportionalitate) extremo addatur mi
+Cumque proportionum Geometricè diuidentium vtralibet (nam aequales
+sunt) duplo à diuisa superetur, simul proportio differentiarum
+Geometricarum ab Harmonicarum proportione duplo vincatur necesse est,
+vt in eodem exemplo patet.diuisa enim quadrupla Geometricè, vtralibet
+proportionum diuidentium, 20. ad 10, & 40. ad 20, duplo à quadrupla
+diuisa superatur: cumque & differentiae Geometricae, 20. ad 10, duplam
+constituant, & Harmonica,24. ad 6, quadruplum; manifestum est ab his
+illas eadem proportione superari. Itaque si quis velit tres
+differentiarum proportiones ad vnum aliquem terminum communem
+constituere, eum terminùm Arithmeticus quidem aequabit, Arithmeticum
+verò superabit Geometricus, & Geometricum item Harmonicus; ita vt;
+quoties Arithmeticum Geometricus, toties Geometricum contineat
+Harmonicus; solumque superetur Arithmeticus, superétque Harmonicus,
+Geometricus verò tam superet, quam superetur; & tantum superet,
+quantum superetur: superat enim Arithmeticum eadem parte, qua ab
+Harmonico superatur. Nam si, eadem quadrupla tripliciter diuisa,
+triplices oriantur differentiae, vt in praemissa figura, harumque
+omnium vnum terminum communem constituamus 2; erit reliquus terminus
+Arithmeticus quidem 2, Geometricus verò 4, & Harmonicus 8: nam communi
+termino 2. aequus est 2, quem 4. vt duplo superat, ita & ab 8. duplo
+superatur. Guius contrarium contingit in tribus Medijs inter eadem
+extrema collocatis. nam Geometricum superat non Arithmeticum, sed
+Harmonicum; ab Arithmetico verò superatur eadem parte, qua ab ipso
+superatur Harmonicum: nam, cùm sint tria Media quadruplae, 16.20.25,
+superatur 16. quarta sui parte à 2ò, itémque 26. quarta sui parte
+superatur a 25. Plura de Differentiarum natura ac proprietatè afferri
+possent; sed nos, ne longiùs ab instituto diuagari videamur, nunc èa,
+quae praesenti négocio maximè conducere videntur, memoriae mandanda
+recésebimus. In Arithmetica igitur proportionalitate notandum est
+differentias esse aequales, proportiones verò inaequales, ita vt maior
+proportio minoribus numeris, minor maioribus contineatur. In
+Geometrica contrà inaequales sunt differentiae, proportiones verò
+aequales. Praeterea differentia minor ad minus extremum, maiórque ad
+maius sunt numeri secundi & compositi, hoc est, qui communi mensura
+coniunguntur; idque ita vt, quoties minor mensura metitur differentiam
+minorem, toties maior metiatur maiorem; quod de maxima communi mensura
+accipiendum est, quae non potest omnibus esse eadem, sed minor est,
+quae metitur differen tiam & extremum minora, maior autem, quae
+maiora. Medium quoque Geometricum ad vtrumque extremum est compositum;
+non tamen vni tantùm, sed duplici subijcitur mensurae, quippe ijsdem,
+quibus & differentiae; quarum alteram habet communem cum minori
+extremitate, alteram cum maiori. éstque his mensuris illud proprium,
+quòd eadem à se inuicem distant proportione, qua Medium ab extremis:
+quare minor mensura tot partibus superatur à maiori, quot minus
+extremum à Medio, Mediumque ab extremo maiori. Suntque quatuor haec in
+eadem proportione, minus extremum cum Medio, Medium cum extremo
+maiori, duae differentiae, & duae communes mensurae. Mensurarum verò
+altera metitur Medium, differentiámque & extremum minora, altera
+Medium, & differentiam atque extremum maiora. In Harmonica tandem
+proportionalitate tam differentiae quàm proportiones inęquales
+sunt. nam sicut proportio in numeris minoribus reperitur in
+proportionalitate Arithmetica maior, & in Geometrica aequa, ita in
+Harmonica minor, contráque in numeris maioribus maior. Differentiae
+verò constituunt proportionem eandem cum proportione diuisa. His rectè
+intellectis, facilimè percipientur ea; quae nunc de Mediorum ex
+Differentijs inuentione in medium allaturi sumus. In qua illud ambigi
+à nemine potest, praedictas ternas differentias potentia contineri in
+Extremorum differentia confusa, quare si communis illa ac confusa
+differentia distinguatur in duas partes, quales requirit quarumlibet
+differentiarum natura ac proprietas; deinde pars minor (vel vtralibet,
+si sint aequae, yt in Arithmetica proportionalitate) extremo addatur
+minori vel maior subtrahatur à maiori, prodeunt quaesitae
+differentiae. Itaque si quadruplae quaeratur medium Arithmeticum,
+extremorum quadruplae, 1. & 4, Differentia confusa est 3, qua in duas
+partes aquales diuisa, si pars altera [1 1/2] addatur extremo minori, vel
+subtrahatur à maiori, prodit medium Arithmeticum [2 1/2], vel 5, si,
+duplatis singulis, Medium integris numeris constituatur, vt in hac
+figura apparet:
 
-
-nori vel maior subtrahatur à maiori, prodeunt quaesitae differentiae. Itaque si quadruplae
-quaeratur medium Arithmeticum, extremorum quadruplae, 1. & 4, Differentia confusa
-est 3, qua in duas partes aquales diuisa, si pars altera 1 — addatur extremo minori, vel
-subtrahatur à maiori, prodit medium Arithmeticum 2 —, vel 5, si, duplatis singulis, Me¬
-dium integris numeris constituatur, vt in hac figura apparet:
 Exemplum Quadruplae Arithmeticè diuisae.
 Proportio diuidenda.
 Differentia confusa.
 Eiusdem duæ partes aequales.
 Medium Arithmeticum ex altera parte &e mi extre.
 Proportionalits Arith.Medio fracto.
-8. Eademinnumerisintegris.
-Iam cùm Medium Geometricum proportiones efficiat ęquales, ęqua illa maioris pro¬
-portionis differentia (quam diximus esse eam, quae minoribus numeris continetur) tam¬
-diu minuenda est, donec minori extremo coniuncta, vel reliqua à maiori subtracta, ean¬
-dem ad vtrumque extremum proportionem constituat, quod duobus modis experiri li¬
-cet. Primùm, si minor Differentia adeò sit imminuta, vt & ipsa ad minus exrremum, & ma
-ior ad maius sint numeri secundi & compositi, quorum maximae communes mensurae ean
-dem seruent proportionem, quam differentiae: quod fit, cùm toties minor mensnra meti
-tur differentiam minorem, quoties maior maiorem. Secundò, si medium Arithmeticum
-(quod ex aequa differentia & minori extremo componi diximus) tamdiu imminuatur,
-donec eandem cum vtroque extremo proportionem constituat, quod accidit, cùm ad
-vtrumque videtur esse secundum & compositum, ita vt vtriusque communis mensurae
-eadem sit proportio, quae Medij ad extrema. Et hic modus superiore duabus de causis fa
-cilior esse videtur: primùm, quòd ratio illic habetur numeri tam aucti, quàm imminuti, hîc
-imminuti tantùm: deinde quòd hîc Medium statim post imminutionem prodit, illic ve¬
-rò adhuc vel minorum coniunctione, vel maioris à maiori subtractione opus est. Quamquan
-interim prioris modi facilitatem id commendat, quòd & minoribus numeris (quales sunt
-differentiae separatae) operatur, & minoris tantùm Differentiae ratione habita, ea tamdiu
-minui potest, donec ad minus extremum numerum compositum efficiat, qui si à Diffe¬
-rentia confusa subtrahatur, statim prodit Differentia maior, quae si item ad maius extre¬
-mum numerum compositum, quali requirimus mensura, constituat, nil ampliùs quae¬
-rendum est; sin minùs, denuò eodem modo procedendum est. Vtriusque modi exemplum
-proponemus in proportione 9. ad 25, cuius differentia confusa est 16; eius dimidium 8,
-subtracta vnitate, fit 7, qui numerus ad §, minus extremum, non est compositus; altera au
-tem vnitate subtracta, prodit 6, ad 9. compositus: quo sublato ex differentia confusa, re¬
-linquitur maior Differentia 10, qui cùm similiter ad 25. maius extremum sit compositus,
-totiesque contineat communem mensuram suam, quae est 5, quoties 6. minorem mensu¬
-ram, quæe est 3; patet has veras esse Geometricae proportionalitatis differentias. addita igi
-tur minore minori extremo, vel maiore sublata ex maiori, oritur medium Geometricum
-15. Cuius operationis haec potest esse descriptio:
+
+[figure 1 pdf page 75, book page 32]
 
 
-MEDII GEOMETRICI INVE
-STIGATIO.
+Iam cùm Medium Geometricum proportiones efficiat ęquales, ęqua illa
+maioris proportionis differentia (quam diximus esse eam, quae
+minoribus numeris continetur) tamdiu minuenda est, donec minori
+extremo coniuncta, vel reliqua à maiori subtracta, eandem ad vtrumque
+extremum proportionem constituat, quod duobus modis experiri
+licet. Primùm, si minor Differentia adeò sit imminuta, vt & ipsa ad
+minus exrremum, & maior ad maius sint numeri secundi & compositi,
+quorum maximae communes mensurae eandem seruent proportionem, quam
+differentiae: quod fit, cùm toties minor mensnra metitur differentiam
+minorem, quoties maior maiorem. Secundò, si medium Arithmeticum (quod
+ex aequa differentia & minori extremo componi diximus) tamdiu
+imminuatur, donec eandem cum vtroque extremo proportionem constituat,
+quod accidit, cùm ad vtrumque videtur esse secundum & compositum, ita
+vt vtriusque communis mensurae eadem sit proportio, quae Medij ad
+extrema. Et hic modus superiore duabus de causis facilior esse
+videtur: primùm, quòd ratio illic habetur numeri tam aucti, quàm
+imminuti, hîc imminuti tantùm: deinde quòd hîc Medium statim post
+imminutionem prodit, illic verò adhuc vel minorum coniunctione, vel
+maioris à maiori subtractione opus est. Quamquan interim prioris modi
+facilitatem id commendat, quòd & minoribus numeris (quales sunt
+differentiae separatae) operatur, & minoris tantùm Differentiae
+ratione habita, ea tamdiuminui potest, donec ad minus extremum numerum
+compositum efficiat, qui si à Differentia confusa subtrahatur, statim
+prodit Differentia maior, quae si item ad maius extremum numerum
+compositum, quali requirimus mensura, constituat, nil ampliùs
+quaerendum est; sin minùs, denuò eodem modo procedendum est. Vtriusque
+modi exemplum proponemus in proportione 9. ad 25, cuius differentia
+confusa est 16; eius dimidium 8, subtracta vnitate, fit 7, qui numerus
+ad §, minus extremum, non est compositus; altera autem vnitate
+subtracta, prodit 6, ad 9. compositus: quo sublato ex differentia
+confusa, relinquitur maior Differentia 10, qui cùm similiter
+ad 25. maius extremum sit compositus, totiesque contineat communem
+mensuram suam, quae est 5, quoties 6. minorem mensuram, quæe est 3;
+patet has veras esse Geometricae proportionalitatis
+differentias. addita igitur minore minori extremo, vel maiore sublata
+ex maiori, oritur medium Geometricum 15. Cuius operationis haec potest
+esse descriptio:
+
+MEDII GEOMETRICI INVESTIGATIO.
 25. Proportio Geometricè diuidenda.
 Differentia confusa.
 Partes aquales Differentia confusa.
@@ -2547,15 +2568,23 @@ Compositus ad 9, sublata altera Vnitate.
 Altera Differentia, sublaro 6 ex 16.
 Communes mensurg in eadem proportione cum 6.& 10.
 Medium Geometricum, compositum ex 6. & 9.
-Altero modo idem euenit, si, Differentiae confusae medietate minori extremo addita, vel
-ex maiori subtracta, constituatur Medium Arithmeticum 17, idque toties vnitate minua
-tur, donec ad vtrumque extremum reperiatur compositum: occurrit autem primùm 16
-qui numerus ad neutrum extremum compositus inuenitur: sed, qui hunc sequitur, 15,
-ad vtrumque compositus est, quia cum minori 9. ternarium, cum maiori 25. quinarium
-communem habet mensuram, qui 3. & 5. cùm proportione comparentur eadem, qua 15.
-cum alterutro extremorum; (toties enim ternarius metitur vtriusque proportionis nume¬
-rum minorem, quoties maior quinarius maiorem) patet 15. verè esse Medium Geometri
-cum inter 9. & 25. Eius quoque operationis descriptionem subiungemus.
+
+[figure 1 pdf page 76, book page 33]
+
+
+Altero modo idem euenit, si, Differentiae confusae medietate minori
+extremo addita, vel ex maiori subtracta, constituatur Medium
+Arithmeticum 17, idque toties vnitate minuatur, donec ad vtrumque
+extremum reperiatur compositum: occurrit autem primùm 16 qui numerus
+ad neutrum extremum compositus inuenitur: sed, qui hunc sequitur, 15,
+ad vtrumque compositus est, quia cum minori 9. ternarium, cum
+maiori 25. quinarium communem habet mensuram, qui 3. & 5. cùm
+proportione comparentur eadem, qua 15. cum alterutro extremorum;
+(toties enim ternarius metitur vtriusque proportionis numerum minorem,
+quoties maior quinarius maiorem) patet 15. verè esse Medium
+Geometricum inter 9. & 25. Eius quoque operationis descriptionem
+subiungemus.
+
 Altera Medij Geometrici inuestigandi ratio.
 25. Proportio Geometrice duuidenda.
 Differentia confusa.
@@ -2564,19 +2593,25 @@ Medium Arithmeticum compositum ex 8. & 9.
 Idem vnitate imminutum ad 9.incompositum.
 Medium Geometricum tam ad 9. quàmad 25. copositum.
 Cômunes mélurx in eadé proportione in qua Med ad ertr.
-Medium Harmonicum ex eadem Differentia confusa eruitur,si ea diuidatur in duas par
-tes inaequales, quae sint eiusmodi, vt proportionem constituant eandem cum proportio¬
-ne diuidenda, id hoc modo contingit: Diuidatur Differentia confusa per minimos pro¬
-portionis diuidendae numeros similiter confusos, productum toties addatur minori ex¬
-tremo, quot vnitatibus constat minor proportionis numerus: vel toties subtrahatur à ma
-iori extremo, quot vnitatibus constat numerus proportionis maior. Exempli gratia, si
-proportio diuidenda sit 6. ad 12; eius Differentia confusa est 6: minimi proportionis diui
-dendae numeri sunt 1.2; quibus confusis componitur ternarius, per quem si diuidatur 6,
-prouenit binarius, qui si semel addatur minori extremo 6, vel bis subtrahatur à maiori
-12, (sicut monent minimi proportionis numeri 1. & 2.) nascitur medium Harmonicum
-8, cuius & extremorum Differentiae, 2. & 4, proportionem constituunt eandem cum 6.
-& 12, vt sequens ostendit formula:
 
+[figure 2 pdf page 76, book page 33]
+
+
+Medium Harmonicum ex eadem Differentia confusa eruitur,si ea diuidatur
+in duas partes inaequales, quae sint eiusmodi, vt proportionem
+constituant eandem cum proportione diuidenda, id hoc modo contingit:
+Diuidatur Differentia confusa per minimos proportionis diuidendae
+numeros similiter confusos, productum toties addatur minori extremo,
+quot vnitatibus constat minor proportionis numerus: vel toties
+subtrahatur à maiori extremo, quot vnitatibus constat numerus
+proportionis maior. Exempli gratia, si proportio diuidenda sit 6. ad
+12; eius Differentia confusa est 6: minimi proportionis diuidendae
+numeri sunt 1.2; quibus confusis componitur ternarius, per quem si
+diuidatur 6, prouenit binarius, qui si semel addatur minori extremo 6,
+vel bis subtrahatur à maiori 12, (sicut monent minimi proportionis
+numeri 1. & 2.) nascitur medium Harmonicum 8, cuius & extremorum
+Differentiae, 2. & 4, proportionem constituunt eandem cum 6. & 12, vt
+sequens ostendit formula:
 
 Medij Harmonici inuestigatio.
 12. Proportio Harmonicè diuidenda.
@@ -2585,191 +2620,216 @@ Minimi proportionis diuidendae numeri.
 lidem confusi, diuidentes Differentiam confusam.
 Productum diuisionis.
 Medium Harmonicum compositum ex 2. & 6.
-Eiusdem differentia in cadem proportione cum diuis.
-Et hocmodo retentis ijsdem terminis quàm citisime in cognitionem Medij Harmoni¬
-ci peruenire possumus; cùm alij nos eôdem vel longioribus ambagibus deducant, vel etiam
-terminos datae proportionis immutent. Quòd siquis obijciat, interim saepe, & quidem in
-omnium proportionum minimis numeris, occurrere fractiones; is sciat non minùs idem
-in Boëtij methodo euenire. Possunt autem facilè vel fracti numeri reduci ad integros, yel
-etiam, ne eos frangi necesse sit, praecaueri. Fracti ad integros reducuntur, cùm omnes inte
-gri per denominatorem multiplicantur, & numerator illius producto, cui adhaerebat, ag
-gregatur. Vt, si sit Harmonicè diuidenda sesquialtera. eius numeri sunt 3.2, differentia con
-fusa 1, diuisor, numeris proportionis confusis, est 5, per quem diuisa differentia confusa
-prouenit—, qui numerus si bis addatur extremo minori, vel ter subtrahatur à maiori,
-prodit medium Harmonicum 2. 2, yt sit proportionalitas Harmonica 3. 2.2 2. quòdsi
-omnes integri numeri per denominatorem 5. multiplicentur, Mediique producto nu¬
-merator 2. addatur, redit eadem proportionalitas numeris integris 15.12.10. Eodem re¬
-ductionis modo suprà medium Arithmeticum reddidimus integrum. Potest & à princi¬
-pio statim, ne fracti incidant, procurari; nam si (cum differentia confusa diuisor aut maior
-est, aut non omnem diuidendo absumit) minimi datae proportionis numeri per eosdem
-confusos multiplicentur, termini efficiuntur eiusmodi, in quibus minimis Medium Har¬
-monicum integrum constitui queat. Vt in eodem sesquialterae exemplo, si numeri pro¬
-portionis diuidendae sint 3.2, vel 18.12; quoniam in prioribus differentia confusa, 1, mi¬
-nor est diuisore, in alteris differentia 6. à diuisore 5. non consumitur, sed relinquitur.
-ideo, ne incidant fracti, multiplicandi sunt minimi numeri 3. 2. per diuisorem 5, quo fa¬
-cto, prodeunt 15, & 10, qui sunt minimi numeri, in quibus integris sesquialtera Harmo¬
-nice diuidi potest, in quibus quia differentia confusa diuisori semper est aequalis, omissa
-diuisione, statim numero proportionis minore minori extremo addito, vel maiore ex ma
-iori subtracto, prodit medium Harmonicum. nam addito 2. minori 10, vel subtracto 3. ex
-15, relinquitur 12, cuius ad extrema differentiae sunt 3.2; quae cùm proportionem diuisam
-referant, certum est 12. esse medium Harmonicum.
+Eiusdem differentia in cadem proportione cum diuisa.
+
+[figure 1 pdf page 72, book page 34]
+
+
+Et hocmodo retentis ijsdem terminis quàm citisime in cognitionem Medij
+Harmonici peruenire possumus; cùm alij nos eôdem vel longioribus
+ambagibus deducant, vel etiam terminos datae proportionis
+immutent. Quòd siquis obijciat, interim saepe, & quidem in omnium
+proportionum minimis numeris, occurrere fractiones; is sciat non minùs
+idem in Boëtij methodo euenire. Possunt autem facilè vel fracti numeri
+reduci ad integros, yel etiam, ne eos frangi necesse sit,
+praecaueri. Fracti ad integros reducuntur, cùm omnes integri per
+denominatorem multiplicantur, & numerator illius producto, cui
+adhaerebat, aggregatur. Vt, si sit Harmonicè diuidenda
+sesquialtera. eius numeri sunt 3.2, differentia confusa 1, diuisor,
+numeris proportionis confusis, est 5, per quem diuisa differentia
+confusa, prouenit [ 1/5 ], qui numerus si bis addatur extremo minori,
+vel ter subtrahatur à maiori, prodit medium Harmonicum [ 2 2/5 ], vt
+sit proportionalitas Harmonica 3 [ 2 2 / 5 2 ] quòdsi omnes integri
+numeri per denominatorem 5. multiplicentur, Mediique producto
+numerator 2. addatur, redit eadem proportionalitas numeris integris
+15.12.10. Eodem reductionis modo suprà medium Arithmeticum reddidimus
+integrum. Potest & à principio statim, ne fracti incidant, procurari;
+nam si (cum differentia confusa diuisor aut maior est, aut non omnem
+diuidendo absumit) minimi datae proportionis numeri per eosdem
+confusos multiplicentur, termini efficiuntur eiusmodi, in quibus
+minimis Medium Harmonicum integrum constitui queat. Vt in eodem
+sesquialterae exemplo, si numeri proportionis diuidendae sint 3.2, vel
+18.12; quoniam in prioribus differentia confusa, 1, minor est
+diuisore, in alteris differentia 6. à diuisore 5. non consumitur, sed
+relinquitur [ 1 / 5 ] ideo, ne incidant fracti, multiplicandi sunt
+minimi numeri 3. 2. per diuisorem 5, quo facto, prodeunt 15, & 10, qui
+sunt minimi numeri, in quibus integris sesquialtera Harmonice diuidi
+potest, in quibus quia differentia confusa diuisori semper est
+aequalis, omissa diuisione, statim numero proportionis minore minori
+extremo addito, vel maiore ex maiori subtracto, prodit medium
+Harmonicum. nam addito 2. minori 10, vel subtracto 3. ex 15,
+relinquitur 12, cuius ad extrema differentiae sunt 3.2; quae cùm
+proportionem diuisam referant, certum est 12. esse medium Harmonicum.
+
+** [chapter 1.26]
 Quo pacto demonstretur omnem Inaequalitatemab Aequalitate procedere.
-CAPXXVI.
-ET quoniam dubitari non potest, vt à puncto lineam, & ab vnitate numerum, sic om
-nem inaequalitatem ab aequalitate procedere, superest vt, priusquàm huic operis par
-ti finis imponatur, id quonam pacto fieri contingat, ostendamus; quandoquidem,
-non temerè, aut casu, sed certo constantique ordine id euenire, compertum est. Nam ęqua
-litatem priorem esse inaequalitate, atque illa praestantiorem, nemini dubium esse potest,
-& multis in locis id asserit D. Augustinus, vnde aequalitatis proportio prior erit inaequali
 
+CAP XXVI.
 
-tatis proportionibus; eo tamen ordine, vt ab aequis creentur Multiplices, à Multiplicibus
-conuersis Superparticulares, & à Superparticularibus conuersis Superpartientes, à rectis
-autem Multiplices superpartientes, denique à Superpartientibus rectis Multiplices super-
-partientes. Quod si cui experiri lubet, disponat primùm duos terminos aequales, siue sint
-vnitates, siue binarij, siue quilibet alij, qui proportionem aequam contineant; deinde subi
-ciat illis alteros duos, primum primo aequalium parem, secundum ex vtroque aggregatum:
-& comperiet ex aequa nasci duplam, ex dupla triplam, ex tripla quadruplam; & rursus ex
-dupla, sed conuersa, sesquialteram, ex tripla sesquitertiam; mox ex conuersa sesquialtera
-superbipartientem tertias, ex sesquitertia supertriquartam; at ex recta sesquialtera duplam
-sesquialteram, ex sesquitertia duplam sesquitertiam, denique ex recta superbitertia duplam
-superbitertiam, ex supertriquarta duplam supertriquartam, vt subiecta figura demonstrat:
+ET quoniam dubitari non potest, vt à puncto lineam, & ab vnitate
+numerum, sic omnem inaequalitatem ab aequalitate procedere, superest
+vt, priusquàm huic operis parti finis imponatur, id quonam pacto fieri
+contingat, ostendamus; quandoquidem, non temerè, aut casu, sed certo
+constantique ordine id euenire, compertum est. Nam ęqualitatem priorem
+esse inaequalitate, atque illa praestantiorem, nemini dubium esse
+potest, & multis in locis id asserit D. Augustinus, vnde aequalitatis
+proportio prior erit inaequalitatis proportionibus; eo tamen ordine,
+vt ab aequis creentur Multiplices, à Multiplicibus conuersis
+Superparticulares, & à Superparticularibus conuersis Superpartientes,
+à rectis autem Multiplices superpartientes, denique à
+Superpartientibus rectis Multiplices superpartientes. Quod si cui
+experiri lubet, disponat primùm duos terminos aequales, siue sint
+vnitates, siue binarij, siue quilibet alij, qui proportionem aequam
+contineant; deinde subiciat illis alteros duos, primum primo aequalium
+parem, secundum ex vtroque aggregatum: & comperiet ex aequa nasci
+duplam, ex dupla triplam, ex tripla quadruplam; & rursus ex dupla, sed
+conuersa, sesquialteram, ex tripla sesquitertiam; mox ex conuersa
+sesquialtera superbipartientem tertias, ex sesquitertia
+supertriquartam; at ex recta sesquialtera duplam sesquialteram, ex
+sesquitertia duplam sesquitertiam, denique ex recta superbitertia
+duplam superbitertiam, ex supertriquarta duplam supertriquartam, vt
+subiecta figura demonstrat:
+
 EXAEQVISEX MVLTI-EX SVPER-EX SVPERJEX SVPER.
-oriuntur Mult
-plicibus conuersi
-particularibus couer particularibus re
-partientibus rectis Mul
-plices.
-superparticulares. luis superpartientes.
-ctis Multiplices su- tiplices superpartien
-perparticulares.
-ist Dup. couersasz st Sesquial couersa ; /a Sesquial.recta a 3 Superbiter recta,
-AEqua.
-1sa Sesquialtera
-23 Superbitertia
-Dupla
-315 Dup. sesqalte. 2/5 Oup. superbiter. 3
-Tripla
-i3 Triplacouer. 3s. Sesquiter conuer al; Sesater, rectal; la Suptriqua, rectala
-34 Supertriquarta
-Quadrupla 14 Sesquitertia
-Dup. sesqter. 317 Dup suptriqua al11
-Nos hic in duobus tantùm numeris exempla proposuimus, quòd plurium numerorum
-consideratio ad Musicum non pertineat, vt in fine sequentis libri patebit. Sed nequis inte
-rim nobis vitio verteret, quòd à Boëtij, viri grauissimi, autoritate recesserimus, qui tam in
-Musica, quàm in Arithmetica trium numerorum exempla proposuit; ipsius quoque Boë
-tij nunc statim exempla breui collecta typo subiungimus.
-JEX SVPERPARIEX SVPER-EX SVPER
-JEX AEQVISEX MVLTI
-plicibus couersissticularibus conuersissparticularibus re
-partientibus rectis
-joriuntur Multi
-superparticulares superpartientes.
-ctis Multiplices su Multiplices super¬
-plices.
-partientes.
-perparticulares.
-Asuree
-Isesgal. coue
-Drsla;
-4ssesqalre. a
-AEque 11 1 ducoue
-du sesqt. 4 10/25 d. supbit
-Npnerie
-924164
-9132
-Duple sisa 4selquiale
-gssesqt.rec. 9 12 16 suptriz. r. 1628149
-3 1 sesqt. couc. 161.
-Triplæ 11 3 9trip.cóu
-Quadru- i 4 16 selgrert. 9 s1 2 rosuperiquar 16128 /49 la sesate l9 2 1a9 a suptri.
-164421
-Hactenus Boëtij exempla, in quibus sciendum est, tertij numeri procreandi regulam a
-prioribus differre. Nam certam numerus quisque in sui procreatione regulam sequitur:
-oritur enim primus quidem ex primo, secundus ex secundo, tertius ex tertio, & sic dein¬
-ceps, verùm ita, vt numero procreanti semper antecedentes coniungantur, quidam semel,
-quidam saepiùs, vt numeri cuiusque procreandi regula docet. Regulae igitur trium nume
-rorum hae sunt:
+
+[figure 1 pdf page 78, book page 35]
+
+
+Nos hic in duobus tantùm numeris exempla proposuimus, quòd plurium
+numerorum consideratio ad Musicum non pertineat, vt in fine sequentis
+libri patebit. Sed nequis interim nobis vitio verteret, quòd à Boëtij,
+viri grauissimi, autoritate recesserimus, qui tam in Musica, quàm in
+Arithmetica trium numerorum exempla proposuit; ipsius quoque Boëtij
+nunc statim exempla breui collecta typo subiungimus.
+
+[figure 2 pdf page 78, book page 35]
+
+
+Hactenus Boëtij exempla, in quibus sciendum est, tertij numeri
+procreandi regulam a prioribus differre. Nam certam numerus quisque in
+sui procreatione regulam sequitur: oritur enim primus quidem ex primo,
+secundus ex secundo, tertius ex tertio, & sic deinceps, verùm ita, vt
+numero procreanti semper antecedentes coniungantur, quidam semel,
+quidam saepiùs, vt numeri cuiusque procreandi regula docet. Regulae
+igitur trium numerorum hae sunt:
+
 Priminumeri procreandiregula.
+
 Ponatur primus semel.
+
 Regula secundi.
+
 Popatur primus lemel, & secundus semel.
 
-
 Regula tertij.
+
 Ponatur primus semel, secundus bis, tertius semel.
-Quòd si quis plures velit procreare numeros, pluribus indigebit & regulis, quæ quamuis
-infinitae sint, sicut & numeri, in quibus contingit procreatio; est tamen omnium conficien¬
-darum certus quidam ac determinatus modus, quo siquis vnam atque alteram conficere
-sciat, statim omnes calleat necesse est.is, cùm à nemine hactenus descriptus inueniatur, no
-bisque diuino obtigerit beneficio, benignè omnibus hoc loco videtur esse communican
-dus.
-Quòd non à tribus tantùm, sed à quotlibet terminis equalibus omnis mequa¬
-litas producatur. CAP. XXVII.
-BOétius hunc ine qualitatis ab equalitate processum, disciplinam profundissimam vo
-cat, quae ad omnem naturae vim, rerumque integritatem maxima ratione pertineat
-magnumque in hac scientia fructum esse affirmat. Quod cùm ita sit, non video cur
-ea imperfecta fuerit relinquenda. nec enim ille eam amplius quàm in tribus numeris osten
-dit: vnde & comentator eius Girardus Ruffus cocludit, inaequalitatem quidem progigni
-ab aequalitate, non tamen à quantacunque, sed à trina tantùm: idémque sentit lacobus Fa
-ber Stapulensis in septuagesima noni lordani, cur autem eam non in pluribus terminis
-aequalibus quàm in tribus ostenderint, omnes sese excusant; Boëtius quidem, ne infinita
-sectaretur, & circa res obscurissimas ingredientium animos detinens ab vtilioribus remo
-raretur; Girardus Ruffus autem, quòd id pluribus in terminis fieri nequeat, eóque rerum
-omnium principium vnitrinum (vt ipse vocat) significetur, quandoquidem creationis ini
-tium sit Patet, medium Filius, terminus Spiritus sanctus; denique Faber hanc eandem ob
-causam Pythagoricos, inquit, & Magos, & Priscos sacerdotes, omnésque qui de rebus agant
-diuinis, admirari aequalitatem, pariter & trinitatem in suis arcanis in imagine numerorum
-!! Nos trinitatis mysterijs nihil derogamus, verùm hoc loco non à tri¬
-venerari tacitos.
-na tantùm aequalitate, sed à quotlibet terminis aequalibus inaequalitatem produci osten¬
-demus: nec hanc rem adeò obscuram esse, &, vt Boëtius opinatur, circa infinita versari,
-sed certis terminis, limitibus, ac regulis comprehensam, perspicuè omnes doceri posse pro¬
-babimus; idque duplici via. primùm enim simpliciter, qua via, quibusque regulis id fiat
-ostendemus: deinde, ne causa ignoretur, quamobrem his regulis id efficiatur, perspicua
-demonstratione omnem haesitantibus scrupulum mouebimus. Iamque, quod ad ostensio¬
-nem attinet, tria imprimis agemus. primùm, qui numeri à quibus oriantur, docebimus; se¬
-cundò modos, seu regulas aliquot, secundum quas haec contingit procreatio, trademus:
-!! Numeri
-tertiò triplicem harum regularum conficiendarum rationem aperiemus.
-oriuntur ex aequis multiplices; ex his conuersis superparticulares; ex superparticularibus
-autem rectis quidem positis multiplices superparticulares, ex conuersis autem superpar¬
-tientes; denique ex superpartientibus rectis multiplices superpartientes. quòd autem di¬
-ximus, ex aequis oriri multiplices, id certo quodam ordine fieri intelligendum est, ita vt
-primùm atque immediatè ex aequis nascantur duplices, ex his tripli, ex triplis quadrupli
-& ad eundem ordinem consequentes: quod ipsum quoque ita accipiendum est in reli¬
-quis proportionum generibus; vt cum dico, ex multiplicibus oriri superparticulares, signifi
-co, ex prima multiplicium specie primam superparticularium oriri, ex secunda secundam,
-ex tertia tertiam, & ita deinceps.
-!! Contingit autem haec procreatio certis quibusdam
-regulis, quae tot sunt, quot & numeri procreandi: quare cùm Boëtius non nisi vsque ad tres
-numeros procederet, tres tantùm secutus est reguias: quibus nos, breuitati studentes, tre¬
-tantùm adiungemus, & in sex terminis, inaequalitatis ab aequalitate processum ostende¬
-mus; & tandem harum regularum confectionem, seu originem aperiemus, quaquis cogni¬
 
+Quòd si quis plures velit procreare numeros, pluribus indigebit &
+regulis, quæ quamuis infinitae sint, sicut & numeri, in quibus
+contingit procreatio; est tamen omnium conficiendarum certus quidam ac
+determinatus modus, quo siquis vnam atque alteram conficeresciat,
+statim omnes calleat necesse est.is, cùm à nemine hactenus descriptus
+inueniatur, nobisque diuino obtigerit beneficio, benignè omnibus hoc
+loco videtur esse communican dus.
 
-ta, infinitas eiusmodi regulas constituere possit, quibus adiutus simili modo non tantùm
-in tribus, aut sex, sed quotquot libuerit terminis procedat.
+** [chapter 1.27]
+Quòd non à tribus tantùm, sed à quotlibet terminis equalibus omnis
+mequalitas producatur.
+
+CAP. XXVII.
+
+BOétius hunc ine qualitatis ab equalitate processum, disciplinam
+profundissimam vocat, quae ad omnem naturae vim, rerumque integritatem
+maxima ratione pertineat magnumque in hac scientia fructum esse
+affirmat. Quod cùm ita sit, non video curea imperfecta fuerit
+relinquenda. nec enim ille eam amplius quàm in tribus numeris
+ostendit: vnde & comentator eius Girardus Ruffus cocludit,
+inaequalitatem quidem progigni ab aequalitate, non tamen à
+quantacunque, sed à trina tantùm: idémque sentit lacobus Faber
+Stapulensis in septuagesima noni lordani, cur autem eam non in
+pluribus terminis aequalibus quàm in tribus ostenderint, omnes sese
+excusant; Boëtius quidem, ne infinita sectaretur, & circa res
+obscurissimas ingredientium animos detinens ab vtilioribus
+remoraretur; Girardus Ruffus autem, quòd id pluribus in terminis fieri
+nequeat, eóque rerum omnium principium vnitrinum (vt ipse vocat)
+significetur, quandoquidem creationis initium sit Patet, medium
+Filius, terminus Spiritus sanctus; denique Faber hanc eandem obcausam
+Pythagoricos, inquit, & Magos, & Priscos sacerdotes, omnésque qui de
+rebus agant diuinis, admirari aequalitatem, pariter & trinitatem in
+suis arcanis in imagine numerorum venerari tacitos.
+
+Nos trinitatis mysterijs nihil derogamus, verùm hoc loco non à trina
+tantùm aequalitate, sed à quotlibet terminis aequalibus inaequalitatem
+produci ostendemus: nec hanc rem adeò obscuram esse, &, vt Boëtius
+opinatur, circa infinita versari, sed certis terminis, limitibus, ac
+regulis comprehensam, perspicuè omnes doceri posse probabimus; idque
+duplici via. primùm enim simpliciter, qua via, quibusque regulis id
+fiat ostendemus: deinde, ne causa ignoretur, quamobrem his regulis id
+efficiatur, perspicua demonstratione omnem haesitantibus scrupulum
+mouebimus. Iamque, quod ad ostensionem attinet, tria imprimis
+agemus. primùm, qui numeri à quibus oriantur, docebimus; secundò
+modos, seu regulas aliquot, secundum quas haec contingit procreatio,
+trademus: tertiò triplicem harum regularum conficiendarum rationem
+aperiemus.
+
+Numeri oriuntur ex aequis multiplices; ex his conuersis
+superparticulares; ex superparticularibus autem rectis quidem positis
+multiplices superparticulares, ex conuersis autem superpartientes;
+denique ex superpartientibus rectis multiplices superpartientes. quòd
+autem diximus, ex aequis oriri multiplices, id certo quodam ordine
+fieri intelligendum est, ita vt primùm atque immediatè ex aequis
+nascantur duplices, ex his tripli, ex triplis quadrupli & ad eundem
+ordinem consequentes: quod ipsum quoque ita accipiendum est in
+reliquis proportionum generibus; vt cum dico, ex multiplicibus oriri
+superparticulares, significo, ex prima multiplicium specie primam
+superparticularium oriri, ex secunda secundam, ex tertia tertiam, &
+ita deinceps.
+
+Contingit autem haec procreatio certis quibusdam regulis, quae tot
+sunt, quot & numeri procreandi: quare cùm Boëtius non nisi vsque ad
+tres numeros procederet, tres tantùm secutus est reguias: quibus nos,
+breuitati studentes, tretantùm adiungemus, & in sex terminis,
+inaequalitatis ab aequalitate processum ostendemus; & tandem harum
+regularum confectionem, seu originem aperiemus, quaquis cognita,
+infinitas eiusmodi regulas constituere possit, quibus adiutus simili
+modo non tantùm in tribus, aut sex, sed quotquot libuerit terminis
+procedat.
+
 Regula prima, de procreatione primi cuiusque ordinis numeri.
+
 Ponatur primus semel.
+
 Regula secunda, de procreatione secundi.
+
 Ponatur primus semel, & secundus semel.
+
 Regula tertia, de procreatione tertij.
+
 Ponatur primus semel, secundus bis, tertius semel.
+
 Regula quarta, de procreatione quarti.
+
 Ponatur primus semel, secundus ter, tertius ter, quartus semel.
+
 Regula quinta, de procreatione quinti.
+
 Ponatur primus semel, secundus quater, tertius sexies, quartus quater, quintus semel.
+
 Regula sexta, de procreatione sexti.
-Ponatur primus semel, secundus quinquies, tertius decies, quartus decies, quintus quio¬
-quies, sextus semel.
+
+Ponatur primus semel, secundus quinquies, tertius decies, quartus
+decies, quintus quioquies, sextus semel.
+
 Hae regulebreuiter sequenti figurae includuntur.
 1 Regula prima.
 Regula secunda.
 Regula tertia.
 Regula quarta.
 6 4/1 Regula quinta.
-s1/5 10 | 10 1 Regulasexta
+s1/5 10 | 10 1 Regula sexta
+
+
 Secundum has regulas procreantur ex aquis duplices, & ex his tripli, vt sequens demon¬
 strat figura:
 Anui
