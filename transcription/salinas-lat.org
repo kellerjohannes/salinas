@@ -1778,171 +1778,236 @@ De genere Multiplici superpartienti, & de eius speciebus.
 
 CAP. XVII.
 
-Dem etiam dici potest de multiplici superpartienti, in quo numerus maior continet
-minorem pluries, & aliquas eius partes: quatenus enim continet eum pluries, dicitur
-Multiplex: & quatenus continet insuper aliquas eius partes, quae non faciunt vna, est
-superpartiens, atque ita simul dicitur Multiplex superpartiens, vt in hac proportione 8.
-ad 3, in qua numerus maior continet minorem bis, & duas eius tertias partes, vnde me¬
-ritò dicetur haec proportio Dupla superbipartiens tertias. Et hoc genus, sicut Multiplex
-superparticulare, habet omnes species Multiplicis cum singulis generibus, ac speciebus Su¬
-perpartientis, & contrà. reperiuntur enim in eo dupla superbipartiens, & tripla superbi¬
-partiens, & quadrupla superbipartiens: & cum his omnes species superpartientis, tertias,
-quartas, & quintas, vt in hoc diagrammate, quod hîc apponendum curauimus, omnia mi¬
-ro poterunt ordine inuestigari in quo limes secundus ad primum ostendit superpartien¬
-tes priùs positos; tertius limes eos continet, qui ex vna comitum ad superpartientes ad-
+IDem etiam dici potest de multiplici superpartienti, in quo numerus
+maior continet minorem pluries, & aliquas eius partes: quatenus enim
+continet eum pluries, dicitur Multiplex: & quatenus continet insuper
+aliquas eius partes, quae non faciunt vna, est superpartiens, atque
+ita simul dicitur Multiplex superpartiens, vt in hac proportione 8. ad
+3, in qua numerus maior continet minorem bis, & duas eius tertias
+partes, vnde meritò dicetur haec proportio Dupla superbipartiens
+tertias. Et hoc genus, sicut Multiplex superparticulare, habet omnes
+species Multiplicis cum singulis generibus, ac speciebus
+Superpartientis, & contrà. reperiuntur enim in eo dupla
+superbipartiens, & tripla superbipartiens, & quadrupla
+superbipartiens: & cum his omnes species superpartientis, tertias,
+quartas, & quintas, vt in hoc diagrammate, quod hîc apponendum
+curauimus, omnia miro poterunt ordine inuestigari in quo limes
+secundus ad primum ostendit superpartientes priùs positos; tertius
+limes eos continet, qui ex vna comitum ad superpartientes adiectione
+restituti sunt; quartus autem eos, qui vna & altera adiectione;
+quintus eos, qui trina.
 
-
-iectione restituti sunt; quartus autem eos, qui vna & altera adiectione; quintus eos, qui
-trina.
 Longitudo
-Comites excessum ducum secun
-dum latitudinem, aperiunt.
+Latitudo
 Comites
 Superpartientes
 Ternario
-
 Dupli
 Tripli
 Quaternario.
 Quinario.
-Vides tertium ordinem ad primum duplos amplecti superpartientes; quartum item ad
-primum triplos itidem superpartientes; denique quintum quadruplos superpartientes.
-quod si eadem lege sextum, septimum, & alios feceris, surgent quintupli, sextupli, septu
-pli superpartientes.
-De Pythagoreorum diagrammate celeberrimo, quod Pythagorae mensam appel¬
+Excedentes se
+
+[figure 1 pdf page 63, book page 20]
+
+Vides tertium ordinem ad primum duplos amplecti superpartientes;
+quartum item ad primum triplos itidem superpartientes; denique quintum
+quadruplos superpartientes. quod si eadem lege sextum, septimum, &
+alios feceris, surgent quintupli, sextupli, septupli superpartientes.
+
+** [chapter 1.18]
+De Pythagoreorum diagrammate celeberrimo, quod Pythagorae mensam
+appellant, & de ipsius ptilitatibus.
+
 CAP. XVIII.
-lant, & de ipsius ptilitatibus.
-DRæeter ea quæ posita sunt, aliud etiam diagramma duximus apponendum, quod Py-
-A thagora mensam appellant, maxima consideratione dignum, quod est huusmodit
+
+PRæeter ea quæ posita sunt, aliud etiam diagramma duximus apponendum,
+quod Pythagora mensam appellant, maxima consideratione dignum, quod
+est huusmodit
+
 Longitudo.
-10 Primus limes
-20 Dupli
-30 Tripli
-uru
-50 Quincupli
-6o Sescupli
-70 Septupli
-80 Octupli
-9 Poneug
-100. Decupli
+Latitudo.
+Primus limes
+Dupli
+Tripli
+Quincupli
+Sescupli
+Septupli
+Octupli
+Decupli
+
+Excedunt se Numeri primi limitis unitate, Dupli binario, Tripli
+ternario, Quadrupli 4. & sic deinceps.
+
+Ad primum limitem
+
+[figure 2 pdf page 63, book page 20]
 
 
-In hoc diagrammate (quod Pythagorae Mensam ab omnibus diximus appellari) om¬
-nium generum naturali ordine dispositae proportiones inueniuntur, ita vt primùm oc¬
-currant multiplices, deinde superparticulares, postea superpartientes, deinceps multipli¬
-ces superparticulares, postremo multiplices superpartientes. Ad duos enim primos ordi-
-nes longitudinis, & latitudinis, qui faciunt angulum in vnitate, omnes alij sunt MVLtipli-
-ces, si numeros numeris sibi respondentibus conferas: nam duo secundi ordines, qui, in
-quaternario concurrentes, angulum constituunt, sunt ad primos dupli; tertij, qui in noue
-nario, tripli; atque ita qui sequuntur ad decimos vsque, qui faciunt angulum in centenario,
-& sunt ad primos decupli. Et quoniam ad vnitatem nullus inuenitur SVPERparticula
-ris, ideo nullus ordo, ad primum comparatus, est illi superparticularis; sed duo tertij ordi¬
-nes, ad duos secundos collati, efficiunt primam superparticularium speciem, & sunt ad
-eos sesquialteri; quarti ad tertios sesquitertij; quinti ad quartos sesquiquarti; & sic vsque ad
-decimos, qui ad nonos sunt sesquinoni. Inueniuntur etiam SVPerpartientium genera, &
-species complures: nam quinti, comparati ad tertios, sunt superbipartientes tertias; septi¬
-mi ad quintos, superbipartientes quintas; septimi item ad quartos, supertripartientes quar¬
-tas; octaui ad quintas, supertriquinti; noni item ad quintos, superquadriquinti; decimi ad
-septimos, supertripartientes septimas. MVLtiplex etiam SVPERparticulare inuenietur:
-nam si comparemus quintos, & septimos, & nonos ad secundos, emergent dupli sesquial
-teri, tripli sesquialteri, quadrupli sesquialteri; &, si comparentur septimi, & decimi ad ter-
-tios, consurgent dupli sesquitertij, & tripli sesquitertij. Postremò inuenitur MVLtiplex
-SVPerpartiens: nam, si comparentur octaui ordines ad tertios, reperietur inter eos dupla
-superbipartiens tertias. Sunt etiam plurima in hoc typo consideratione dignissima, & (vt
-Boëetius ait) ad subtilitatem tenuissima, ad scientiam vtilissima, & ad exercitationem men
-tis iucundissima; quorum aliqua perstringemus, quae fastidium, quod in proportionibus
-inquirendis conceptum fuit, leuare possint. Primumque esto, quòd linea diametralis, si
-ab angulo, quem facit vnitas, protendatur per numeros angulares, transibit vsque ad angu
-lum, quem facit centenarius: dicuntur autem numeri angulares, qui fiunt ex concursu or
-dinum longitudinis, & latitudinis, vt quaternarius ex concursu secundorum ordinum, &
-nouenarius ex tertiorum; & hi omnes sunt quadrati, & puncto, vt prae coeteris dignoscan
-tur, notati. Secundum, quòd omnes quadrati sunt circunclusi à numeris longilateris, (quo¬
-rum natura superiùs explicata est cap.9.) vt quaternarius à binario, & senario, ita vt alter
-praecedat, & alter sequatur. Quòd si duobus longilateris aggregatis quadratus duplica¬
-tus coniungatur, emerget quadratus: nam ex binario, & senario aggregatis fiunt octo, &
-ex quaternario duplicato item octo,quibus coniunctis emergunt 16, qui est quadratus
-quaternarij. Tertium, quòd, si aggregentur duo quadrati immediati, & duplicetur longi-
-laterus, eos geometricè diuidens, qui inde prouenient numeri, in summam collecti, qua-
-dratum etiam efficient: vt si quadrati 4. & 9. aggregentur, proueniunt 13; longilaterus ve
-rò 6. bis sumptus facit 12; denique producti 13. & 12. in vnum collecti, constituunt 25, qui
-est quadratus quinarij. est tamen nonnulla inter hos quadratos differentia: nam illi , qui
-surgunt ex longilateris duobus, & quadrato, erunt numeri pares; & qui surgunt ex duo¬
-bus quadratis, & longilatero, erunt impares, quorum melior & fortior est natura. Quar¬
-tum, quòd in tota tetragoni figura, & in quadratis minoribus, qui ex partibus eius fiunt;
-si numeri, qui ex angulis oppositis se respiciunt, alter in alterum ducantur, eandem inter
-se summam conficiunt; vt si vnitas per centum multiplicetur, prouenient centum, & tan
-tundem efficient denarij, qui in reliquis duobus lateribus sunt oppositi, si alter in alterum
-ducatur. atque idem eueniet in quadratis minoribus, veluti sunt T. 9. 81. 9. 8. 10. 30. 24.
-aliáaque infinita: tantundem enim producitur ex 1. in 80. quantum ex 8. in 10, itémque ex
-4. in 24, quantum ex 8. in 12. Et haec de multis dicta sint, quae circa hoc diagramma dici po
-terant, omnibus quidem notissimum, vtpote quod pueris, praxim Arithmetites exercen¬
+In hoc diagrammate (quod Pythagorae Mensam ab omnibus diximus
+appellari) omnium generum naturali ordine dispositae proportiones
+inueniuntur, ita vt primùm occurrant multiplices, deinde
+superparticulares, postea superpartientes, deinceps multiplices
+superparticulares, postremo multiplices superpartientes. Ad duos enim
+primos ordines longitudinis, & latitudinis, qui faciunt angulum in
+vnitate, omnes alij sunt MVLtiplices, si numeros numeris sibi
+respondentibus conferas: nam duo secundi ordines, qui, in quaternario
+concurrentes, angulum constituunt, sunt ad primos dupli; tertij, qui
+in nouenario, tripli; atque ita qui sequuntur ad decimos vsque, qui
+faciunt angulum in centenario, & sunt ad primos decupli. Et quoniam ad
+vnitatem nullus inuenitur SVPERparticularis, ideo nullus ordo, ad
+primum comparatus, est illi superparticularis; sed duo tertij ordines,
+ad duos secundos collati, efficiunt primam superparticularium speciem,
+& sunt ad eos sesquialteri; quarti ad tertios sesquitertij; quinti ad
+quartos sesquiquarti; & sic vsque ad decimos, qui ad nonos sunt
+sesquinoni. Inueniuntur etiam SVPerpartientium genera, & species
+complures: nam quinti, comparati ad tertios, sunt superbipartientes
+tertias; septimi ad quintos, superbipartientes quintas; septimi item
+ad quartos, supertripartientes quartas; octaui ad quintas,
+supertriquinti; noni item ad quintos, superquadriquinti; decimi ad
+septimos, supertripartientes septimas. MVLtiplex etiam
+SVPERparticulare inuenietur: nam si comparemus quintos, & septimos, &
+nonos ad secundos, emergent dupli sesquialteri, tripli sesquialteri,
+quadrupli sesquialteri; &, si comparentur septimi, & decimi ad
+tertios, consurgent dupli sesquitertij, & tripli
+sesquitertij. Postremò inuenitur MVLtiplex SVPerpartiens: nam, si
+comparentur octaui ordines ad tertios, reperietur inter eos dupla
+superbipartiens tertias. Sunt etiam plurima in hoc typo consideratione
+dignissima, & (vt Boëetius ait) ad subtilitatem tenuissima, ad
+scientiam vtilissima, & ad exercitationem mentis iucundissima; quorum
+aliqua perstringemus, quae fastidium, quod in proportionibus
+inquirendis conceptum fuit, leuare possint. Primumque esto, quòd linea
+diametralis, si ab angulo, quem facit vnitas, protendatur per numeros
+angulares, transibit vsque ad angulum, quem facit centenarius:
+dicuntur autem numeri angulares, qui fiunt ex concursu or dinum
+longitudinis, & latitudinis, vt quaternarius ex concursu secundorum
+ordinum, & nouenarius ex tertiorum; & hi omnes sunt quadrati, &
+puncto, vt prae coeteris dignoscantur, notati. Secundum, quòd omnes
+quadrati sunt circunclusi à numeris longilateris, (quorum natura
+superiùs explicata est cap.9.) vt quaternarius à binario, & senario,
+ita vt alter praecedat, & alter sequatur. Quòd si duobus longilateris
+aggregatis quadratus duplicatus coniungatur, emerget quadratus: nam ex
+binario, & senario aggregatis fiunt octo, & ex quaternario duplicato
+item octo,quibus coniunctis emergunt 16, qui est quadratus
+quaternarij. Tertium, quòd, si aggregentur duo quadrati immediati, &
+duplicetur longilaterus, eos geometricè diuidens, qui inde prouenient
+numeri, in summam collecti, quadratum etiam efficient: vt si
+quadrati 4. & 9. aggregentur, proueniunt 13; longilaterus verò 6. bis
+sumptus facit 12; denique producti 13. & 12. in vnum collecti,
+constituunt 25, qui est quadratus quinarij. est tamen nonnulla inter
+hos quadratos differentia: nam illi , qui surgunt ex longilateris
+duobus, & quadrato, erunt numeri pares; & qui surgunt ex duobus
+quadratis, & longilatero, erunt impares, quorum melior & fortior est
+natura. Quartum, quòd in tota tetragoni figura, & in quadratis
+minoribus, qui ex partibus eius fiunt; si numeri, qui ex angulis
+oppositis se respiciunt, alter in alterum ducantur, eandem inter se
+summam conficiunt; vt si vnitas per centum multiplicetur, prouenient
+centum, & tantundem efficient denarij, qui in reliquis duobus
+lateribus sunt oppositi, si alter in alterum ducatur. atque idem
+eueniet in quadratis minoribus, veluti sunt
+T. 9. 81. 9. 8. 10. 30. 24. aliáaque infinita: tantundem enim
+producitur ex 1. in 80. quantum ex 8. in 10, itémque ex 4. in 24,
+quantum ex 8. in 12. Et haec de multis dicta sint, quae circa hoc
+diagramma dici poterant, omnibus quidem notissimum, vtpote quod
+pueris, praxim Arithmetites exercentibus, primùm ediscendum
+proponitur, sed à paucissimis, vt par est, examinatum; nos autem de
+illo, ac de proportionum generibus haec tantùm, breuitatis causa,
+dicenda, qua maiori potuimus claritate curauimus.
 
-
-tibus, primùm ediscendum proponitur, sed à paucissimis, vt par est, examinatum; nos au¬
-tem de illo, ac de proportionum generibus haec tantùm, breuitatis causa, dicenda, qua ma
-iori potuimus claritate curauimus.
+** [chapter 1.19]
 De modo coniungendi, & duplandi Proportiones.
-XIX.
-CAP.
-ET quoniam saepe cogitur harmonicus ex duabus, aut tribus proportionibus vnam
-— componere, saepe etiam vnam in duas, aut tres diuidere, antequàm de proportiona¬
-—litatibus dicere ordiamur, in quibus diuidendi proportiones modus inuestigatur,
-necesse erit, vt modum, eas coniungendi, & in summam colligendi, doceamus. Quae si fue
-rint inaequales, facilè poterunt coniungi, duarum proportionum numeris maioribus alte
-ro in alterum ductis, atque item minoribus; & in numeris, qui ex ea multiplicatione pro¬
-ueniunt, reperietur vna ex duabus facta proportio. Vt si velimus, ex coniunctione sesqui
-tertiae cum sesquialtera, scire, quaenam emergat proportio, accipiemus maiorem sesqui¬
-tertiae, qui est 4, & ducemus in maiorem sesquialterae, qui est 3, & prouenient 12; & mino
-rem sesquitertiae, qui est 3, per minorem sesquialterae, qui est 2, & prouenient 6: & à 12. ad
-6. erit dupla, composita ex sesquialtera, & sesquitertia. Cuius erit probatio certissima, si
-multiplicemus minorem vnius per maiorem alterius, 2. per 4, & prouenient 8, qui numerus di¬
-uidet duplam in sesquitertiam, & sesquialteram, vt in his numeris, 6.8.12. Et si velimus adiunge
-re sesquitertiae sesquiquintam, ducemus 6. maiorem sesquiquintae, in 4. maiorem sesquiter
-tiae, & prouenient 24, & 5. in 3. vtriusque minores, & fient 15: & à 24. ad 15. erit propor-
-tio supertripartiens quintas facta ex duabus. quod facilè apparebit, si ducantur aut 6, in
-3, aut 5. in 4: quia ex priori multiplicatione prouenient 18, & ex posteriore 20, vt in his nu¬
-meris, 24.18. 15, vel, 24. 20. 15. Quòd si volemus his tertiam adiungere, capiemus maio¬
-rem illius numerum, & ducemus in huius maiorem; & minorem item in minorem: vt si
-erit sesquialtera, ducetur 24. in 3, & fient 72; & 15. in 2. prouenient 30: in quibus nume¬
-ris inuenietur proportio dupla superbipartiens quintas, facta ex sesquialtera, & sesquiter¬
-tia, & sesquiquinta, vt apparet in his numeris.
+
+XIX. CAP.
+
+ET quoniam saepe cogitur harmonicus ex duabus, aut tribus
+proportionibus vnam componere, saepe etiam vnam in duas, aut tres
+diuidere, antequàm de proportionalitatibus dicere ordiamur, in quibus
+diuidendi proportiones modus inuestigatur, necesse erit, vt modum, eas
+coniungendi, & in summam colligendi, doceamus. Quae si fuerint
+inaequales, facilè poterunt coniungi, duarum proportionum numeris
+maioribus altero in alterum ductis, atque item minoribus; & in
+numeris, qui ex ea multiplicatione proueniunt, reperietur vna ex
+duabus facta proportio. Vt si velimus, ex coniunctione sesquitertiae
+cum sesquialtera, scire, quaenam emergat proportio, accipiemus maiorem
+sesquitertiae, qui est 4, & ducemus in maiorem sesquialterae, qui est
+3, & prouenient 12; & minorem sesquitertiae, qui est 3, per minorem
+sesquialterae, qui est 2, & prouenient 6: & à 12. ad 6. erit dupla,
+composita ex sesquialtera, & sesquitertia. Cuius erit probatio
+certissima, simultiplicemus minorem vnius per maiorem alterius, 2. per
+4, & prouenient 8, qui numerus diuidet duplam in sesquitertiam, &
+sesquialteram, vt in his numeris, 6.8.12. Et si velimus adiungere
+sesquitertiae sesquiquintam, ducemus 6. maiorem sesquiquintae,
+in 4. maiorem sesquitertiae, & prouenient 24, & 5. in 3. vtriusque
+minores, & fient 15: & à 24. ad 15. erit proportio supertripartiens
+quintas facta ex duabus. quod facilè apparebit, si ducantur aut 6, in
+3, aut 5. in 4: quia ex priori multiplicatione prouenient 18, & ex
+posteriore 20, vt in his numeris, 24.18. 15, vel, 24. 20. 15. Quòd si
+volemus his tertiam adiungere, capiemus maiorem illius numerum, &
+ducemus in huius maiorem; & minorem item in minorem: vt si erit
+sesquialtera, ducetur 24. in 3, & fient 72; & 15. in 2. prouenient 30:
+in quibus numeris inuenietur proportio dupla superbipartiens quintas,
+facta ex sesquialtera, & sesquitertia, & sesquiquinta, vt apparet in
+his numeris.
+
 Sesquialtera Sesquitertia Sesquiquinta
 Duplasuperbiquinte.
-Et ad hunc modum poterunt, quotquot voluerimus, coniungi. Quòd si proportiones erunt
-aequales, earum coniunctio dicitur duplatio, aut triplatio. Et duarum coniunctio (quę du
-platio vocatur) facilimè fieri poterit, numeris, in quibus proportiones aequales inueniun
-tur, ductis in seipsos: & in numeris, qui ex hac multiplicatione prouenient, inuenietur ex
-duabus aequalibus facta vna: vt si velimus duplare sesquialteram, ducemus maiorem nu¬
-merum, 3, in seipsum; similiter & minorem, 2, & prouenient 9. & 4, quae erit dupla sesqui¬
-quarta, facta ex duabus sesquialteris: quod erit manifestum, si ducatur 3. in 2, nam fient 6,
-qui numerus diuidit proportionem, 9. ad 4, in duas aequales, vt ostendunt hi numeri:
+
+[figure 1 pdf page 65, book page 22]
+
+
+Et ad hunc modum poterunt, quotquot voluerimus, coniungi. Quòd si
+proportiones erunt aequales, earum coniunctio dicitur duplatio, aut
+triplatio. Et duarum coniunctio (quę duplatio vocatur) facilimè fieri
+poterit, numeris, in quibus proportiones aequales inueniuntur, ductis
+in seipsos: & in numeris, qui ex hac multiplicatione prouenient,
+inuenietur ex duabus aequalibus facta vna: vt si velimus duplare
+sesquialteram, ducemus maiorem numerum, 3, in seipsum; similiter &
+minorem, 2, & prouenient 9. & 4, quae erit dupla sesquiquarta, facta
+ex duabus sesquialteris: quod erit manifestum, si ducatur 3. in 2, nam
+fient 6, qui numerus diuidit proportionem, 9. ad 4, in duas aequales,
+vt ostendunt hi numeri:
+
 Sesquialtera Sesquialtera
 Dupla sesquiquarta.
-Idem fiet, si duas sesquioctauas velimus coniungere, ductis in seipsos 9. & 8, ex qua multi
-plicatione consurgent 64. & 81, quae erit superseptendecimpartiens sexagesimas quar¬
+
+[figure 2 pdf page 65, book page 22]
+
+Idem fiet, si duas sesquioctauas velimus coniungere, ductis in
+seipsos 9. & 8, ex qua multiplicatione consurgent 64. & 81, quae erit
+superseptendecimpartiens sexagesimas quartas, ex duabus sesquioctauis
+composita: nam, ductis 8. in 9, prouenient 72, qui erit
+ad 64. sesquioctauus, & eandem proportionem faciet ad eum 81. Quòd si
+proportionem triplare velimus, numeri, qui ex duplatione prouenerint,
+ducendi sunt in minimos ipsius numeros, maior in maiorem, & minor in
+minorem, & in ijs, qui ex ea multiplicatione nascentur, triplata
+reperietur. vt, si velimus triplare sesquialteram 3. ad 2, numeri 9. &
+4, ex eius duplatione producti, ducendi sunt in eosdem 3. & 2,
+maior 9. in maiorem 3, & minor 4. in minorem 2, & consurgent 27. & 8,
+quae erit tripla supertripartiens octauas, composita ex tribus
+sesquialteris, vt apparet in his numeris:
+
+Sesquialtera Sesquialtera Sesquialtera Triplasupertripartiens octauas.
+
+[figure 1 pdf page 66, book page 23]
 
 
-tas, ex duabus sesquioctauis composita: nam, ductis 8. in 9, prouenient 72, qui erit ad 64.
-sesquioctauus, & eandem proportionem faciet ad eum 81. Quòd si proportionem tripla
-re velimus, numeri, qui ex duplatione prouenerint, ducendi sunt in minimos ipsius nume
-ros, maior in maiorem, & minor in minorem, & in ijs, qui ex ea multiplicatione nascen¬
-tur, triplata reperietur. vt, si velimus triplare sesquialteram 3. ad 2, numeri 9. & 4, ex eius du¬
-platione producti, ducendi sunt in eosdem 3. & 2, maior 9. in maiorem 3, & minor 4. in
-minorem 2, & consurgent 27. & 8, quae erit tripla supertripartiens octauas, composita ex
-tribus sesquialteris, vt apparet in his numeris:
-Sesquialtera Sesquialtera Sesquialtera
-Triplasupertripartiens octauas.
-Et si sesquioctauae duplatae numeri, 81. & 64, ducantur in minimos sesquioctauae nume¬
-ros, 9. & 8, prouenient 729. & 512, in quibus numeris inuenietur vna ex tribus sesquiocta
-uis facta proportio, quas ostendunt hi numeri, 512. 576.648. 729. Atque idem faciedum
-est, si quadruplare velimus, in numeris, qui ex triplatione prouenerunt; &, si quincuplare.
-in his, qui ex quadruplatione; semper eos ducendo in minimos illius proportionis, quam
-multiplicare propositum sit. Quae duplandae, & triplandae proportionis regula erit non
-minùs vtilis, quàm facilis rerum musicalium speculationem facere volenti, vt suis locis ma
-nifestum esse poterit.
-De modo subtrahendarum vnius ab altera proportionum, &
-quo pacto ad minimos numeros reducantur.
+Et si sesquioctauae duplatae numeri, 81. & 64, ducantur in minimos
+sesquioctauae numeros, 9. & 8, prouenient 729. & 512, in quibus
+numeris inuenietur vna ex tribus sesquioctauis facta proportio, quas
+ostendunt hi numeri, 512. 576.648. 729. Atque idem faciedum est, si
+quadruplare velimus, in numeris, qui ex triplatione prouenerunt; &, si
+quincuplare. in his, qui ex quadruplatione; semper eos ducendo in
+minimos illius proportionis, quam multiplicare propositum sit. Quae
+duplandae, & triplandae proportionis regula erit non minùs vtilis,
+quàm facilis rerum musicalium speculationem facere volenti, vt suis
+locis manifestum esse poterit.
+
+** [chapter 1.20]
+De modo subtrahendarum vnius ab altera proportionum, & quo pacto ad
+minimos numeros reducantur.
+
 CAP. XX.
+
 OPortet etiam Harmonicum examinare solerter excessuum quantitates, quibus vna
 proportio superatur ab altera, vt possit exactas earum inter se differentias cogno¬
 scere: quam cognitionem perfectam habere nequaquam poterit, nisi priùs vnam
