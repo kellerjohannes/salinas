@@ -2822,115 +2822,151 @@ Ponatur primus semel, secundus quinquies, tertius decies, quartus
 decies, quintus quioquies, sextus semel.
 
 Hae regulebreuiter sequenti figurae includuntur.
-1 Regula prima.
+Regula prima.
 Regula secunda.
 Regula tertia.
 Regula quarta.
-6 4/1 Regula quinta.
-s1/5 10 | 10 1 Regula sexta
+Regula quinta.
+Regula sexta
+
+[figure 1 pdf page 80, book page 37]
 
 
-Secundum has regulas procreantur ex aquis duplices, & ex his tripli, vt sequens demon¬
-strat figura:
-Anui
+Secundum has regulas procreantur ex aquis duplices, & ex his tripli,
+vt sequens demonstrat figura:
+
+Aequi
 Dupli
 Tripli
-In hac figura primus ordo sex terminos aequales continet, secundus totidem duplos, ter¬
-tius triplos; & inuenitur primus duplorum procreatus ex primo aequalium semel posito,
-secundus ex primo & secundo, semel positis; tertius primo semel, secundo bis, tertio semei
-positis; & sic caeteri secundùm praemissas regulas: eodémque modo positis duplicibus
-oriuntur tripli: & duplis conuersis positis, prodeunt sesquialterae, vt in hac patet figura:
+
+[figure 2 pdf page 80, book page 37]
+
+
+In hac figura primus ordo sex terminos aequales continet, secundus
+totidem duplos, tertius triplos; & inuenitur primus duplorum
+procreatus ex primo aequalium semel posito, secundus ex primo &
+secundo, semel positis; tertius primo semel, secundo bis, tertio
+semeipositis; & sic caeteri secundùm praemissas regulas: eodémque modo
+positis duplicibus oriuntur tripli: & duplis conuersis positis,
+prodeunt sesquialterae, vt in hac patet figura:
+
 Dupliconuersi
 Sesquialtera
-Idem & in cæeteris generibus experirilicet. Nos ne longiores simus, nune statim mo¬
-dum docebimus, quo tum praemissae regulae sunt confectae, tum quotlibet aliae, quibus ab
-infinitis terminis aequalibus ad inaequalium procreationem procedatur, confici queunt.
+
+[figure 3 pdf page 80, book page 37]
 
 
-circa quod notandum est, has regulas ex certis numeris componi, qui aduerbialiter profe
-runtur, vt semel, bis, ter, quater; quos Positionum numeros appellare licebit, quòd do-
-ceant, quoties quemque ex illis numeris, ex quibus alios procreare volumus, poni oporteat,
-continetque prima regula numerùm positionum vnum, secunda duos, tertia tres: & pri¬
-ma regula respondet primo numero procreando, secunda secundo , tertia tertio , & sic
-deinceps. itaque si ex duplis velimus procreare numerum triplorum tertium, continet ter
-tia regula tres positionum numeros, qui sunt, 1. 2. 1, quorum primus tribuendus est
-duplorum primo, secundus secundo, tertius tertio: docetque primus primum duplorum
-ponendum esse semel, secundus secundum bis, tertius tertium semel, quibus coniunctis
-oritur 9, qui est tertius triplorum; vt in hac ostenditur figura.
+Idem & in cæeteris generibus experirilicet. Nos ne longiores simus,
+nune statim modum docebimus, quo tum praemissae regulae sunt
+confectae, tum quotlibet aliae, quibus ab infinitis terminis
+aequalibus ad inaequalium procreationem procedatur, confici
+queunt. circa quod notandum est, has regulas ex certis numeris
+componi, qui aduerbialiter proferuntur, vt semel, bis, ter, quater;
+quos Positionum numeros appellare licebit, quòd doceant, quoties
+quemque ex illis numeris, ex quibus alios procreare volumus, poni
+oporteat, continetque prima regula numerùm positionum vnum, secunda
+duos, tertia tres: & prima regula respondet primo numero procreando,
+secunda secundo , tertia tertio , & sic deinceps. itaque si ex duplis
+velimus procreare numerum triplorum tertium, continet tertia regula
+tres positionum numeros, qui sunt, 1. 2. 1, quorum primus tribuendus
+est duplorum primo, secundus secundo, tertius tertio: docetque primus
+primum duplorum ponendum esse semel, secundus secundum bis, tertius
+tertium semel, quibus coniunctis oritur 9, qui est tertius triplorum;
+vt in hac ostenditur figura.
+
 1. Primus duplorum semel positus.
-Secundus duplorum bis positus.
+2. Secundus duplorum bis positus.
 4. Tertius duplorum semel positus.
 9. Tertiustriplorum ex duplorum collectione procreatus.
-In quo exemplo illud simul obseruatu dignum est, quòd sicut in qualibet actione tria con
-currunt, quae sunt agens, patiens, & modus agendi:ita & in hac numerorum procreatio¬
-ne, triplices concurrunt numeri, procreans, procreandus, & is, qui docet procreandi mo¬
-dum: vt in praedicto exemplo numerus procreandus est 9.tertius triplorum; procreantes
-sunt tres dupli 1.2.4; quique modum procreandi docent, sunt tres positionum numeri 1.
-2.1, quorum primus docet, primum duplorum ponendum esse semel, secundus secundum
-bis, tertius tertium semel. Quare cùm regulae ex numeris positionum componantur, hi
-quomodo nascantur, ostendendum est. utque appareat, nos nó infinita (vt Boëtius autu-
-mat) sectari; rem omnem non vno tantùm limite complectemur, sed tres modos, quibus
-hae regulae confici possunt, proponemus primùm enim numerorum positionum alterius
-ab altero ex continua ab vnitate serie originem aperiemus: deinde singulorum ex binis
-coniunctis compositionem explicabimus: denique eorundem ex ordine, quo in qualibet
-regula ponuntur, ortum enodabimus.
-Circa primum modum sciendum est, ex nu¬
-meris positionum alium esse primum, alium secundum, alium tertium, & sic deinceps, vt
-in praemissa Regularum figura apparuit. oriuntur igitur ex primis positionum numeris
-secundi, ex secundis tertij, ex tertijs quarti, & sic caeteri, hoc modo: Primi positionum nu¬
-meri omnes sunt vnitates, quarum prima dat primum secundorum; prima, & secunda col
-lecta secundum; prima, secunda, & tertia tertium; prima, secunda, tertia, & quarta quartu:
-eodémque modo collectis ordine ab vnitate secundis, oriuntur tertij, & ex tertijs quarti,
-yt sequens dedarat figura:
-Longitudo
-Primi
-Verunkh
-Tertij
-56 Quarti
-Duwi
-126 | 252 | Sexti
-Altero modo coniunctis binis proximis cuiusque regulae numeris, oritur numerus sequem
-tis regulae, vltimo coniunctorum in ordine respondens. Verbi gratia, ex primo, & secun¬
-do oritur secundus; ex secundo, & tertio tertius; ex tertio, & quarto quartus: vt in supe-
+
+[figure 1 pdf page 81, book page 38]
 
 
-riori regularium figura, coniunctis quintae regulae numero tertio, & quarto, oritur quar¬
-tus sextae regulae. qua ratione Regularum illa figura nullo labore in infinitum extendi po
-test; Sicut & proxima figura: nam & in ea numerus quisque ex duobus, qui eum, alter se¬
-cundum longitudinem, alter secundum latitudinem, antecedunt, compositus esse videtur.
-Sed his duobus modis tertius, quem nunc afferemus, longè praestat. Na primo modo
-numeri Positionum ita alij ex alijs colliguntur, vt secundùm eum sexti procreari nequeant,
-nisi praesciantur quinti; nec quinti, nisi extent quarti; nec quarti, nisi ex tertijs. Secundo mo
-do similiter sextae regulae numeri constitui nequeunt, nisi ex quinta, & haec ex quarta, quar
-ta ex tertia, tertia ex secunda, secunda ex prima.quare si quis, verbi gratia, regulam vigesi
-mam nosse velit, omnes ordine regulas vsque ad vigesimam componat necesse est. Tertio
-autem modo numeri alij quidem oriuntur ex alijs, verùm ita, vt omnes sint eiusdem regu
-le atque ordinis, nec alterius ordinis numeri praeexigantur. idque hac obseruatione: Quae
-proportio est numeri inuentorum ad inueniendos, eadem est proportio inter vltimò in¬
-uentum, & primum inueniendorum. vt siquis numeros Quintae regulae, qui quinque sunt,
-inuestigare velit, primus erit vnitas: (idque generaliter in omnibus regulis) inuento vno,
-restant inueniendi quatuor; quae igitur proportio est inter vnum & quatuor , eadem est
-inter inuentum, qui erat 1, & inueniendum, qui ob id erit 4: inuentis duobus, restant in¬
-ueniendi tres; quae igitur est proportio inter inuentos duos, & inueniendos tres, hoc est,
-inter 2. & 3, eadem erit inter vltimò inuentum, qui erat 4, & primum inueniendorum, qui
-idcirco erit 6: inuentis tribus numeris, restant inueniendi duo; quae igitur est proportio
-inter 3. & 2, eadem erit inter vltimò inuentum, hoc est, 6, & primum inueniendorum, is
-igitur erit 4: iam quatuor inuentis, vnus inueniendus restat; sed & vltimus inuentorum
-fuit 4, ergo 1. tribuetur inueniendo. Nunc antè, quàm demonstratione exordiamur,
-pauca quaedam, scitu non iniucunda, quae circa mirum horum numerorum ordinem ac
-connexionem obseruauimus, exponemus. Quorum primum est, quòd numeri à medio.
-vel à medijs aequidistantes sunt aequales, maximusque medius existit, minimi verò pri¬
-mus, & vltimus; à quibus tanquam gradibus aequalibus ad medium ascenditur: vel potiùs
-à primo usque ad medium ascenditur, móxque ijsdem gradibus ad vltimum desceditur:
-sicut Sol à parte Horizontis orientali ysque ad circulum Meridianum ascendit, deinde to
-tidem gradibus ad Occidentem denuò delabitur. exemplum huius obseruationis esto re¬
-gula decima, & vndecima: decimae regulae numeri sunt, 1. 9. 36.84. 126. 126. 84. 36. 9. 1;
-vndecimæe, 1.10.45. 120.210.252. 210. 120. 45. 10. 1. est autem Medius numerus nunc
-vnus, nunc duo: vnus quidem in regula tertia, quinta, septima, caeterisque imparibus; duo
-verò in regula quarta, sexta, octaua, ac reliquis paribus. Alterum est, quòd in regulis impa
-ribus primus Medius ad duos vicinos, inter quos immediatè ponitur, constituit propor¬
-tionem duplam, secundus sesquialteram, tertius sesquitertiam, quartus sesquiquartam, &
-sic caeteras proportiones superparticulares, yt in his numeris ostenditur:
+In quo exemplo illud simul obseruatu dignum est, quòd sicut in
+qualibet actione tria concurrunt, quae sunt agens, patiens, & modus
+agendi:ita & in hac numerorum procreatione, triplices concurrunt
+numeri, procreans, procreandus, & is, qui docet procreandi modum: vt
+in praedicto exemplo numerus procreandus est 9.tertius triplorum;
+procreantes sunt tres dupli 1.2.4; quique modum procreandi docent,
+sunt tres positionum numeri 1.2.1, quorum primus docet, primum
+duplorum ponendum esse semel, secundus secundum bis, tertius tertium
+semel. Quare cùm regulae ex numeris positionum componantur, hi quomodo
+nascantur, ostendendum est. utque appareat, nos nó infinita (vt
+Boëtius autumat) sectari; rem omnem non vno tantùm limite
+complectemur, sed tres modos, quibus hae regulae confici possunt,
+proponemus primùm enim numerorum positionum alterius ab altero ex
+continua ab vnitate serie originem aperiemus: deinde singulorum ex
+binis coniunctis compositionem explicabimus: denique eorundem ex
+ordine, quo in qualibet regula ponuntur, ortum enodabimus.
+
+Circa primum modum sciendum est, ex numeris positionum alium esse
+primum, alium secundum, alium tertium, & sic deinceps, vt in praemissa
+Regularum figura apparuit. oriuntur igitur ex primis positionum
+numeris secundi, ex secundis tertij, ex tertijs quarti, & sic caeteri,
+hoc modo: Primi positionum numeri omnes sunt vnitates, quarum prima
+dat primum secundorum; prima, & secunda collecta secundum; prima,
+secunda, & tertia tertium; prima, secunda, tertia, & quarta quartu:
+eodémque modo collectis ordine ab vnitate secundis, oriuntur tertij, &
+ex tertijs quarti, ut sequens dedarat figura:
+
+[figure 2 pdf page 81, book page 38]
+
+
+Altero modo coniunctis binis proximis cuiusque regulae numeris, oritur
+numerus sequemtis regulae, vltimo coniunctorum in ordine
+respondens. Verbi gratia, ex primo, & secundo oritur secundus; ex
+secundo, & tertio tertius; ex tertio, & quarto quartus: vt in
+superiori regularium figura, coniunctis quintae regulae numero tertio,
+& quarto, oritur quartus sextae regulae. qua ratione Regularum illa
+figura nullo labore in infinitum extendi potest; Sicut & proxima
+figura: nam & in ea numerus quisque ex duobus, qui eum, alter secundum
+longitudinem, alter secundum latitudinem, antecedunt, compositus esse
+videtur. Sed his duobus modis tertius, quem nunc afferemus, longè
+praestat. Na primo modo numeri Positionum ita alij ex alijs
+colliguntur, vt secundùm eum sexti procreari nequeant, nisi
+praesciantur quinti; nec quinti, nisi extent quarti; nec quarti, nisi
+ex tertijs. Secundo modo similiter sextae regulae numeri constitui
+nequeunt, nisi ex quinta, & haec ex quarta, quarta ex tertia, tertia
+ex secunda, secunda ex prima.quare si quis, verbi gratia, regulam
+vigesi mam nosse velit, omnes ordine regulas vsque ad vigesimam
+componat necesse est. Tertio autem modo numeri alij quidem oriuntur ex
+alijs, verùm ita, vt omnes sint eiusdem regule atque ordinis, nec
+alterius ordinis numeri praeexigantur. idque hac obseruatione: Quae
+proportio est numeri inuentorum ad inueniendos, eadem est proportio
+inter vltimò inuentum, & primum inueniendorum. vt siquis numeros
+Quintae regulae, qui quinque sunt, inuestigare velit, primus erit
+vnitas: (idque generaliter in omnibus regulis) inuento vno, restant
+inueniendi quatuor; quae igitur proportio est inter vnum & quatuor ,
+eadem est inter inuentum, qui erat 1, & inueniendum, qui ob id erit 4:
+inuentis duobus, restant inueniendi tres; quae igitur est proportio
+inter inuentos duos, & inueniendos tres, hoc est, inter 2. & 3, eadem
+erit inter vltimò inuentum, qui erat 4, & primum inueniendorum, qui
+idcirco erit 6: inuentis tribus numeris, restant inueniendi duo; quae
+igitur est proportio inter 3. & 2, eadem erit inter vltimò inuentum,
+hoc est, 6, & primum inueniendorum, is igitur erit 4: iam quatuor
+inuentis, vnus inueniendus restat; sed & vltimus inuentorum fuit 4,
+ergo 1. tribuetur inueniendo.
+
+Nunc antè, quàm demonstratione exordiamur, pauca quaedam, scitu non
+iniucunda, quae circa mirum horum numerorum ordinem ac connexionem
+obseruauimus, exponemus. Quorum primum est, quòd numeri à medio. vel à
+medijs aequidistantes sunt aequales, maximusque medius existit, minimi
+verò primus, & vltimus; à quibus tanquam gradibus aequalibus ad medium
+ascenditur: vel potiùs à primo usque ad medium ascenditur, móxque
+ijsdem gradibus ad vltimum desceditur: sicut Sol à parte Horizontis
+orientali ysque ad circulum Meridianum ascendit, deinde totidem
+gradibus ad Occidentem denuò delabitur. exemplum huius obseruationis
+esto regula decima, & vndecima: decimae regulae numeri
+sunt, 1. 9. 36.84. 126. 126. 84. 36. 9. 1; vndecimæe,
+1.10.45. 120.210.252. 210. 120. 45. 10. 1. est autem Medius numerus
+nunc vnus, nunc duo: vnus quidem in regula tertia, quinta, septima,
+caeterisque imparibus; duoverò in regula quarta, sexta, octaua, ac
+reliquis paribus. Alterum est, quòd in regulis imparibus primus Medius
+ad duos vicinos, inter quos immediatè ponitur, constituit proportionem
+duplam, secundus sesquialteram, tertius sesquitertiam, quartus
+sesquiquartam, & sic caeteras proportiones superparticulares, yt in
+his numeris ostenditur:
+
 Numeri Positionum.
 Ex regula tertia.
 Dupla
@@ -2943,13 +2979,16 @@ Sesquiquarta
 Ex regula vndecima.
 Sesquiquinta
 
+[figure 1 pdf page 82, book page 39]
 
-Tertium, quòd in regulis paribus, duo medij aequales ad circumuicinos proportionem ef
-ficiunt primi triplam, secundi duplam, tertij superbipartientem tertias, quarti sesquialte¬
-ram, quinti superbipartientem quintas; & sic alternatim, per superparticulares, & super¬
-partientes omnes, procedunt, vt in his numeris apparet:
-Numeri Positionum.
-Tripla
+
+Tertium, quòd in regulis paribus, duo medij aequales ad circumuicinos
+proportionem efficiunt primi triplam, secundi duplam, tertij
+superbipartientem tertias, quarti sesquialteram, quinti
+superbipartientem quintas; & sic alternatim, per superparticulares, &
+superpartientes omnes, procedunt, vt in his numeris apparet:
+
+Numeri Positionum. Tripla
 Exregula quarta
 Ex regula sexta
 Dupla
@@ -2959,172 +2998,232 @@ Sesquialtera
 Ex regula decima
 Superbipartiens quintas
 Ex regula duodecima
-Quartum & vltimum est, quòd numeri positionum cuiusque regulae collecti, constituunt
-ordinem duplorum. nam prima regula continet vnitatem, secunda duas, tertia quatuor,
-quarta 8, quinta 16, vt in praemissa Regularum figura, numeris vniuscuiusque regulae col
-lectis, videre licet.
+
+[figure 1 pdf page 83, book page 40]
+
+
+Quartum & vltimum est, quòd numeri positionum cuiusque regulae
+collecti, constituunt ordinem duplorum. nam prima regula continet
+vnitatem, secunda duas, tertia quatuor, quarta 8, quinta 16, vt in
+praemissa Regularum figura, numeris vniuscuiusque regulae collectis,
+videre licet.
+
+
+** [chapter 1.28]
 Inaequalitatis ab aequalitate processus Demonstratio.
+
 CAP. XXVIII.
-HVnc de afferenda Demonstratione datam fidem liberamus. Ad eam verò quibus¬
-dam tum Definitionibus, tum Sententijs communibus indigemus, quas statim
-praemittimus.
+
+NVnc de afferenda Demonstratione datam fidem liberamus. Ad eam verò
+quibusdam tum Definitionibus, tum Sententijs communibus indigemus,
+quas statim praemittimus.
+
 Definitio prima
-Numerus Simplex est, qui alterum, ad quem simplex dicitur, semel continet: Multiplex.
-qui saepiùs; Duplex, qui bis: Superparticularis, qui semel, & partem; Sesquialter, qui semel.
-& partem dimidiam: Superpartiens, qui semel, & duas partes; superbipartiens tertias, qui
-semel, & duas tertias: Multiplex superparticularis, qui saepiùs, & partem; Duplus sesquial¬
-ter, qui bis, & partem dimidiam: Multiplex superpartiens, qui saepiùs, & partes; Dupius su
-perbipartiens, qui bis, & duas partes; Duplus superbipartiens tertias, qui bis, & duas tertias.
+
+Numerus Simplex est, qui alterum, ad quem simplex dicitur, semel
+continet: Multiplex. qui saepiùs; Duplex, qui bis: Superparticularis,
+qui semel, & partem; Sesquialter, qui semel. & partem dimidiam:
+Superpartiens, qui semel, & duas partes; superbipartiens tertias, qui
+semel, & duas tertias: Multiplex superparticularis, qui saepiùs, &
+partem; Duplus sesquialter, qui bis, & partem dimidiam: Multiplex
+superpartiens, qui saepiùs, & partes; Dupius superbipartiens, qui bis,
+& duas partes; Duplus superbipartiens tertias, qui bis, & duas
+tertias.
+
 Definitio secunda
+
 Originales numeri dicuntur, quibus positis alij procreantur.
+
 Definitio tertia.
-Numeri Positionum sunt, quiindicant, quoties quemque Originalium numerorum,
-yt ex eis alius procreetur, poni oporteat.
+
+Numeri Positionum sunt, quiindicant, quoties quemque Originalium
+numerorum, ut ex eis alius procreetur, poni oporteat.
+
 Prima communis Sententia
+
 Vnusquisque numerus, semel positus, sibi similem procreat.
+
 Secunda.
-Ordo numerorum continuus usque ad senarium in quolibet proportionum genere
-talis est:
 
+Ordo numerorum continuus usque ad senarium in quolibet proportionum
+genere talis est:
 
-1AEQVALES.
-AEquales.
-Dupli.
-8. 16. 32.MVLTIPLICES.
-Dupli conuersi.
-IMVLTIP. CONVERSI.
-Sesquialteri.
-32. 48. 72. 108. 162. 243. SVPERPARTICVLARES
-Dup. sesquialteri.
-32. 80. 200. 500. 1250. 3125. MVL. SVPERPARTICVLA.
-Sesquialte. couer. 243. 162. 108. 72. 48. 32. SVPERPARTIC.CONVER.
-Superbipartientes. 243.405. 675.1125. 1875. 3125. SVPERPARTIENTES.
-Dup. suphipartiem. 243. 648. 1728. 4608. 12288. 32768. MVL.T. SVPERPARTIENT.
 Tertia
-Dupli numeri oriuntur, cùm numero proximè antecedenti, vel eius originalibus addi
-tur simplum; Tripli, cùm duplum: Quadrupli, cùm triplum: Sesquialteri, cum pars altera;
-Sesquitertij, cùm tertia: Superbipartientes tertias, cùm duae tertiae; Supertriquarti, cùm
-tres quartae: Dupli sesquialteri, cum simplum, & pars altera: Dupli superbitertij, cùm sim
-plum, & duæ tertia, & sic deinceps.
-Quarta..
-Simplum, Duplum, Triplum alicuius numeri, dicitur sequens eiusdem ordinis nume¬
-rus. similiter & Subduplum, Subtriplum, sequens numerus dicitur, sed ordine conuerso.
-Idem dicendum est in coeteris proportionum generibus, vt in singulis ordinibus secun¬
-dae Communis Sententiae videre est.
+
+Dupli numeri oriuntur, cùm numero proximè antecedenti, vel eius
+originalibus additur simplum; Tripli, cùm duplum: Quadrupli, cùm
+triplum: Sesquialteri, cum pars altera; Sesquitertij, cùm tertia:
+Superbipartientes tertias, cùm duae tertiae; Supertriquarti, cùm tres
+quartae: Dupli sesquialteri, cum simplum, & pars altera: Dupli
+superbitertij, cùm simplum, & duæ tertia, & sic deinceps.
+
+Quarta.
+
+Simplum, Duplum, Triplum alicuius numeri, dicitur sequens eiusdem
+ordinis numerus. similiter & Subduplum, Subtriplum, sequens numerus
+dicitur, sed ordine conuerso. Idem dicendum est in coeteris
+proportionum generibus, vt in singulis ordinibus secundae Communis
+Sententiae videre est.
+
 Argumentum sequentium propositionum.
-Prioribus quinque propositionibus ostenditur, ac demonstratur, qui numeri quorum
-sint Originales: numeri autem Positionum sex deinde sequentibus propositionibus de¬
-monstrantur.
-Propositio prima..
-Ex Aequalibus Dupli, ex Duplis Iripli, reliquique ex ordine Multiplices oriuntur.
-Sit numerus Duplus 2, erit igitur duplus ad 1; (per primam definitionem) cui si adda¬
-tur simplum, oritur 2: (per tertiam communem sententiam) Simplum verò eius est sequens
-numerus: (per quartam communem sententiam) quaeratur igitur Ordo numerorum, in
-quo numerum quemlibet datum sequatur simplum; nec inuenietur nisi Ordo AEqua¬
-lium. (per primam definitionem, & per secundam communem sententiam) Quod ipsum
-similiter in Triplorum à Duplis origine, coeterisque ad eundem modum consequentibus
-Multiplicibus demonstrari potest: quare patet, ex AEqualibus Duplos, ex Duplis Triplos,
+
+Prioribus quinque propositionibus ostenditur, ac demonstratur, qui
+numeri quorum sint Originales: numeri autem Positionum sex deinde
+sequentibus propositionibus demonstrantur.
+
+Propositio prima.
+
+Ex Aequalibus Dupli, ex Duplis Tripli, reliquique ex ordine
+Multiplices oriuntur.
+
+Sit numerus Duplus 2, erit igitur duplus ad 1; (per primam
+definitionem) cui si addatur simplum, oritur 2: (per tertiam communem
+sententiam) Simplum verò eius est sequens numerus: (per quartam
+communem sententiam) quaeratur igitur Ordo numerorum, in quo numerum
+quemlibet datum sequatur simplum; nec inuenietur nisi Ordo
+AEqualium. (per primam definitionem, & per secundam communem
+sententiam) Quod ipsum similiter in Triplorum à Duplis origine,
+coeterisque ad eundem modum consequentibus Multiplicibus demonstrari
+potest: quare patet, ex AEqualibus Duplos, ex Duplis Triplos,
 reliquósque deinceps Multiplices oriri.
+
 Propositio secunda
+
 Ex Multiplicibus Conuersis oriuntur Superparticulares.
-Sit 3. Sesquialter, eritque sesquialter ad 2; (per primam definitionem) cui si addatur di-
-midium, oritur 3: (per tertiam communem sententiam) dimidium verò eius dicitur se¬
-quens numerus: (per quartam communem sententiam) quaeratur igitur Ordo numero¬
-rum, in quo binarium sequatur dimidium; nec inuenietur, nisi ordo Duplorum. (per pri¬
-mam definitionem, & secundam communem sententiam) Similiter & Sesquitertios ex
-Triplis, Sesquiquartos ex Quadruplis, coeterósque Superparticulares ex coeteris Multipli
-cibus Conuersis oriri ostendi potest: constat igitur, ex Multiplicibus Conuersis oriri Su
-perparticulares.
+
+Sit 3. Sesquialter, eritque sesquialter ad 2; (per primam
+definitionem) cui si addatur dimidium, oritur 3: (per tertiam communem
+sententiam) dimidium verò eius dicitur sequens numerus: (per quartam
+communem sententiam) quaeratur igitur Ordo numerorum, in quo binarium
+sequatur dimidium; nec inuenietur, nisi ordo Duplorum. (per primam
+definitionem, & secundam communem sententiam) Similiter &
+Sesquitertios ex Triplis, Sesquiquartos ex Quadruplis, coeterósque
+Superparticulares ex coeteris Multiplicibus Conuersis oriri ostendi
+potest: constat igitur, ex Multiplicibus Conuersis oriri
+Superparticulares.
+
 Propositio tertia
+
 Ex Superparticularibus oriuntur Multiplices superparticulares.
-Sit 5. Duplex sesquialter, eritque talis ad 2, (per secundam communem sententiam) cui
 
+Sit 5. Duplex sesquialter, eritque talis ad 2, (per secundam communem
+sententiam) cui si addatur simplum & dimidium, efficitur 5: (per
+tertiam communem sententiam) sed simplum & dimidium refertur ad
+numerum proximè sequentem; (per quartam communen sententiam) neque in
+yllo numerorum Ordine binarium, vel quemcunque alium numerum simplum &
+dimidium sequi reperitur, praeterquàm in Sesquialteris: (per secundam
+communem sententiam) ergo ex Sesquialteris oriuntur Dupli
+sesquialteri, & ex illis Tripli sesquialteri, & coeteri
+Multiplices. Simili modo ostendi potest, ex Sesquitertijs oriri Duplos
+sesquitertios, & ex Sesquiquartis Duplos sesquiquartos, & ita
+deinceps: quare patet ex Superparticularibus oriri Multiplices
+superparticulares.
 
-si addatur simplum & dimidium, efficitur 5: (per tertiam communem sententiam) sed
-simplum & dimidium refertur ad numerum proximè sequentem; (per quartam communen
-sententiam) neque in yllo numerorum Ordine binarium, vel quemcunque alium nume
-rum simplum & dimidium sequi reperitur, praeterquàm in Sesquialteris: (per secundam
-communem sententiam) ergo ex Sesquialteris oriuntur Dupli sesquialteri, & ex illis Tri
-pli sesquialteri, & coeteri Multiplices. Simili modo ostendi potest, ex Sesquitertijs oriri Du
-plos sesquitertios, & ex Sesquiquartis Duplos sesquiquartos, & ita deinceps: quare patet
-ex Superparticularibus oriri Multiplices superparticulares.
 Propositio quarta.
+
 Ex Superparticularibus conuer sis oriuntur Superpartientes.
-Sit 5. Superbipartiens tertias, eritque talis ad 3; (per primam definitionem) cui si addan
-tur duae tertiae, oritur 5: (per tertiam communem sententiam) sed duae tertiae Ternarij di
-citur numerus ternarium in eodem ordine proximè sequens; (per quartam communem
-sententiam) nec nisi in Sesquialteris conuersis talis reperitur: (per secundam communem
-sententiam) ergo ex Sesquialteris conuersis oriuntur Superbipartientes. Similiter ex Ses¬
-quitertijs Supertripartientes, coeterósque deinceps superpartientes oriri demonstrari po¬
-test: ergo ex Superparticulatibus Conuersis oriuntur Superpartientes.
+
+Sit 5. Superbipartiens tertias, eritque talis ad 3; (per primam
+definitionem) cui si addantur duae tertiae, oritur 5: (per tertiam
+communem sententiam) sed duae tertiae Ternarij dicitur numerus
+ternarium in eodem ordine proximè sequens; (per quartam communem
+sententiam) nec nisi in Sesquialteris conuersis talis reperitur: (per
+secundam communem sententiam) ergo ex Sesquialteris conuersis oriuntur
+Superbipartientes. Similiter ex Sesquitertijs Supertripartientes,
+coeterósque deinceps superpartientes oriri demonstrari potest: ergo ex
+Superparticulatibus Conuersis oriuntur Superpartientes.
+
 Propositio quinta
+
 Ex Superpartientibus oriuntur Multiplices superpartientes.
-Sit 8. Duplus superbipartiens tertias, eritque 3. eius subduplus superbitertius; (per pri¬
-mam definitionem) cui si addatur simplum, & duae tertiae, hoc est, proximè sequens nu¬
-merus (per quartam communem sententiam) orietur 8: (per tertiam communem senten
-tiam) Sed in nullo numerorum Ordine reperitur ternarium sequi simplum & duae tertiae,
-nisi in Superbipartientibus: (per secundam communem sententiam) ergo ex Superbipar
-tientibus oriuntur Dupli superbipartientes, & ex ijs Tripli superbipartietes, aliique dein¬
-ceps Multiplices. Similiter & ex Supertripartientibus Duplos supertripartientes, ex Su¬
-perquadripartientibus Duplos superquadripartientes, & ita deinceps oriri ostendi potest:
-ergo liquet, ex Superpartientibus oriri Multiplices superpartientes.
-Colligitur ex his quinque propositionibus, numeris quibusibet rectis quidem positis,
-oriri Multiplices tam puros, quàm mixtos, seu compositos; illos exAEquis, hos ex Super
-particularibus & Superpartietibus: ita yt ex Simplicibus Duplices, ex Duplicibus Tripli¬
-ces, & sic deinceps nascantur, è Conuersis verò Multiplicibus Superparticulares & ex his
+
+Sit 8. Duplus superbipartiens tertias, eritque 3. eius subduplus
+superbitertius; (per primam definitionem) cui si addatur simplum, &
+duae tertiae, hoc est, proximè sequens numerus (per quartam communem
+sententiam) orietur 8: (per tertiam communem sententiam) Sed in nullo
+numerorum Ordine reperitur ternarium sequi simplum & duae tertiae,
+nisi in Superbipartientibus: (per secundam communem sententiam) ergo
+ex Superbipartientibus oriuntur Dupli superbipartientes, & ex ijs
+Tripli superbipartietes, aliique deinceps Multiplices. Similiter & ex
+Supertripartientibus Duplos supertripartientes, ex
+Superquadripartientibus Duplos superquadripartientes, & ita deinceps
+oriri ostendi potest: ergo liquet, ex Superpartientibus oriri
+Multiplices superpartientes. Colligitur ex his quinque
+propositionibus, numeris quibusibet rectis quidem positis, oriri
+Multiplices tam puros, quàm mixtos, seu compositos; illos exAEquis,
+hos ex Superparticularibus & Superpartietibus: ita yt ex Simplicibus
+Duplices, ex Duplicibus Triplices, & sic deinceps nascantur, è
+Conuersis verò Multiplicibus Superparticulares & ex his
 Superpartientes.
+
 Propositio sexta.
+
 Primus semel positus procreat primum.
-Primus Duplorum est Vnitas; (per secundam communem sententiam) quam nequis fal
-so existimet ideo in omnium Multiplicium Ordinum principio poni, quòd non nume
-rus, sed principium sit numerorum, dico eam hoc loco pro numero poni: non enim al
-Vnitatibus, sed ab AEqualibus numeris, qualescunque illi sint, Inaequales, primumque
-Duplos oriricontendimus. quapropter, cùm pro numero ponatur, alia opus est demon¬
-stratione; quod ipsum & reliqui omnes, qui Multiplices sequuntur, Ordines confirmant,
-in quibus locum Vnitas ne quidem sortitur vllum, nedum primum. Dico igitur primum
-numerum à primo, semel posito, procreari; quia numerus quisque semel positus parem
-libi procreat: (per primam communem sentetiam) primus autem in omnibus ordinibus,
-praeterquàm in aequalibus, soli primo par reperitur: (per secundam communem senten¬
-!! In AEqualibus quoque à primo
-tiam) ergo primus semel positus primum procreat.
 
+Primus Duplorum est Vnitas; (per secundam communem sententiam) quam
+nequis falso existimet ideo in omnium Multiplicium Ordinum principio
+poni, quòd non numerus, sed principium sit numerorum, dico eam hoc
+loco pro numero poni: non enim al Vnitatibus, sed ab AEqualibus
+numeris, qualescunque illi sint, Inaequales, primumque Duplos
+oriricontendimus. quapropter, cùm pro numero ponatur, alia opus est
+demonstratione; quod ipsum & reliqui omnes, qui Multiplices sequuntur,
+Ordines confirmant, in quibus locum Vnitas ne quidem sortitur vllum,
+nedum primum. Dico igitur primum numerum à primo, semel posito,
+procreari; quia numerus quisque semel positus parem libi procreat:
+(per primam communem sentetiam) primus autem in omnibus ordinibus,
+praeterquàm in aequalibus, soli primo par reperitur: (per secundam
+communem sententiam) ergo primus semel positus primum procreat.
 
-semel posito primum Duplorum procreari probari potest. Sit enim primus Duplorum
-Vnitas; is cùm ab AEqualibus generetur, (per primam propositionem) AEqualium quoque
-ordinom ex Vnitatibus componi necesse est. Oritur autem à Prima vnitate. nam si ab alia
-oriatur, ea primam aut antecedet, aut sequetur:non antecedit; (per secundam communen
-sententiam) nec sequentium vlla est prima: (per eandem) ergo, cum haec prima sit Duplo¬
-rum, id à prima habeat necesse est. (per primam communem sententiam ) Huc accedit,
-quòd à primis secundi,non à secundis primi oriuntur: (per tertiam communem senten-
-tiam) qui nihilominus Secundi, non Primi, dicendi sunt, quòd non à solis primis, sed, dum
-illis accedunt, oriuntur.
+In AEqualibus quoque à primo semel posito primum Duplorum procreari
+probari potest. Sit enim primus Duplorum Vnitas; is cùm ab AEqualibus
+generetur, (per primam propositionem) AEqualium quoque ordinom ex
+Vnitatibus componi necesse est. Oritur autem à Prima vnitate. nam si
+ab alia oriatur, ea primam aut antecedet, aut sequetur:non antecedit;
+(per secundam communen sententiam) nec sequentium vlla est prima: (per
+eandem) ergo, cum haec prima sit Duplorum, id à prima habeat necesse
+est. (per primam communem sententiam ) Huc accedit, quòd à primis
+secundi,non à secundis primi oriuntur: (per tertiam communem
+sententiam) qui nihilominus Secundi, non Primi, dicendi sunt, quòd non
+à solis primis, sed, dum illis accedunt, oriuntur.
+
 Propositio septima¬
+
 Primus & secundus, semel positi, procreant secundum.
-Secundus Duplorum est 2, (per secundam communem sententiam) quem antecedit
-vnitas; (per eandem) cui, vel Originali eius si accedat simplum, procreatur 2: (per tertiam
-communem sententiam) Originalis verò eius est primus AEqualium semel positus; (per
-praecedentem propositionem) cuius simplum est proximè sequens numerus, (per quartam
-communem sententiam) idque si semel ponatur, alioqui non esset simplum seu simile: (per
-primam communem sententiam) quare primus & secundus AEqualium, semel positi, se¬
-cundum Duplorum procreant. Similiter à primo & secundo Duplorum semel positis, secundum
-Triplorum procreari, idémque eodem modo in coeteris proportionum generibus ac spe¬
-ciebus ita sese habere ostendi potest: ergo in vniuersum primus & secundus, semel positi,
-procreant tertium. Eodem modo in sequentibus propositionibus, quod nos, breuitatis
-causa, de sola Duplorum specie dicimus, de omnibus proportionum generibus, ac spe¬
-ciebus, dictum, ac conclusum intelligi debet.
+
+Secundus Duplorum est 2, (per secundam communem sententiam) quem
+antecedit vnitas; (per eandem) cui, vel Originali eius si accedat
+simplum, procreatur 2: (per tertiam communem sententiam) Originalis
+verò eius est primus AEqualium semel positus; (per praecedentem
+propositionem) cuius simplum est proximè sequens numerus, (per quartam
+communem sententiam) idque si semel ponatur, alioqui non esset simplum
+seu simile: (per primam communem sententiam) quare primus & secundus
+AEqualium, semel positi, secundum Duplorum procreant. Similiter à
+primo & secundo Duplorum semel positis, secundum Triplorum procreari,
+idémque eodem modo in coeteris proportionum generibus ac speciebus ita
+sese habere ostendi potest: ergo in vniuersum primus & secundus, semel
+positi, procreant tertium. Eodem modo in sequentibus propositionibus,
+quod nos, breuitatis causa, de sola Duplorum specie dicimus, de
+omnibus proportionum generibus, ac speciebus, dictum, ac conclusum
+intelligi debet.
+
 Propositio octana.
+
 Primus semel, secundus bis, tertius femel, positi procreant tertium.
-Tertius Duplorum numerus est 4, (per secundam communem sententiam) quem an¬
-tecedit 2, (per eandem) cui, vel originalibus eius numeris simplo addito, procreatur 4: (per
-tertiam communem sententiam) sed originales binarij sunt AEqualium primus & secun
-dus numerus, semel positi, (per praecedentem) quorum simplum sunt proximè sequentes
-numeri: (per quartam communem sententiam) ergo primo & secundo semel positis, se¬
-mel quoque ponendi restant proximè sequentes numeri, hoc est, secundus & tertius. qui-
-bus positionibus coniunctis, sequitur ponendum esse primum semel, secundum bis, ter¬
-tium semel, vt sequens declarat figura:
-L
-secundus
-Ordonumerorum ponendorum
+
+Tertius Duplorum numerus est 4, (per secundam communem sententiam)
+quem antecedit 2, (per eandem) cui, vel originalibus eius numeris
+simplo addito, procreatur 4: (per tertiam communem sententiam) sed
+originales binarij sunt AEqualium primus & secundus numerus, semel
+positi, (per praecedentem) quorum simplum sunt proximè sequentes
+numeri: (per quartam communem sententiam) ergo primo & secundo semel
+positis, semel quoque ponendi restant proximè sequentes numeri, hoc
+est, secundus & tertius. quibus positionibus coniunctis, sequitur
+ponendum esse primum semel, secundum bis, tertium semel, vt sequens
+declarat figura:
+
+
+
+Ordo numerorum ponendorum
 Prunus
 semel
 Prima positiones
