@@ -1,8 +1,30 @@
+/* This factor will be used for all images in .figure class. It will
+also be accessed from the script that looks after correcting the
+vertical spacing around <img>-elements. It only needs to be changed
+here. */
+
+:root {
+  --image-scale-factor: 0.35;
+}
+
+
+/* From here: global styles. Specific styles see at the bottom of this
+file. */
+
+body {
+  font-family: "EB Garamond", serif;
+}
+
+p {
+  text-align: justify;
+}
+
+
 /* From here: Styles taken from default org mode html export, with
 small modifications. Unused classes removed. */
 
 #content {
-  max-width: 60em;
+  max-width: 50em;
   margin: auto;
 }
 
@@ -15,7 +37,7 @@ small modifications. Unused classes removed. */
   text-align: center;
   font-size: medium;
   font-weight: bold;
-  margin-top:0;
+  margin-top: 0;
 }
 
 p.verse { margin-left: 3%; }
@@ -49,6 +71,7 @@ dt { font-weight: bold; }
 
 /* From here: custom styles */
 
+
 .figure {
   position: relative;
   width: 100%;
@@ -58,6 +81,6 @@ dt { font-weight: bold; }
   align-items: center;
 }
 
-img {
-  transform: scale(0.5);
+.figure img {
+  transform: scale(var(--image-scale-factor));
 }

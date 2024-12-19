@@ -1,5 +1,10 @@
-#+HTML_HEAD: <link rel="stylesheet" href="style.css" />
 #+OPTIONS: html-style:nil
+#+OPTIONS: num:nil
+#+HTML_HEAD: <link rel="stylesheet" href="style.css" />
+#+HTML_HEAD_EXTRA: <script type="text/javascript" src="image-processing.js"></script>
+#+HTML_HEAD_EXTRA: <link rel="preconnect" href="https://fonts.googleapis.com">
+#+HTML_HEAD_EXTRA: <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+#+HTML_HEAD_EXTRA: <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
 
 * [Preface]
 FRANCISCI SALINAE BVRGENSIS IN libros de Musica Praefatio.
@@ -95,16 +100,16 @@ ille facto, mansuetior effectus, re infecta domum redijt. Nec vtique
 ob aliud poëtas Orpheum & Amphionem finxisse credendum est, illum
 
 #+begin_quote
-Arte mat erna rapidos morantem
-Fluminum lapsus, celeresq ventos
-Blandum & auritas fidibus canoris
-Ducere quereus.
+Arte mat erna rapidos morantem\\
+Fluminum lapsus, celeresq ventos\\
+Blandum & auritas fidibus canoris\\
+Ducere quereus.\\
 #+end_quote
 
 Hunc Thebanx conditoremarcis
 #+begin_quote
-/Saxa mouere sono testudinis, &er prece blanda/
-/Ducere quo vellet./
+Saxa mouere sono testudinis, &er prece blanda\\
+Ducere quo vellet.
 #+end_quote
 
 Nisi quod homines vagos ac dispersos, quo nihil est ab humanitate
@@ -230,7 +235,7 @@ superesset, intra meos me continere parietes, & otiosam vitam in
 honesta paupertate degentem, mihi tantùm & musis canere:
 
 #+begin_quote
-Nam nec diuitibus contingunt gaudia solis,
+Nam nec diuitibus contingunt gaudia solis,\\
 Nec vixit male, qui natus moriensque fefellit.
 #+end_quote
 
@@ -496,37 +501,38 @@ Omnipotentis Dei poposcerimus, qui laudes suas harmonijs ac rhythmis
 varijs ornatas in terris pariter ac in caelis semper ab orbe condito
 voluir decantari.
 
-IOANNIS SCRIBONII IN ACADEmia Salmanticensi Graecae linguae Professoris Dodecatechon Græecum.
+IOANNIS SCRIBONII IN ACADEmia Salmanticensi Graecae linguae
+Professoris Dodecatechon Græecum.
 
 #+begin_quote
-Hulayogas rè nadas dinaiun ixrrioar (xdeus
-roruious noeu ioxa tidonin.
-Eira d agiootiros ouotior nealo nudot
-Movrixis inxiis niçinuiorárov.
-Kai piyas onlodunios aiioten iadagns,
-Eundioous s aua ro, cvno i d' e loue voge
-Kovivridiunos ir apiigvione yuinoro xdtires.
-Bovotos in junnaontror didtre adéog.
-Touso vrvennéiligt niy aupoliene e Sadunant
-xai veagir nogion, rixuitd rs xparson.
-Pulposs dacuegun vodvydureave reirines ourus
+Hulayogas rè nadas dinaiun ixrrioar (xdeus\\
+roruious noeu ioxa tidonin.\\
+Eira d agiootiros ouotior nealo nudot\\
+Movrixis inxiis niçinuiorárov.\\
+Kai piyas onlodunios aiioten iadagns,\\
+Eundioous s aua ro, cvno i d' e loue voge\\
+Kovivridiunos ir apiigvione yuinoro xdtires.\\
+Bovotos in junnaontror didtre adéog.\\
+Touso vrvennéiligt niy aupoliene e Sadunant\\
+xai veagir nogion, rixuitd rs xparson.\\
+Pulposs dacuegun vodvydureave reirines ourus\\
 Jadure weulais, ruri ravsopivois.
 #+end_quote
 
 EIVSDEM LATINVM.
 
 #+begin_quote
-Tiresie quondam ceco pensauerat auctor
-Naturae damnum munere fatidico.
-Luminis amißsi iacturam cacus Homerus
-Pignore diuini sustinet ingeny.
-Democritus visu cernens languescere mentis
-Vires, tunc oculos eruit ipse sibi.
-His ita dum docte mentis constaret acumen,
-Corporis equanimi damna tulère sui.
-Vnus at hie magnus pro maltis ecce SALIN AS,
-Orbatus visu præstat ptrunq simul.
-Cernit in hoc opere id, quod lynceus ille nequiret,
+Tiresie quondam ceco pensauerat auctor\\
+Naturae damnum munere fatidico.\\
+Luminis amißsi iacturam cacus Homerus\\
+Pignore diuini sustinet ingeny.\\
+Democritus visu cernens languescere mentis\\
+Vires, tunc oculos eruit ipse sibi.\\
+His ita dum docte mentis constaret acumen,\\
+Corporis equanimi damna tulère sui.\\
+Vnus at hie magnus pro maltis ecce SALIN AS,\\
+Orbatus visu præstat ptrunq simul.\\
+Cernit in hoc opere id, quod lynceus ille nequiret,\\
 Iigenio quantum nullue in orbe pidet.
 #+end_quote
 
@@ -545,29 +551,29 @@ LVDOVICI CHAZARETAE in laudem autoris
 EPIGRAMMA.
 
 #+begin_quote
-Dum te virgineos, ò nostri gloria secli
-Aoniae fidicen, docte Salina, lyra,
-Vrget inaccessi nemoris penetrare recessus
-Audacem tantæ laudis anhelus amor:
-Exuperas montis secreta biuerticis antra,
-Antra, nec humano limina pulsa pede;
-Limina qua riguas obliquis flexibus vmbras,
-Vmbrosumqu, rigat (astalis vnda nemus.
-Hic tum fortè sacros adytis penetralibus artus
-Rorabant nudae vitreo in amne Deae.
-Hue inopina pago flectens vestigia gressu
-Deprendis nudas vitreo in amne Deas.
-Vertere nec dum acieni licuit,cùm numine Dinum
-lam subita sentis lumina nocte premi.
-O sed quæ, o rapta succedunt pramia luci,
-Quàm sie à detito Sole carere inuat.
-Ductrix accedit cetu comitata sororum,
-Et regina sui Calliopea chori:
-Ipsa chelyn tradens, facundag plectra, fidesq,
-Et meritam incingens birgine fronde comam,
-His, antistes, ait, nostris dignande choreis,
-Dulcia iacturae damna repende tuæ.
-Hae tibi erunt artes, vulgare arcana per orbem
+Dum te virgineos, ò nostri gloria secli\\
+Aoniae fidicen, docte Salina, lyra,\\
+Vrget inaccessi nemoris penetrare recessus\\
+Audacem tantæ laudis anhelus amor:\\
+Exuperas montis secreta biuerticis antra,\\
+Antra, nec humano limina pulsa pede;\\
+Limina qua riguas obliquis flexibus vmbras,\\
+Vmbrosumqu, rigat (astalis vnda nemus.\\
+Hic tum fortè sacros adytis penetralibus artus\\
+Rorabant nudae vitreo in amne Deae.\\
+Hue inopina pago flectens vestigia gressu\\
+Deprendis nudas vitreo in amne Deas.\\
+Vertere nec dum acieni licuit,cùm numine Dinum\\
+lam subita sentis lumina nocte premi.\\
+O sed quæ, o rapta succedunt pramia luci,\\
+Quàm sie à detito Sole carere inuat.\\
+Ductrix accedit cetu comitata sororum,\\
+Et regina sui Calliopea chori:\\
+Ipsa chelyn tradens, facundag plectra, fidesq,\\
+Et meritam incingens birgine fronde comam,\\
+His, antistes, ait, nostris dignande choreis,\\
+Dulcia iacturae damna repende tuæ.\\
+Hae tibi erunt artes, vulgare arcana per orbem\\
 Nostra, & Bistoniae fila nouare lyrae.
 #+end_quote
 
@@ -3395,5 +3401,3 @@ Harmonicus considerare deberet. nunc ad posteriorem, quae ad sonos
 spectat, diuini numinis auxilio copiosiùs explicandam pergemus.
 
 PRIMI DE MVSICA LIBRI FINIS.
-
-* TODO crop figures and store them
