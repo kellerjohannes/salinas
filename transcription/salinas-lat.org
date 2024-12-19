@@ -942,6 +942,9 @@ ex altera omnes pariter impares, vt in hoc typo videre licebit.
 | Horum dupli. | 2 | 6 | 10 | 14 | 18 | 22 | 26 | 30 |
 |--------------+---+---+----+----+----+----+----+----|
 
+[001, 1-6-1, figure 1 pdf page 49, book page 6]
+
+
 Et sciendum est, quod, quemadmodum pariter pares ortum habent ab
 vnitate, quae est omnium numerorum principium; sic pariter impares
 oriuntur à binario, qui est omnium parium origo. Et hi omnes semper
@@ -999,6 +1002,9 @@ hic typus ostendit.
 |-----------------------+----+----+----+----+----+----+----|
 | Primi imparit. pares. | 12 | 20 | 28 | 36 | 44 | 52 | 60 |
 |-----------------------+----+----+----+----+----+----+----|
+
+[002, 1-6-2, figure 1 pdf page 50, book page 7]
+
 
 Et aduertendum est, omnes hos octonario inter se numero distare, sicut
 pariter impares quaternario. Secundi autem ter diuiduntur, et sunt
@@ -1096,6 +1102,9 @@ semper intermedio composito relicto, vt in sequentifigura apparet.
 | Perfecti ex ultimo in summam ducto | 6 | 28 | positus |     496 | positus |    8128 | positus |   130816 |     |
 |------------------------------------+---+----+---------+---------+---------+---------+---------+----------+-----|
 
+[003, 1-8-1, figure 1 pdf page 52, book page 9]
+
+
 Vnum hoc non inutile adiungemus, quod Boëtius Seuerinus etiam
 animaduertit, in his numeris similitudinem inueniri vitij & virtutis:
 vitium enim aut prouenit ex excessu, aut ex defectu; in virtute autem
@@ -1120,7 +1129,7 @@ superfluus usque ad numerum 45045, vt optimè adnotauit lordanus. Et
 hoc ingeniosis, & subtilia sectantibus obiter dictum sit: nos autem ad
 ea quae reliqua sunt, vt doctrina ipsa postulat, transeamus.
 
-** [chapter 1.9]
+** [Chapter 1.9]
 De quibusdam figuris Geometricis, quae in numeris inueniuntur, quas
 Musicus ex accidenti considerat. CAP. IX.
 
@@ -1151,6 +1160,9 @@ vt, hic:
 | 1 |
 |---|
 
+[004, 1-9-1, figure 2 pdf page 52, book page 9]
+
+
 Secundus vere quaternarius, qui duas, ut hic:
 
 |---+---|
@@ -1158,6 +1170,9 @@ Secundus vere quaternarius, qui duas, ut hic:
 |---+---|
 | 1 | 1 |
 |---+---|
+
+[005, 1-9-2, figure 3 pdf page 52, book page 9]
+
 
 Tertius autem nouenarius, qui tres, yt hic.
 
@@ -1168,6 +1183,9 @@ Tertius autem nouenarius, qui tres, yt hic.
 |---+---+---|
 | 1 | 1 | 1 |
 |---+---+---|
+
+[006, 1-9-3, figure 1 pdf page 53, book page 10]
+
 
 Et sic consequenter per omnes numeros. Et sciendum etiam est, numeros
 productos appellari quadratos, illos verò, ex quorum multiplicatione
@@ -1184,6 +1202,9 @@ altera, hoc pacto:
 | 1 | 4 | 9 | 16 | 25 | 36 | 49 | 64 | 81 | 100 |
 |---+---+---+----+----+----+----+----+----+-----|
 
+[007, 1-9-4, figure 2 pdf page 53, book page 10]
+
+
 Et hoc mirabile videtur inter alia plurima in his numeris, quòd omnes
 quadrati nascumtur ex coniunctione numerorum imparium. nam ex vnitate,
 & ternario primo impari nascitur quaternarius primus actu quadratus: &
@@ -1196,6 +1217,9 @@ inuenientur omnes quadrati, vt in hoc typo apparet:
 |---+---+---+----+----+----+----+----+----+-----|
 | 1 | 4 | 9 | 16 | 25 | 36 | 49 | 64 | 81 | 100 |
 |---+---+---+----+----+----+----+----+----+-----|
+
+[008, 1-9-5, figure 3 pdf page 53, book page 10]
+
 
 Et hęc de quadratis pro prasenti institutione dicta sufficiant. Sut
 etiam alij numeri, qui Graecè dicuntur iconirus, & à Boëtio Latinè
@@ -1226,6 +1250,9 @@ ostenditur.
 |---+---+----+----+----+----+----+----+----+-----|
 | 2 | 6 | 12 | 20 | 30 | 42 | 56 | 72 | 90 | 110 |
 |---+---+----+----+----+----+----+----+----+-----|
+
+[009, 1-9-6, figure 4 pdf page 53, book page 10]
+
 
 Et hæec de multis, quæ dici poterant, de altera parte longioribus
 dixisse sit satis. Cubus autem siue cubicus numerus est ille, qui fit
@@ -1265,7 +1292,7 @@ se constanti quantitate. lam tandem opus est, vt de numero
 relato,atque eius affectionibus, quę ad harmonicam institutionem sunt
 necessaria, dicamus.
 
-** [chapter 1.10]
+** [Chapter 1.10]
 Quid sit Proportio, & quot modis consideretur.
 
 CAP. X.
@@ -1336,7 +1363,7 @@ discreta demonstrari, & ab omnibus Mathematicis considerari debere,
 sed praecipuè ab Arithmetico, & Musico. Quare relicta Geometris
 irrationali, de rationali tantùm nobis habendus est sermo.
 
-** [chapter 1.11]
+** [Chapter 1.11]
 De proportionis rationalis prima, & secunda diuisione
 
 CAP. XI.
@@ -1402,13 +1429,17 @@ inferioribus autem numeris collatus primò aequam, deinde hac minorem
 subsuperparticularem, mox vtrauis harum minorem subsuperpartientem,
 reliquasque aliam alia minorem.
 
-|------------------------+-----------------+-------------------+---------------+-----------+-----------------------------+-------------------------+------------------------+
+|------------------------+-----------------+-------------------+---------------+-----------+-----------------------------+-------------------------+------------------------|
 |                        |               3 |                 4 |             5 |         6 |                           7 |                       8 | Maioris inaequalitaris |
-|------------------------+-----------------+-------------------+---------------+-----------+-----------------------------+-------------------------+------------------------+
+|------------------------+-----------------+-------------------+---------------+-----------+-----------------------------+-------------------------+------------------------|
 | Minoris inaequalitaris |               3 |                 3 |             3 |         3 |                           3 |                       3 | Maioris inaequalitaris |
-|------------------------+-----------------+-------------------+---------------+-----------+-----------------------------+-------------------------+------------------------+
+|------------------------+-----------------+-------------------+---------------+-----------+-----------------------------+-------------------------+------------------------|
 | Minoris inaequalitaris |               3 |                 4 |             5 |         6 |                           7 |                       8 |                        |
 |                        | Aequa proportio | Superparticularis | Superpartiens | Multiplex | Multiplex superparticularis | Multiplex superpartiens |                        |
+|------------------------+-----------------+-------------------+---------------+-----------+-----------------------------+-------------------------+------------------------|
+
+[010, 1-11-1, figure 1 pdf page 56, book page 13]
+
 
 Et, vt in summam ea, quae dicta sunt, redigamus, quicquid alteri
 comparatur, aut illi aequale est, aut inaequale. Comparatio autem
@@ -1421,7 +1452,7 @@ filiatio (quae diuersae sunt relationes) sic ex conparatione maioris
 ad minus oriuntur aliae proportiones, quàm ex comparatione minoris ad
 maius. Quarum species, iam tandem opus est, vt explicare tentemus.
 
-** [chapter 1.12]
+** [Chapter 1.12]
 De speciebus proportionum tam maioris, quàm minoris inaequalitatis, &
 de genere multiplici, & submultiplici.
 
@@ -1464,7 +1495,7 @@ in eis immorari debeamus: quoniam de his plurimi scripserunt, & nos ad
 ea, quae sunt Musicae propria, properamus, quae sunt in Arithmetica
 exactiora, ipsius professoribus relinquentes.
 
-** [chapter 1.13]
+** [Chapter 1.13]
 De genere superparticulari, & subsuperparticulari.
 
 CAP. XIII.
@@ -1519,7 +1550,7 @@ habere cum superparticulari, sed nominari praemissa, sub,
 praepositione, vt subsesquialtera, subsesquitertia, & sic per omnes,
 quotquot voluerimus inuenire.
 
-** [chapter 1.14]
+** [Chapter 1.14]
 De quibusdam consideratione dignis circa tria genera simplicia; Multi¬
 plex, & Superparticulare, & Superpartiens: quae etiam pertinent ad duo
 composita
@@ -1601,7 +1632,7 @@ generibus vnum tantùm constituunt. Sed nos antiquorum, & doctissimorum
 vestigijs insistentes, communi incedemus via: quia facilior, & ad
 praesens institutum accommodatior est.
 
-** [chapter 1.15]
+** [Chapter 1.15]
 De genere superpartiente, & subsuperpartiente.
 
 CAP. XV.
@@ -1642,6 +1673,10 @@ excessum habentibus, vt in hoc typo perspici poterit.
 | Impares a 5.              |                 5 |             7 |          9 |          11 |         13 |      15 |      17 |      19 |       21 |       23 |       25 |       27 |       29 |       31 |       33 |       35 |       37 |
 |---------------------------+-------------------+---------------+------------+-------------+------------+---------+---------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------|
 |                           | Superbipartientes | Supertripart. | Superquad. | Superquint. | Supersext. | Super 7 | Super 8 | Super 9 | Super 10 | Super 11 | Super 12 | Super 13 | Super 14 | Super 15 | Super 16 | Super 17 | Super 18 |
+|---------------------------+-------------------+---------------+------------+-------------+------------+---------+---------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------|
+
+[011, 1-15-1, figure 1 pdf page 60, book page 17]
+
 
 In his primum est superbipartiens, secundum supertripartiens, & sic
 deinceps omnia nomen sortiuntur à numero partium, quibus numeri
@@ -1682,11 +1717,17 @@ species continentur.
 | SVPERBIPARTIENTES.           |   | Supbitertij |   | supbi 5 |   | superbi 7 |   | superbi 9 |    | superbi 11 |    | superbi 13 |    |
 |------------------------------+---+-------------+---+---------+---+-----------+---+-----------+----+------------+----+------------+----|
 
+[figure 1 pdf page 61, book page 18]
+
+
 |----------------------------+---+-----------------+---+-------------+----+--------------+----+--------------+----+--------------+----|
 | A 4 excedentes se ternario | 4 |                 | 7 |             | 10 |              | 13 |              | 16 |              | 19 |
 |----------------------------+---+-----------------+---+-------------+----+--------------+----+--------------+----+--------------+----|
 | SVPERTRIPARTIENTES         |   | Supertriquarti. |   | supertri 7. |    | supertri 10. |    | supertri 13. |    | supertri 16. |    |
 |----------------------------+---+-----------------+---+-------------+----+--------------+----+--------------+----+--------------+----|
+
+[figure 2 pdf page 61, book page 18]
+
 
 |-----------------------+---+----------------+---+------------+----+-------------+----+-------------+----+-------------+----|
 | A 5. excedentes se 3. | 5 |                | 8 |            | 11 |             | 14 |             | 17 |             | 20 |
@@ -1694,17 +1735,26 @@ species continentur.
 | SVPERTRIPARTIENTES.   |   | Supertriquinti |   | supertri 8 |    | supertri 11 |    | supertri 14 |    | supertri 17 |    |
 |-----------------------+---+----------------+---+------------+----+-------------+----+-------------+----+-------------+----|
 
+[figure 3 pdf page 61, book page 18]
+
+
 |-----------------------+---+-------------------+---+---------------+----+----------------+----|
 | A 5. excedentes se 4. | 5 |                   | 9 |               | 13 |                | 17 |
 |-----------------------+---+-------------------+---+---------------+----+----------------+----|
 | SVPERQVADRIPARTIENTES |   | Superquadriquinti |   | superquadri 9 |    | superquadri 13 |    |
 |-----------------------+---+-------------------+---+---------------+----+----------------+----|
 
+[figure 4 pdf page 61, book page 18]
+
+
 |----------------------+---+--------------------+----+----------------+----+----------------+----|
 | A 7 excedentes se 4. | 7 |                    | 11 |                | 15 |                | 19 |
 |----------------------+---+--------------------+----+----------------+----+----------------+----|
 | SVPERQVADRIPART.     |   | Superquadriseptimi |    | superquadri 11 |    | superquadri 15 |    |
 |----------------------+---+--------------------+----+----------------+----+----------------+----|
+
+[figure 5 pdf page 61, book page 18]
+
 
 His typis inspectis facile erit cuiqe superquintipartientis, ac
 reliquorum, quotquot libuerit generum species effingere, easque in
@@ -1719,7 +1769,7 @@ superquadripartientes incipiunt ab his numeris, qui sunt inter 4. & 8,
 veluti à 5. & 7, non autem a 6, quia 4. & 6. ambo pares sunt,
 pariumque omnium praeter vnitatem etiam binarius est communis mensura.
 
-** [chapter 1.16]
+** [Chapter 1.16]
 De genere Multiplici super particulari, &y eius speciebus.
 
 CAP. XVI.
@@ -1760,6 +1810,9 @@ generis coniugationes, vt per hunc typum manifestum esse poterit.
 | Sesquialeri | Sesqui 3 | Sesqui 4 | Sesqui 5 | Sesqui 6 | Sesqui 7 | Sesqui 8 | Sesqui 9 | Sesqui 10 | Sesqui 11 | Sesqui 12 |             |             |
 |-------------+----------+----------+----------+----------+----------+----------+----------+-----------+-----------+-----------+-------------+-------------|
 
+[figure 1 pdf page 62, book page 19]
+
+
 Idem determinatum sit circa genus Submultiplex subsuperparticulare,
 quandoquide solum ratione differunt, vt superius demonstratum est. Id
 fortè non inutiliter additur, posse praecedentem typum tam secundum
@@ -1773,7 +1826,7 @@ sesquitertij secundum longitudinem binario, secundum latitudinem
 ternario, & sic de reliquis, longitudine multiplicibus, latitudine
 autem superparticularibus attributa.
 
-** [chapter 1.17]
+** [Chapter 1.17]
 De genere Multiplici superpartienti, & de eius speciebus.
 
 CAP. XVII.
@@ -1815,7 +1868,7 @@ quartum item ad primum triplos itidem superpartientes; denique quintum
 quadruplos superpartientes. quod si eadem lege sextum, septimum, &
 alios feceris, surgent quintupli, sextupli, septupli superpartientes.
 
-** [chapter 1.18]
+** [Chapter 1.18]
 De Pythagoreorum diagrammate celeberrimo, quod Pythagorae mensam
 appellant, & de ipsius ptilitatibus.
 
@@ -1914,7 +1967,7 @@ proponitur, sed à paucissimis, vt par est, examinatum; nos autem de
 illo, ac de proportionum generibus haec tantùm, breuitatis causa,
 dicenda, qua maiori potuimus claritate curauimus.
 
-** [chapter 1.19]
+** [Chapter 1.19]
 De modo coniungendi, & duplandi Proportiones.
 
 XIX. CAP.
@@ -2002,7 +2055,7 @@ duplandae, & triplandae proportionis regula erit non minùs vtilis,
 quàm facilis rerum musicalium speculationem facere volenti, vt suis
 locis manifestum esse poterit.
 
-** [chapter 1.20]
+** [Chapter 1.20]
 De modo subtrahendarum vnius ab altera proportionum, & quo pacto ad
 minimos numeros reducantur.
 
@@ -2079,7 +2132,7 @@ impar, vt 64. & 8i; proportio, quae in eis inuenietur, ad minores
 numeros reduci non poterit. Nunc autem ad resiqua, quae praesenti sunt
 instituto necessaria, pergamus.
 
-** [chapter 1.21]
+** [Chapter 1.21]
 De Arithmetica Proportionalitate
 
 XXI. CAP.
@@ -2140,7 +2193,7 @@ sunt, vt proueniant 4. & 6, qui simul sumpti faciunt 10, cuius
 dimidium erit 5, qui medium erit inter eos. Et haec de Arithmetica
 proportionalitate dixisse sit satis.
 
-** [chapter 1.22]
+** [Chapter 1.22]
 De Proportionalitate Geometrica.
 
 CAP. XXII.
@@ -2204,7 +2257,7 @@ semper esse longilaterum, & inter duos longilateros quadratum esse
 medium Arithmeticum: prioris exemplum, 1.2.4; posterioris, 2.4.6. Et
 hæc de Geometrica proportionalitate dicta sufficiant.
 
-** [chapter 1.23]
+** [Chapter 1.23]
 De Proportionalitate Harmonica.
 
 CAP. XXIII.
@@ -2325,7 +2378,7 @@ Atque hic modus inueniendi medij harmonici mihi videtur esse multò
 facilior, & commodior, quàm is qui traditus est ab antiquis, & adhuc
 in omnibus docetur scholis.
 
-** [chapter 1.24]
+** [Chapter 1.24]
 De alio modo medij Harmonici simul & Arithmetici inueniendi, qui multò
 videtur esse facilior: & de quibusdam, quae in harmonica
 proportionalitate, praeter ea quae dicta sunt, oportet considerare
@@ -2410,7 +2463,7 @@ RESIDVVM
 
 ** TODO create continuous figure numbering
 ** TODO crop figures and store them
-** [chapter 1.25]
+** [Chapter 1.25]
 De noua ratione inueniendi tria Media (Arithmeticum, Geometricum, & Harmonicum) ex eorum & Extremorum differentis.
 
 CAP. XXV.
@@ -2661,7 +2714,7 @@ Harmonicum. nam addito 2. minori 10, vel subtracto 3. ex 15,
 relinquitur 12, cuius ad extrema differentiae sunt 3.2; quae cùm
 proportionem diuisam referant, certum est 12. esse medium Harmonicum.
 
-** [chapter 1.26]
+** [Chapter 1.26]
 Quo pacto demonstretur omnem Inaequalitatemab Aequalitate procedere.
 
 CAP XXVI.
@@ -2733,7 +2786,7 @@ statim omnes calleat necesse est.is, cùm à nemine hactenus descriptus
 inueniatur, nobisque diuino obtigerit beneficio, benignè omnibus hoc
 loco videtur esse communican dus.
 
-** [chapter 1.27]
+** [Chapter 1.27]
 Quòd non à tribus tantùm, sed à quotlibet terminis equalibus omnis
 mequalitas producatur.
 
@@ -3008,8 +3061,7 @@ vnitatem, secunda duas, tertia quatuor, quarta 8, quinta 16, vt in
 praemissa Regularum figura, numeris vniuscuiusque regulae collectis,
 videre licet.
 
-
-** [chapter 1.28]
+** [Chapter 1.28]
 Inaequalitatis ab aequalitate processus Demonstratio.
 
 CAP. XXVIII.
@@ -3322,3 +3374,5 @@ Harmonicus considerare deberet. nunc ad posteriorem, quae ad sonos
 spectat, diuini numinis auxilio copiosiùs explicandam pergemus.
 
 PRIMI DE MVSICA LIBRI FINIS.
+
+* [Figures]
