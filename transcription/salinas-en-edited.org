@@ -318,17 +318,19 @@ to its operation. For if you were to ask them what a tone is: they
 will respond that it is the excess of diapente over diatessaron: but
 in what proportion it is constituted, they will not blush to be
 ignorant. There are six hundred other such things, which it was not so
-glorious for them to know as shameful to be ignorant. However, we
-admit that among the Italians and French, not only those who strive to
-support the ruin of other good arts, but also of this discipline, some
-are found. Among our own, we also know some who have attempted this;
-but rather preferred to wish than to perform it. Because I often
-pondered this with no small indignation of spirit, I do not know how I
-began to regret it. For I was pained that I had consumed almost my
-entire life in such a way that, thinking of nothing about posterity, I
-had made my trial only in the progress of those who wished to learn
-from me. And if ever there was any talent and learning in me, I would
-have attempted to prove it otherwise than by teaching others.**
+glorious for them to know as shameful to be ignorant.
+
+However, we admit that among the Italians and French, not only those
+who strive to support the ruin of other good arts, but also of this
+discipline, some are found. Among our own, we also know some who have
+attempted this; but rather preferred to wish than to perform
+it. Because I often pondered this with no small indignation of spirit,
+I do not know how I began to regret it. For I was pained that I had
+consumed almost my entire life in such a way that, thinking of nothing
+about posterity, I had made my trial only in the progress of those who
+wished to learn from me. And if ever there was any talent and learning
+in me, I would have attempted to prove it otherwise than by teaching
+others.
 
 The text begins with a discussion about the scarcity of knowledge in a
 particular discipline, which is often derived from the understanding
@@ -352,8 +354,10 @@ criticize my plan, and would shout that after so many Greek and Latin
 authors, and indeed the most serious ones, in a matter so often
 discussed and written about, I could do nothing but what we are
 forbidden by the old proverb, to act out what has already been acted
-upon. Thus, undeterred by this and other objections I understood could
-be raised against me, but rather more and more incited, I diligently
+upon.
+
+Thus, undeterred by this and other objections I understood could be
+raised against me, but rather more and more incited, I diligently
 examined whatever treatises on this subject I could find, whether from
 the ancients or more recent authors. And while I would not dare to
 deny that some of them were very skilled in music, I would affirm,
@@ -365,36 +369,42 @@ same music, and the same consonances are perceived by the senses and
 reason both among the Greeks and among the Persians, it does not seem
 to happen otherwise than in arithmetic, where two and two are four for
 both Christians and barbarians; in this science, it does not seem to
-be the case. For Pythagoras and Nicomachus and other Pythagoreans
-thought differently, as did Ptolemy and those who followed him, and
-much more so Aristoxenus and his followers regarding consonances and
+be the case.
+
+For Pythagoras and Nicomachus and other Pythagoreans thought
+differently, as did Ptolemy and those who followed him, and much more
+so Aristoxenus and his followers regarding consonances and
 dissonances, and regarding the division of the diatessaron, in whose
 exact partition the hinge of this science consists. As we will examine
 the assertions of these and other great musicians more for the sake of
 finding truth than for diminishing the esteem of such great men, it
-will become apparent. However, the younger men of our time are so far
-from blame that they are not only worthy of pardon but also of
-praise. For most of them could not have any of the ancient Greek
-writers of this discipline, because they had not yet been translated
-into Latin or published, so that they could more easily come into the
-hands of men. And if any of them read some, they seem to have read
-rather than understood. However, some, although they excelled in
-talent and found truth in many matters through their own efforts,
-could not grasp everything due to the obscure knowledge of this
-subject and its multiple difficulties. Nevertheless, these contributed
-much to their commentaries, which somewhat assist our labor here, and
-we are also pleased with their doctrine, which agrees that the
-knowledge of this discipline is not only honorable for those eager to
-learn but also useful. This reasoning moved us, so that while others
-attempted to assist the literary endeavor as best they could, and had
-already accomplished much in great matters, we too, since we cannot do
-greater things, would try to see if we could bring some help in this
-area, neglected by some, and almost impossible to grasp by others,
-desired by many, understood by few. And we undertook this with greater
-confidence because we have never been so occupied with great matters
-that we neglected the lesser ones: nor have we ever pursued such
-beautiful things that we did not prefer the useful. To this, no
-success or favor has ever been able to inflate me so much that
+will become apparent.
+
+However, the younger men of our time are so far from blame that they
+are not only worthy of pardon but also of praise. For most of them
+could not have any of the ancient Greek writers of this discipline,
+because they had not yet been translated into Latin or published, so
+that they could more easily come into the hands of men. And if any of
+them read some, they seem to have read rather than
+understood. However, some, although they excelled in talent and found
+truth in many matters through their own efforts, could not grasp
+everything due to the obscure knowledge of this subject and its
+multiple difficulties. Nevertheless, these contributed much to their
+commentaries, which somewhat assist our labor here, and we are also
+pleased with their doctrine, which agrees that the knowledge of this
+discipline is not only honorable for those eager to learn but also
+useful.
+
+This reasoning moved us, so that while others attempted to assist the
+literary endeavor as best they could, and had already accomplished
+much in great matters, we too, since we cannot do greater things,
+would try to see if we could bring some help in this area, neglected
+by some, and almost impossible to grasp by others, desired by many,
+understood by few. And we undertook this with greater confidence
+because we have never been so occupied with great matters that we
+neglected the lesser ones: nor have we ever pursued such beautiful
+things that we did not prefer the useful. To this, no success or favor
+has ever been able to inflate me so much that
 
 #+begin_quote
 It would be shameful to speak of the art, which I have made.
@@ -412,30 +422,32 @@ in writing according to the dignity of the matter. Nor should it seem
 strange to anyone: for besides this, that this doctrine requires the
 sharpest and most apt insight for speculation, it is also necessary
 for anyone who wishes to have an exact knowledge of it to have been
-versed in almost every kind of discipline. For practical knowledge of
-music is necessary; so that he is not only trained in singing but also
-in the art of making instruments, as we said above. He should also
-have a very clear understanding of the art of counting, both
-speculative and operative. For the principles of this discipline are
-drawn from arithmetic, and in it, the conclusions of the same are
-proven. And ease in counting greatly aids anyone wishing to understand
-or create musical things: on the contrary, slowness cannot be said how
-much it hinders such thoughts. Nor do we wish him to be ignorant of
-geometry: for all the discipline of mathematics, as Boethius says,
-loves to be established by alternate proof, which can greatly assist
-him in the participation, as they call it, of the musical instruments
-we use, to be made to divide the ditone into two and the tritone into
-three equally proportional spaces. He also needs knowledge of the
-Greek language: since all the terms of this art are Greek. And
-besides, he must read the writers of this art, who were almost all
-Greeks, except for Boethius and Saint Augustine, who taught the
-harmonic and rhythmic arts derived from the Greeks in the Latin
-language. For the other ancient Latins transmitted very few, and the
-more recent ones indeed more, but not very clearly. And especially to
-understand that part of music which pertains to rhythm, it is fitting
-that he be not a little practiced in poetry, so that he may be able to
-judge more easily and perfectly about the diverse variety of meters
-and verses from various examples of poets.
+versed in almost every kind of discipline.
+
+For practical knowledge of music is necessary; so that he is not only
+trained in singing but also in the art of making instruments, as we
+said above. He should also have a very clear understanding of the art
+of counting, both speculative and operative. For the principles of
+this discipline are drawn from arithmetic, and in it, the conclusions
+of the same are proven. And ease in counting greatly aids anyone
+wishing to understand or create musical things: on the contrary,
+slowness cannot be said how much it hinders such thoughts. Nor do we
+wish him to be ignorant of geometry: for all the discipline of
+mathematics, as Boethius says, loves to be established by alternate
+proof, which can greatly assist him in the participation, as they call
+it, of the musical instruments we use, to be made to divide the ditone
+into two and the tritone into three equally proportional spaces.
+
+He also needs knowledge of the Greek language: since all the terms of
+this art are Greek. And besides, he must read the writers of this art,
+who were almost all Greeks, except for Boethius and Saint Augustine,
+who taught the harmonic and rhythmic arts derived from the Greeks in
+the Latin language. For the other ancient Latins transmitted very few,
+and the more recent ones indeed more, but not very clearly. And
+especially to understand that part of music which pertains to rhythm,
+it is fitting that he be not a little practiced in poetry, so that he
+may be able to judge more easily and perfectly about the diverse
+variety of meters and verses from various examples of poets.
 
 Therefore, whatever we have deemed pertinent to the perfect knowledge
 of this science, we have gathered with as much care as we could from
@@ -447,103 +459,119 @@ of four, the other of three, so that the four earlier ones contain, I
 believe, the complete and exact doctrine of the first part of music,
 which pertains to harmony. The three later ones also contain
 everything that seemed necessary for a musician to know regarding the
-second part, which pertains to rhythm. And indeed, we have arranged
-the four earlier ones so that in the first, starting from the division
-of music universally accepted and the definition of the part we are
-discussing, we have gathered everything that we have learned a
-musician ought to seek from arithmetic regarding numbers, both those
-that are constant in themselves and those related to others, so that
-he may be instructed in the science of ratios and proportions, which
-arise from their comparisons, as much as is sufficient for making
-harmonic musical demonstrations. In the second, regarding sounds taken
-separately, and regarding those compared with each other, from which
-harmonic intervals and consonances are created, we have placed those
-things which we believe a musician ought to know, in the same order as
-those regarding numbers in the first and their comparisons. In the
-third, we have shown in what order, according to the true requirements
-of harmonic reasoning, sounds ought to be arranged and located in the
-three kinds of melodies exactly and perfectly, so that nothing can be
-added or taken away. We have presented the types of all these to the
-eyes, so that the best constitution of truth may be weighed by sense
-and reason. And there we have also added a not less ingenious than
-true reasoning about the true position of commas in each of the three
-kinds according to the marvelous art of harmonic reasoning. And
-regarding the various imperfections derived from the perfect
-artificial instruments, one part concerning organs and cymbals, the
-other concerning lutes or lyres, we have added many things worthy of
-knowledge and useful to do, which no one has yet written about, nor,
-as I believe, thought of. In the fourth, we have treated the species
-of consonances much differently than they have been considered so far:
-about the systems and the six ancient harmonies and tropes, from which
-the twelve more recent modes have flowed: and about how many tones
-there are, and in what way they differ from the modes, based on the
-teachings of the Greeks, since no Latin has noticed this before, we
-have instituted a discussion based on the testimonies of Ptolemy. And
-at the end of this book, we have recited and examined the assertions
-of the Greeks and Latins, both ancient and more recent, who have
-deserved well of music, with as much faith and diligence as we could:
-so that we might inquire which of them was true, or approached the
-truth, and in which they have rightly or wrongly opined, we might
-discern by sense and reason. In the fifth, which is the first
-concerning the other part of music, which is called rhythmic, we have
-also begun with the definition of rhythm, distinguishing the
-oratorical and poetic number from the purity of musical rhythm: and
-about the times, from which the feet consist: and about the feet taken
-separately, and legitimately joined together: and about the rhythms,
-which are composed from their individual parts, we have treated many
-things worthy of knowledge. At the end of which, it has been confirmed
-that among the ancients, the song of multiple voices was considered,
-and with the testimony of Aristotle, and effective arguments, it was
-in use among them. In the sixth, we have treated meters through their
-kinds, and the species of each kind, widely and diffusely: and we have
-drawn from the metric writers what seemed necessary for the
-institution of music. Finally, in the seventh, concerning the
-constitution and perfection of verses, from Saint Augustine and
-Terentian, and Mario Victorino, and Hephaestion the Greek, and other
-noble writers, we have endeavored to bring whatever is worthy of
-knowledge to the completion of this work: however, with examination
-applied, so that, while through truth it was permitted, we might agree
-with them. The style of writing, however, could not be varied, as it
-might have been formed from the excessively varied reading of Greeks
-and Latins. Among whom the principal ones who assisted us in this
-labor are mostly Africans, and of that age when the native purity of
-the Roman language had greatly declined. And it was necessary for it
-to be so very different, because we wished to place not only the
-sentiments of their authors but the same words in many places,
-especially in the seventh book: both to give greater authority to our
-work, and also to correct any errors that might be in them, whether
-from the negligence of scribes, or the injury of time, or from other
-authors, or from the very nature of the discipline. Or if anything had
-been overlooked by them due to the subtlety of science, or less
-precisely considered due to the carelessness of human nature, the
-truth of our doctrine would appear clearer through the comparison with
-theirs. Additionally, there are now some instruments in use, which
-either the ancients did not have, or, which I believe to be more true,
-we do not know by what names they called them: such as that which is
-believed to have been called Lautuin, from the shape it has, and the
-Viola, whose strings are struck both with a plectrum and by hand. I
-have found that name with no one older than Bede the Priest: and many
-things now are taught differently by practitioners than by the
-ancients. Since there has not been an ancient description in this
-manner, it could not be that we escaped the common speech; either we
-had to undergo the crime of arrogance with newly fabricated names,
-since we did not have the old ones, or something had to be conceded to
-the use of so many years. We have also added the vulgar meters of
-Spanish, French, and Italian to the Greek and Latin, to show that
-verses and meters pertain to all languages, or rather that they are
-not proper to any idiom, since they are found in modulations without
-words: and we have added the ways in which they are sung in public,
-noted and depicted by more recent practitioners, both so that we might
-be understood by all moderately exercised in the art of singing; and
-so that the syllables of the vulgar languages, in which they do not
-have a fixed quantity, but are all common, might be distinguished from
-the very song whether they were long or short. This would not have
-been necessary to do in Greek and Latin, unless because those who know
-how to sing are ignorant of the quantity of syllables. Therefore, just
-as it was necessary to demonstrate the truth in harmony through
-numbers and their proportions, so we have also been compelled to show
-it in rhythm through the notes of songs and figures: which songs are
-also said to be numbers accepted metaphorically, as in Virgil, Orpheus
+second part, which pertains to rhythm.
+
+And indeed, we have arranged the four earlier ones so that in the
+first, starting from the division of music universally accepted and
+the definition of the part we are discussing, we have gathered
+everything that we have learned a musician ought to seek from
+arithmetic regarding numbers, both those that are constant in
+themselves and those related to others, so that he may be instructed
+in the science of ratios and proportions, which arise from their
+comparisons, as much as is sufficient for making harmonic musical
+demonstrations.
+
+In the second, regarding sounds taken separately, and regarding those
+compared with each other, from which harmonic intervals and
+consonances are created, we have placed those things which we believe
+a musician ought to know, in the same order as those regarding numbers
+in the first and their comparisons.
+
+In the third, we have shown in what order, according to the true
+requirements of harmonic reasoning, sounds ought to be arranged and
+located in the three kinds of melodies exactly and perfectly, so that
+nothing can be added or taken away. We have presented the types of all
+these to the eyes, so that the best constitution of truth may be
+weighed by sense and reason. And there we have also added a not less
+ingenious than true reasoning about the true position of commas in
+each of the three kinds according to the marvelous art of harmonic
+reasoning. And regarding the various imperfections derived from the
+perfect artificial instruments, one part concerning organs and
+cymbals, the other concerning lutes or lyres, we have added many
+things worthy of knowledge and useful to do, which no one has yet
+written about, nor, as I believe, thought of.
+
+In the fourth, we have treated the species of consonances much
+differently than they have been considered so far: about the systems
+and the six ancient harmonies and tropes, from which the twelve more
+recent modes have flowed: and about how many tones there are, and in
+what way they differ from the modes, based on the teachings of the
+Greeks, since no Latin has noticed this before, we have instituted a
+discussion based on the testimonies of Ptolemy. And at the end of this
+book, we have recited and examined the assertions of the Greeks and
+Latins, both ancient and more recent, who have deserved well of music,
+with as much faith and diligence as we could: so that we might inquire
+which of them was true, or approached the truth, and in which they
+have rightly or wrongly opined, we might discern by sense and reason.
+
+In the fifth, which is the first concerning the other part of music,
+which is called rhythmic, we have also begun with the definition of
+rhythm, distinguishing the oratorical and poetic number from the
+purity of musical rhythm: and about the times, from which the feet
+consist: and about the feet taken separately, and legitimately joined
+together: and about the rhythms, which are composed from their
+individual parts, we have treated many things worthy of knowledge. At
+the end of which, it has been confirmed that among the ancients, the
+song of multiple voices was considered, and with the testimony of
+Aristotle, and effective arguments, it was in use among them.
+
+In the sixth, we have treated meters through their kinds, and the
+species of each kind, widely and diffusely: and we have drawn from the
+metric writers what seemed necessary for the institution of
+music.
+
+Finally, in the seventh, concerning the constitution and perfection of
+verses, from Saint Augustine and Terentian, and Mario Victorino, and
+Hephaestion the Greek, and other noble writers, we have endeavored to
+bring whatever is worthy of knowledge to the completion of this work:
+however, with examination applied, so that, while through truth it was
+permitted, we might agree with them.
+
+The style of writing, however, could not be varied, as it might have
+been formed from the excessively varied reading of Greeks and
+Latins. Among whom the principal ones who assisted us in this labor
+are mostly Africans, and of that age when the native purity of the
+Roman language had greatly declined. And it was necessary for it to be
+so very different, because we wished to place not only the sentiments
+of their authors but the same words in many places, especially in the
+seventh book: both to give greater authority to our work, and also to
+correct any errors that might be in them, whether from the negligence
+of scribes, or the injury of time, or from other authors, or from the
+very nature of the discipline. Or if anything had been overlooked by
+them due to the subtlety of science, or less precisely considered due
+to the carelessness of human nature, the truth of our doctrine would
+appear clearer through the comparison with theirs.
+
+Additionally, there are now some instruments in use, which either the
+ancients did not have, or, which I believe to be more true, we do not
+know by what names they called them: such as that which is believed to
+have been called Lautum, from the shape it has, and the Viola, whose
+strings are struck both with a plectrum and by hand. I have found that
+name with no one older than Bede the Priest: and many things now are
+taught differently by practitioners than by the ancients. Since there
+has not been an ancient description in this manner, it could not be
+that we escaped the common speech; either we had to undergo the crime
+of arrogance with newly fabricated names, since we did not have the
+old ones, or something had to be conceded to the use of so many years.
+
+We have also added the vulgar meters of Spanish, French, and Italian
+to the Greek and Latin, to show that verses and meters pertain to all
+languages, or rather that they are not proper to any idiom, since they
+are found in modulations without words: and we have added the ways in
+which they are sung in public, noted and depicted by more recent
+practitioners, both so that we might be understood by all moderately
+exercised in the art of singing; and so that the syllables of the
+vulgar languages, in which they do not have a fixed quantity, but are
+all common, might be distinguished from the very song whether they
+were long or short. This would not have been necessary to do in Greek
+and Latin, unless because those who know how to sing are ignorant of
+the quantity of syllables.
+
+Therefore, just as it was necessary to demonstrate the truth in
+harmony through numbers and their proportions, so we have also been
+compelled to show it in rhythm through the notes of songs and figures:
+which songs are also said to be numbers accepted metaphorically, as in
+Virgil, Orpheus
 
 #+begin_quote
 Speaks of seven distinctions of voices.
@@ -578,18 +606,14 @@ Jadure weulais, ruri ravsopivois.
 THE SAME IN LATIN.
 
 #+begin_quote
-Tiresie quondam ceco pensauerat auctor\\
-Naturae damnum munere fatidico.\\
-Luminis amißsi iacturam cacus Homerus\\
-Pignore diuini sustinet ingeny.\\
-Democritus visu cernens languescere mentis\\
-Vires, tunc oculos eruit ipse sibi.\\
-His ita dum docte mentis constaret acumen,\\
-Corporis equanimi damna tulère sui.\\
-Vnus at hie magnus pro maltis ecce SALIN AS,\\
-Orbatus visu præstat ptrunq simul.\\
-Cernit in hoc opere id, quod lynceus ille nequiret,\\
-Iigenio quantum nullue in orbe pidet.
+Tiresias, once blind, had weighed the loss of nature with a prophetic
+gift. The loss of light, Homer, in his blindness, endures the wager of
+divine talent. Democritus, seeing with vision, weakens the strength of
+the mind, then he himself tears out his own eyes. While thus the
+sharpness of the mind remained learned, the losses of the body bore
+their own calm. But here, behold, one great man for many, SALINAS,
+bereft of sight, simultaneously excels. He sees in this work what that
+lynx could not, a genius that no one in the world can match.
 #+end_quote
 
 I have seen the book of Music, which was composed by Master Francisco
