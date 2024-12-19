@@ -3221,8 +3221,6 @@ est, secundus & tertius. quibus positionibus coniunctis, sequitur
 ponendum esse primum semel, secundum bis, tertium semel, vt sequens
 declarat figura:
 
-
-
 Ordo numerorum ponendorum
 Prunus
 semel
@@ -3235,126 +3233,92 @@ semel
 bis
 Summa poltionum
 semel
+
+[figure 1 pdf page 86, book page 43]
+
+
 Propositio nona
-Primus semel, secundus ter, tertius ter, quartus semel, positi procreant quartum.
-Quartus Duplorum est 8, (per secundam communem sententiam) quem antecedit 4;
-(per eandem) cui, vel Originalibus eius si adijciatur simplum, procreatur 8: (per tertiam
-communem sententiam) sed Originales quaternarij sunt primus semel, secundus bis, ter¬
-tius semel, positi; (per praecedentem) & horum simplum sunt (per quartam communem
-sententiam) proximè sequentes numeri, qui sunt secundus semel, tertius bis, quartus se¬
-mel: his igitur positionibus omnibus coniunctis, patet primo semel, secundo & tertio ter,
+
+Primus semel, secundus ter, tertius ter, quartus semel, positi
+procreant quartum.
+
+Quartus Duplorum est 8, (per secundam communem sententiam) quem
+antecedit 4; (per eandem) cui, vel Originalibus eius si adijciatur
+simplum, procreatur 8: (per tertiam communem sententiam) sed
+Originales quaternarij sunt primus semel, secundus bis, tertius semel,
+positi; (per praecedentem) & horum simplum sunt (per quartam communem
+sententiam) proximè sequentes numeri, qui sunt secundus semel, tertius
+bis, quartus semel: his igitur positionibus omnibus coniunctis, patet
+primo semel, secundo & tertio ter, quarto semel, positis, procreari
+quartum; quod in sequenti typo clariùs perspicitur.
+
+[figure 1 pdf page 87, book page 44]
 
 
-quarto semel, positis, procreari quartum; quod in sequenti typo clariùs perspicitur.
-primus
-secundus
-Ordo numerorum
-tertius
-quartus
-Eenel
-bis
-Prime positione:
-semel
-semel
-Secundae positiones
-bis
-semel
-ter
-semel
-ter
-uma pelionun
-Iemel
 Propositio decima.
-Primus semel, secundus quater, tertius sexies, quartus quater, quintus semel, posi
-ti, procreant quintum.
-In Duplis quintus est 16, (per secundam communem sententiam) quem antecedit 8;
-(per eandem)cui, vel originalibus eius adiecto simplo, generantur 16: (per tertiam com¬
-munem sententiam) sed originales octonarij sunt primus AEqualium semel, secundus &
-tertius ter, quartus semel, positi; (per praecedentem) simplum autem horum sunt numeri
-proximè sequentes: (per quartam communem sententiam) coniungatur igitur Origina¬
-libus simplum (quod est secundus semel, tertius & quartus ter, quintus semel, positi) & pa
-tebit manifestè, quintum numerum procreari, dum ponitur primus semel, secundus qua¬
-ter, tertius sexies, quartus quater, quintus semel, vt sequens ostendit figura:
-primus
-secundus
-Ordo numerorum
-tertius
-quartus
-quintu.
-ter
-semel
-ter
-Prima positiones
-semel
-ter
-semel
-ter
-Secundae positiones
-Kemel
-semel
-sexies
-quater
-Summapositionum
-Iemel
-quater
+
+Primus semel, secundus quater, tertius sexies, quartus quater, quintus
+semel, positi, procreant quintum.
+
+In Duplis quintus est 16, (per secundam communem sententiam) quem
+antecedit 8; (per eandem)cui, vel originalibus eius adiecto simplo,
+generantur 16: (per tertiam communem sententiam) sed originales
+octonarij sunt primus AEqualium semel, secundus & tertius ter, quartus
+semel, positi; (per praecedentem) simplum autem horum sunt numeri
+proximè sequentes: (per quartam communem sententiam) coniungatur
+igitur Originalibus simplum (quod est secundus semel, tertius &
+quartus ter, quintus semel, positi) & patebit manifestè, quintum
+numerum procreari, dum ponitur primus semel, secundus quater, tertius
+sexies, quartus quater, quintus semel, vt sequens ostendit figura:
+
+[figure 2 pdf page 87, book page 44]
+
+
 Propositio ondecima
-Primus semel, secundus quinquies, tertius & quartus decies, quintus quinquies,
-sextus semel, positi constituunt sextum.
-Sextus Duplorum numerus est 32, (per secundam communem sententiam) quem an¬
-tecedit 16, (per eandem)cui, vel originalibus eius si accedat simplum, procreatur 32: (per
-tertiam communem sententiam) originales verò 16. sunt primus AEqualium semel, secum
-dus quater, tertius sexies, quartus quater, quintus semel, positi, (per praecedentem) & ho¬
-rum simplum sunt proximè sequentes numeri: (per quartam communem sententiam) po
-sitis igitur & proximè sequentibus numeris secundo semel, tertio quater, quarto sexies,
-quinto quater, sexto semel, patet his cum superioribus, quorum sunt simplum, coniunctis,
-ad sexti numeri procreationem primum ponendum esse semel, secundum quinquies, ter
-tium & quartum decies, quintum quinquies, sextum semel, quod ex sequenti typo liqui¬
-diùs colligere licet.
-Ln
-quintus
-NAE
-vertiu
-Ordo numerorum
-Prmn
-Ferundus
-semel
-quater
-series
-semel
-quater
-Prime geluiones
-Fena
-quater.
-quater
-Eens
-sexies
-Secunda positiones
-decies quinquies semel
-quinquies
-decies
-semel
-Summa positionu
-Hae sex vltimae propositiones sex regulis suprà traditis respondent, quibus pauciores tra
-dere noluimus; ne, si nulla exemplorum appareret varietas, obscuri esse videremur. sed
-nec pluribus exemplis opus est, quando innumerae aliae regulae eodem modo, quo sex prę¬
-!! Quòd si quis hîc nobis obijciat, non nisi
-dictæe, & confici, & demonstrari possunt.
+
+Primus semel, secundus quinquies, tertius & quartus decies, quintus
+quinquies, sextus semel, positi constituunt sextum.
+
+Sextus Duplorum numerus est 32, (per secundam communem sententiam)
+quem antecedit 16, (per eandem)cui, vel originalibus eius si accedat
+simplum, procreatur 32: (per tertiam communem sententiam) originales
+verò 16. sunt primus AEqualium semel, secum dus quater, tertius
+sexies, quartus quater, quintus semel, positi, (per praecedentem) &
+horum simplum sunt proximè sequentes numeri: (per quartam communem
+sententiam) positis igitur & proximè sequentibus numeris secundo
+semel, tertio quater, quarto sexies, quinto quater, sexto semel, patet
+his cum superioribus, quorum sunt simplum, coniunctis, ad sexti numeri
+procreationem primum ponendum esse semel, secundum quinquies, tertium
+& quartum decies, quintum quinquies, sextum semel, quod ex sequenti
+typo liquidiùs colligere licet.
+
+[figure 2 pdf page 87, book page 44]
 
 
-duorum numerorum considerationem ad Musicum pertinere, ideóque nos ne quidem
-ad tres, nedum ad sex usque procedere oportuisse:Respondemus eandem esse scientiam
-paucorum & plurium; nec posse quenqua, quod in pluribus quomodo se habeat ignorat,
-eius certam in vno atque altero assignare rationem. Nos igitur, qui scientiae tradedae mu
-nus suscepimus, non immeritò pluribus vsi sumus exemplis; quando sine illis nec duarum
-!! Si quis has
-illarum regularum, quae ad nos pertinent, scientia perfectè haberi potest.
-sex propositiones breui figurae inclusas intueri cupiat, is sciat huic loco planè eam conue-
-nire, quam in capite praecedenti de sex regulis proposuimus.
-Multa quidem alia, scitu
-dignissima, de numerisac eorum inter se comparationibus afferri potuissent, sed hęc
-potissimùm visa sunt nobis, quę de priori subiecti Musicę parte, quę ad nu¬
-merum pertinet, Harmonicus considerare deberet. nunc ad po¬
-steriorem, quae ad sonos spectat, diuini numinis auxilio
-copiosiùs explicandam pergemus.
-PRIMI DE MVSICA LIBRI
-FINIS.
+Hae sex vltimae propositiones sex regulis suprà traditis respondent,
+quibus pauciores tradere noluimus; ne, si nulla exemplorum appareret
+varietas, obscuri esse videremur. sed nec pluribus exemplis opus est,
+quando innumerae aliae regulae eodem modo, quo sex prędictæe, &
+confici, & demonstrari possunt.
+
+Quòd si quis hîc nobis obijciat, non nisi duorum numerorum
+considerationem ad Musicum pertinere, ideóque nos ne quidem ad tres,
+nedum ad sex usque procedere oportuisse:Respondemus eandem esse
+scientiam paucorum & plurium; nec posse quenqua, quod in pluribus
+quomodo se habeat ignorat, eius certam in vno atque altero assignare
+rationem. Nos igitur, qui scientiae tradedae munus suscepimus, non
+immeritò pluribus vsi sumus exemplis; quando sine illis nec duarum
+illarum regularum, quae ad nos pertinent, scientia perfectè haberi
+potest.
+
+Si quis has sex propositiones breui figurae inclusas intueri cupiat,
+is sciat huic loco planè eam conuenire, quam in capite praecedenti de
+sex regulis proposuimus.
+
+Multa quidem alia, scitu dignissima, de numerisac eorum inter se
+comparationibus afferri potuissent, sed hęc potissimùm visa sunt
+nobis, quę de priori subiecti Musicę parte, quę ad numerum pertinet,
+Harmonicus considerare deberet. nunc ad posteriorem, quae ad sonos
+spectat, diuini numinis auxilio copiosiùs explicandam pergemus.
+
+PRIMI DE MVSICA LIBRI FINIS.
