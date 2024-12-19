@@ -260,3 +260,31 @@ theoretical and practical musicians.
 Juan Fernandez de Herrera, Secretary of the Council of His Majesty
 confirms that all the volumes of this treatise are licensed to be
 printed on paper and published. 6th of November 1577.
+
+* First Book
+** Chapter 1, The duality of music: ancient and modern
+Music, which is omnipresent, can be divided into two parts: music of
+the ancients and the more recent music.
+
+The ancient saw music in three forms:
+
+- Mundane :: Movement of celetial bodies, proportion of seasons,
+  mixture of elements, harmonic construction of the whole world.
+- Human :: Conjunction of soul and body, disposition of the parts of
+  the soul, organisation of science, constitutions of kingdoms and
+  republics.
+- Instrumental :: Human voices and musical instruments.
+
+We dare to add a different division of music to these ancient one. It
+is also threefold:
+
+- Irrational music :: Doesn't derive from thought or ratio, but does
+  affect or please the senses. Example: bird songs and animal sounds.
+- Intellectual music :: Cannot be perceived by the senses and only
+  manifests in thought. Examples: the proportions of the movements of
+  celestial bodies (which do not produce any actual sound), the
+  structure of the soul.
+- Harmonic music :: Manifests in sounds that are produced and
+  perceived with an understanding of harmonic order, vocally or with
+  instruments. Since only humans have the capacity of intellectual
+  thought, this kind of music is inherently human.

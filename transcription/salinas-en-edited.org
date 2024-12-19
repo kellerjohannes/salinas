@@ -673,7 +673,8 @@ Juan Fernandez de Herrera.
 ** [Chapter 1.1]
 ON MUSIC BOOK I.
 
-ON THE DUAL DIVISION OF UNIVERSAL MUSIC, ONE ACCORDING TO THE POSITIONS OF THE ANCIENTS, THE OTHER RECENTLY CONCEIVED.
+ON THE DUAL DIVISION OF UNIVERSAL MUSIC, ONE ACCORDING TO THE
+POSITIONS OF THE ANCIENTS, THE OTHER RECENTLY CONCEIVED.
 
 CHAPTER ONE.
 
@@ -681,47 +682,56 @@ Since we are about to speak of Music, and its power is so widely
 spread throughout the universe that nothing is believed to exist
 without it, it will be necessary to divide it into parts, so that the
 specific part we wish to discuss may be more easily
-understood. Therefore, the ancients almost universally said that Music
-is tripartite: Mundane, Human, and Instrumental. They called it
-Mundane, which consists in the marvelous arrangement of dissimilar
-celestial movements, in the harmonious variety of times, in the
-proportional mixture of elements, and finally in the harmonic
-construction of the whole world. They said it is Human, which pertains
-to the work of man, especially in the conjunction of soul and body,
-and in the disposition of the parts of the soul; and in the order of
-all arts and sciences; and in the constitutions of kingdoms and
-republics; and finally in all those things that pertain properly to
-man. They called it Instrumental, which is constituted in voices or in
-musical instruments, such as the lyre and flutes. We, however, do not
-disdain this division of Music, which has great authors, and we also
-believe that another division, derived from the nature of the thing
-itself and more suitable for the present institution, can be
-presented. This will also be tripartite, so that one Music moves only
-the senses, another only the intellect, and another both the senses
-and the intellect simultaneously. That which moves only the senses is
-perceived solely by hearing and is not considered by the intellect;
-such are the songs of birds, which are indeed heard with pleasure, but
-since they do not arise from any mental sense, they do not consist in
-harmonic reason, by which they can be considered by the
-intellect. Hence, they produce no consonances or dissonances, but
-delight with a certain innate sweetness of sounds. If at any time
-harmonic intervals are detected in them, it must be considered that
-this occurs rather by chance or by a natural aptitude to imitate, as
-the songs of men are learned by those who are very accustomed to
-hearing, like parrots, which imitate human speech due to excessive
-frequency of hearing. Nevertheless, this Music is irrational, like the
-senses themselves, since it is composed solely of irrational animals
-and cannot properly be called Music. For birds do not sing otherwise
-than they are said to chirp and whistle: and Music is constituted in
-the genus of rational beings, as will be said in its place. But it has
-pleased to include it among the kinds of Music, due to the most common
-mode of speaking, according to which it has always retained the name
-of Music among all nations. That which moves only the intellect can
-indeed be understood, but cannot be heard: under which the two of the
-ancients, Mundane and Human, are comprehended, whose harmony is
-perceived not by the pleasure of the ears, but by the consideration of
-the intellect. Indeed, it is not found in the mixtures of sounds, but
-in the ratios of numbers. Although we do not deny that in the greatest
+understood.
+
+Therefore, the ancients almost universally said that Music is
+tripartite: Mundane, Human, and Instrumental. They called it Mundane,
+which consists in the marvelous arrangement of dissimilar celestial
+movements, in the harmonious variety of times, in the proportional
+mixture of elements, and finally in the harmonic construction of the
+whole world.
+
+They said it is Human, which pertains to the work of man, especially
+in the conjunction of soul and body, and in the disposition of the
+parts of the soul; and in the order of all arts and sciences; and in
+the constitutions of kingdoms and republics; and finally in all those
+things that pertain properly to man.
+
+They called it Instrumental, which is constituted in voices or in
+musical instruments, such as the lyre and flutes.
+
+We, however, do not disdain this division of Music, which has great
+authors, and we also believe that another division, derived from the
+nature of the thing itself and more suitable for the present
+institution, can be presented. This will also be tripartite, so that
+one Music moves only the senses, another only the intellect, and
+another both the senses and the intellect simultaneously.
+
+That which moves only the senses is perceived solely by hearing and is
+not considered by the intellect; such are the songs of birds, which
+are indeed heard with pleasure, but since they do not arise from any
+mental sense, they do not consist in harmonic reason, by which they
+can be considered by the intellect. Hence, they produce no consonances
+or dissonances, but delight with a certain innate sweetness of
+sounds. If at any time harmonic intervals are detected in them, it
+must be considered that this occurs rather by chance or by a natural
+aptitude to imitate, as the songs of men are learned by those who are
+very accustomed to hearing, like parrots, which imitate human speech
+due to excessive frequency of hearing. Nevertheless, this Music is
+irrational, like the senses themselves, since it is composed solely of
+irrational animals and cannot properly be called Music. For birds do
+not sing otherwise than they are said to chirp and whistle: and Music
+is constituted in the genus of rational beings, as will be said in its
+place. But it has pleased to include it among the kinds of Music, due
+to the most common mode of speaking, according to which it has always
+retained the name of Music among all nations.
+
+That which moves only the intellect can indeed be understood, but
+cannot be heard: under which the two of the ancients, Mundane and
+Human, are comprehended, whose harmony is perceived not by the
+pleasure of the ears, but by the consideration of the
+intellect. Indeed, it is not found in the mixtures of sounds, but in
+the ratios of numbers. Although we do not deny that in the greatest
 concord of dissimilar celestial movements a certain order of
 modulation is found, as, for example, in the constitution of the
 significator, the ratios of consonances and tones: yet we say that
@@ -761,12 +771,14 @@ hearing. Nevertheless, those things which antiquity has consecrated
 should not be entirely disregarded, which, in whatever way it could,
 has always attempted to elevate the minds of men towards the love of
 celestial things: which are led by the greatest delight of seeing and
-hearing. That which moves both the senses and the intellect is among
-these the middle: because it is perceived by the sense of the ears,
-and is also considered by the intellect. And this is what the ancients
-said is instrumental, which is not only pleasing to the ears due to
-the natural sweetness of sounds, but is also found to be constituted
-by harmonic reason. And because man alone among living beings is a
+hearing.
+
+That which moves both the senses and the intellect is among these the
+middle: because it is perceived by the sense of the ears, and is also
+considered by the intellect. And this is what the ancients said is
+instrumental, which is not only pleasing to the ears due to the
+natural sweetness of sounds, but is also found to be constituted by
+harmonic reason. And because man alone among living beings is a
 participant in reason, he alone also understands the harmony of
 all. Which Ptolemy asserts should be placed among the natural and
 divine in the genus of rational beings. And that Music, which men use,
@@ -786,6 +798,7 @@ doctrine, so that we may attempt to bring it to light first of all.
 
 ** [Chapter 1.2]
 Of the Definition and Division of Instrumental Music.
+
 CHAPTER II.
 
 Therefore, Music, which is perfected by the judgment of the senses and
