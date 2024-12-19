@@ -1,15 +1,61 @@
-#+title: Salinas: Seven books on music
-#+subtitle: Summary
+#+title: Salinas: Seven Books on Music
+#+subtitle: An attempt to summarize
 #+author: Johannes Keller
 #+startup: overview
+
+#+OPTIONS: html-style:nil
+#+OPTIONS: num:nil
+#+HTML_HEAD: <link rel="stylesheet" href="style.css" />
+#+HTML_HEAD_EXTRA: <script type="text/javascript" src="image-processing.js"></script>
+#+HTML_HEAD_EXTRA: <link rel="preconnect" href="https://fonts.googleapis.com">
+#+HTML_HEAD_EXTRA: <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+#+HTML_HEAD_EXTRA: <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
+
+#+startup: overview
+
 
 # Math notation:
 #   Testing \( \frac{1}{2} \) within a line.
 
 * Comments
+** What this is
+This is a personal project. No guarantees for correctness. Everything
+is done with the best intentions. Errors, misunderstandings and lack
+of awareness of the historical context are to be expected. Corrections
+are welcome anytime. There is no promise concerning the time frame of
+this project.
+
+** Process
+1. The latin original is processed with Transkribus.
+2. The plain text (.txt) output is manually converted into org-mode
+   syntax. All illustrations are cropped form the images of the source
+   and linked into the org file. Line breaks are manually resolved.
+3. This org file is translated into English using Kagi Translate and
+   stored in a new org file with the same structure and links to
+   images.
+4. The English text is manually sectioned, obvious mistakes are
+   corrected. This edited version is stored in a new org file,
+   maintaining the document structure and links to image files.
+5. This version of the text is then summarized. The summary is stored
+   in yet a new org file, maintaining its structure the links to the
+   images.
+6. All org files are exported to HTML. Only the file salinas-summary
+   is intended for readers, the others are only kept for archival
+   purposes and to make the process transparent.
+   - salinas-lat
+   - salinas-en
+   - salinas-en-edited
+   - salinas-summary
+7. [Future] Music theoretical thoughts are expressed in code and
+   embedded into the HTML file, ideally in an interactive
+   fashion. Where applicable, audio rendering will be included.
+
+The long term goal is to create a representation of Salinas' thinking
+in code to make it available for easy integration in audio
+applications and further computational analysis or artistic
+exploration.
 
 * Preface
-
 The human voice is unique, because compared to animal sounds it can
 speak and sing.
 
@@ -93,3 +139,14 @@ poverty.
 
 Luckily, the Academy of Salamanca understood the importance of the
 teaching of music, in theory as well as in practice.
+
+King Alfonxo X. of Castille founded or reformed the Academy and was
+fully aware of the importance of music as a mathematical discipline
+and a practical field alike. I went to Salamanca to apply for the
+position of professor of music, which was given to me.
+
+Back to the topic of music. Romans, Italians, Spaniards, Germans,
+French and Britons have studied, enhanced and transformed ancient
+knowledge and found their own ways of articulating it.
+
+The only exception though is music.

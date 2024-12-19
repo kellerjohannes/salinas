@@ -283,25 +283,29 @@ rightly judged worthy of the name of musician. For this reason, he
 erected among the first and most ancient chairs of it, which, when it
 was vacant of a Doctor, was sought for one who could rightly teach
 both parts of music in it, I came to Salamanca, to hear those skilled
-in this discipline making their trial in it. Where, when I had given
-some specimen of my studies in music, I was judged suitable for that
-office: and I obtained the chair itself, almost doubled in reward,
-with the royal majesty itself approving it. And indeed, I wished to
-say these things about myself, perhaps more than was necessary, solely
-for this reason, lest I should seem to have undertaken such a great
-matter entirely destitute of help. Now I would return to pursue the
-remaining matters of our institution. And I could indeed show, if I
-wished, that there is none of those arts which constitute the circle
-of doctrine, which has not fallen from that height, in which it was
-placed by the benefit of the ancients, by a miserable lapse. But I do
-not wish to increase our evils with complaints that are of no benefit:
-for it is far better to rejoice that for a long time not only the
-Romans and Italians, but also the Spaniards, Germans, French, and
-Britons, divided throughout the whole world, have striven to support
-this great ruin of the good arts. And they have gradually brought the
-matter to such a point that not only to eloquence, but to the
-knowledge of all good arts, a broader and less impeded way seems to be
-opening. That in music, however, this has not yet happened, I complain
+in this discipline making their trial in it.
+
+Where, when I had given some specimen of my studies in music, I was
+judged suitable for that office: and I obtained the chair itself,
+almost doubled in reward, with the royal majesty itself approving
+it. And indeed, I wished to say these things about myself, perhaps
+more than was necessary, solely for this reason, lest I should seem to
+have undertaken such a great matter entirely destitute of help.
+
+Now I would return to pursue the remaining matters of our
+institution. And I could indeed show, if I wished, that there is none
+of those arts which constitute the circle of doctrine, which has not
+fallen from that height, in which it was placed by the benefit of the
+ancients, by a miserable lapse. But I do not wish to increase our
+evils with complaints that are of no benefit: for it is far better to
+rejoice that for a long time not only the Romans and Italians, but
+also the Spaniards, Germans, French, and Britons, divided throughout
+the whole world, have striven to support this great ruin of the good
+arts. And they have gradually brought the matter to such a point that
+not only to eloquence, but to the knowledge of all good arts, a
+broader and less impeded way seems to be opening.
+
+That in music, however, this has not yet happened, I complain
 vehemently: for no discipline, having been cast down from a higher
 degree, and less restored to its ancient luster than music, is
 found. For how few are those who wish to be considered professors of
@@ -557,34 +561,34 @@ beginning of the world.
 JOANNIS SCRIBONII IN ACADEMIA Salmanticensi Professor of Greek.
 
 #+begin_quote
-Hulayogas rè nadas dinaiun ixrrioar (xdeus
-roruious noeu ioxa tidonin.
-Eira d agiootiros ouotior nealo nudot
-Movrixis inxiis niçinuiorárov.
-Kai piyas onlodunios aiioten iadagns,
-Eundioous s aua ro, cvno i d' e loue voge
-Kovivridiunos ir apiigvione yuinoro xdtires.
-Bovotos in junnaontror didtre adéog.
-Touso vrvennéiligt niy aupoliene e Sadunant
-xai veagir nogion, rixuitd rs xparson.
-Pulposs dacuegun vodvydureave reirines ourus
+Hulayogas rè nadas dinaiun ixrrioar (xdeus\\
+roruious noeu ioxa tidonin.\\
+Eira d agiootiros ouotior nealo nudot\\
+Movrixis inxiis niçinuiorárov.\\
+Kai piyas onlodunios aiioten iadagns,\\
+Eundioous s aua ro, cvno i d' e loue voge\\
+Kovivridiunos ir apiigvione yuinoro xdtires.\\
+Bovotos in junnaontror didtre adéog.\\
+Touso vrvennéiligt niy aupoliene e Sadunant\\
+xai veagir nogion, rixuitd rs xparson.\\
+Pulposs dacuegun vodvydureave reirines ourus\\
 Jadure weulais, ruri ravsopivois.
 #+end_quote
 
 THE SAME IN LATIN.
 
 #+begin_quote
-Tiresie quondam ceco pensauerat auctor
-Naturae damnum munere fatidico.
-Luminis amißsi iacturam cacus Homerus
-Pignore diuini sustinet ingeny.
-Democritus visu cernens languescere mentis
-Vires, tunc oculos eruit ipse sibi.
-His ita dum docte mentis constaret acumen,
-Corporis equanimi damna tulère sui.
-Vnus at hie magnus pro maltis ecce SALIN AS,
-Orbatus visu præstat ptrunq simul.
-Cernit in hoc opere id, quod lynceus ille nequiret,
+Tiresie quondam ceco pensauerat auctor\\
+Naturae damnum munere fatidico.\\
+Luminis amißsi iacturam cacus Homerus\\
+Pignore diuini sustinet ingeny.\\
+Democritus visu cernens languescere mentis\\
+Vires, tunc oculos eruit ipse sibi.\\
+His ita dum docte mentis constaret acumen,\\
+Corporis equanimi damna tulère sui.\\
+Vnus at hie magnus pro maltis ecce SALIN AS,\\
+Orbatus visu præstat ptrunq simul.\\
+Cernit in hoc opere id, quod lynceus ille nequiret,\\
 Iigenio quantum nullue in orbe pidet.
 #+end_quote
 
@@ -603,29 +607,29 @@ LUDOVICI CHAZARETAE in praise of the author
 EPIGRAM.
 
 #+begin_quote
-While you, O glory of our age,
-Aonian lyre, learned Salinas,
-Urge to penetrate the inaccessible recesses of the grove,
-Breathless with the love of such great praise:
-You surpass the secrets of the mountain's bi-verted caves,
-Caves, nor human foot has touched their threshold;
-Threshold where the streams with oblique bends shade,
-The shadowy grove is watered by the (starlit) wave.
-Here then, by chance, the sacred limbs of the goddess
-Were dripping naked in the glassy stream.
-Here, turning unexpected steps in the village,
-You catch the naked goddesses in the glassy stream.
-Nor yet was it allowed to turn the eye, when the divine light
-You feel suddenly pressed by the night.
-O but what, O snatched from the light,
-How it is to be without the sun's light.
-The leader approaches, accompanied by a throng of sisters,
-And the queen of her choir, Calliope:
-She herself handing over the lyre, eloquent plectrum, and faith,
-And encircling her worthy hair with a virgin's wreath,
-She says to you, priest, worthy of our dances,
-Repay the sweet losses of your sacrifice.
-These will be your arts, to reveal the secrets of the world
+While you, O glory of our age,\\
+Aonian lyre, learned Salinas,\\
+Urge to penetrate the inaccessible recesses of the grove,\\
+Breathless with the love of such great praise:\\
+You surpass the secrets of the mountain's bi-verted caves,\\
+Caves, nor human foot has touched their threshold;\\
+Threshold where the streams with oblique bends shade,\\
+The shadowy grove is watered by the (starlit) wave.\\
+Here then, by chance, the sacred limbs of the goddess\\
+Were dripping naked in the glassy stream.\\
+Here, turning unexpected steps in the village,\\
+You catch the naked goddesses in the glassy stream.\\
+Nor yet was it allowed to turn the eye, when the divine light\\
+You feel suddenly pressed by the night.\\
+O but what, O snatched from the light,\\
+How it is to be without the sun's light.\\
+The leader approaches, accompanied by a throng of sisters,\\
+And the queen of her choir, Calliope:\\
+She herself handing over the lyre, eloquent plectrum, and faith,\\
+And encircling her worthy hair with a virgin's wreath,\\
+She says to you, priest, worthy of our dances,\\
+Repay the sweet losses of your sacrifice.\\
+These will be your arts, to reveal the secrets of the world\\
 Our, and to renew the strings of Bistonia's lyre.
 #+end_quote
 
@@ -1027,12 +1031,14 @@ odds, progressing to infinity without any limit. This will be easily
 understood if all odds are arranged in order on one side, and all
 evenly odds on the other, as can be seen in this table.
 
-#+caption: Odds and their doubles
-|----------------+---+---+----+----+----+----+----+----|
-| Odds.          | 1 | 3 |  5 |  7 |  9 | 11 | 13 | 15 |
-|----------------+---+---+----+----+----+----+----+----|
-| Their doubles. | 2 | 6 | 10 | 14 | 18 | 22 | 26 | 30 |
-|----------------+---+---+----+----+----+----+----+----|
+# |----------------+---+---+----+----+----+----+----+----|
+# | Odds.          | 1 | 3 |  5 |  7 |  9 | 11 | 13 | 15 |
+# |----------------+---+---+----+----+----+----+----+----|
+# | Their doubles. | 2 | 6 | 10 | 14 | 18 | 22 | 26 | 30 |
+# |----------------+---+---+----+----+----+----+----+----|
+
+#+CAPTION: [[file:figures/fig001.jpg][001, 1-6-1, figure 1 pdf page 49, book page 6]]
+file:figures/fig001.jpg
 
 And it should be noted that, just as evenly evens originate from
 unity, which is the principle of all numbers; so evenly odds arise
@@ -1088,12 +1094,14 @@ are all evenly odds, and on the other all the first oddly evens, which
 will be their doubles starting from six, which, as has been said, is
 the first evenly odd, as this table shows.
 
-#+caption: Evenly odds and their doubles
-|--------------------+----+----+----+----+----+----+----|
-| Evenly odds.       |  6 | 10 | 14 | 18 | 22 | 26 | 30 |
-|--------------------+----+----+----+----+----+----+----|
-| First oddly evens. | 12 | 20 | 28 | 36 | 44 | 52 | 60 |
-|--------------------+----+----+----+----+----+----+----|
+# |--------------------+----+----+----+----+----+----+----|
+# | Evenly odds.       |  6 | 10 | 14 | 18 | 22 | 26 | 30 |
+# |--------------------+----+----+----+----+----+----+----|
+# | First oddly evens. | 12 | 20 | 28 | 36 | 44 | 52 | 60 |
+# |--------------------+----+----+----+----+----+----+----|
+
+#+CAPTION: [[file:figures/fig002.jpg][002, 1-6-2, figure 1 pdf page 50, book page 7]]
+file:figures/fig002.jpg
 
 And it should be noted that all these are spaced apart by eight, just
 as evenly odds are spaced apart by four. However, the second ones are
