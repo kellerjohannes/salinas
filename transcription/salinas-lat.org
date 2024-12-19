@@ -942,7 +942,7 @@ ex altera omnes pariter impares, vt in hoc typo videre licebit.
 | Horum dupli. | 2 | 6 | 10 | 14 | 18 | 22 | 26 | 30 |
 |--------------+---+---+----+----+----+----+----+----|
 
-[001, 1-6-1, figure 1 pdf page 49, book page 6]
+[[figures/fig001.jpg][001, 1-6-1, figure 1 pdf page 49, book page 6]]
 
 
 Et sciendum est, quod, quemadmodum pariter pares ortum habent ab
@@ -1003,7 +1003,7 @@ hic typus ostendit.
 | Primi imparit. pares. | 12 | 20 | 28 | 36 | 44 | 52 | 60 |
 |-----------------------+----+----+----+----+----+----+----|
 
-[002, 1-6-2, figure 1 pdf page 50, book page 7]
+[[figures/fig002.jpg][002, 1-6-2, figure 1 pdf page 50, book page 7]]
 
 
 Et aduertendum est, omnes hos octonario inter se numero distare, sicut
@@ -1102,7 +1102,7 @@ semper intermedio composito relicto, vt in sequentifigura apparet.
 | Perfecti ex ultimo in summam ducto | 6 | 28 | positus |     496 | positus |    8128 | positus |   130816 |     |
 |------------------------------------+---+----+---------+---------+---------+---------+---------+----------+-----|
 
-[003, 1-8-1, figure 1 pdf page 52, book page 9]
+[[figures/fig003.jpg][003, 1-8-1, figure 1 pdf page 52, book page 9]]
 
 
 Vnum hoc non inutile adiungemus, quod Boëtius Seuerinus etiam
@@ -1160,7 +1160,7 @@ vt, hic:
 | 1 |
 |---|
 
-[004, 1-9-1, figure 2 pdf page 52, book page 9]
+[[figures/fig004.jpg][004, 1-9-1, figure 2 pdf page 52, book page 9]]
 
 
 Secundus vere quaternarius, qui duas, ut hic:
@@ -1171,7 +1171,7 @@ Secundus vere quaternarius, qui duas, ut hic:
 | 1 | 1 |
 |---+---|
 
-[005, 1-9-2, figure 3 pdf page 52, book page 9]
+[[figures/fig005.jpg][005, 1-9-2, figure 3 pdf page 52, book page 9]]
 
 
 Tertius autem nouenarius, qui tres, yt hic.
@@ -1184,7 +1184,7 @@ Tertius autem nouenarius, qui tres, yt hic.
 | 1 | 1 | 1 |
 |---+---+---|
 
-[006, 1-9-3, figure 1 pdf page 53, book page 10]
+[[figures/fig006.jpg][006, 1-9-3, figure 1 pdf page 53, book page 10]]
 
 
 Et sic consequenter per omnes numeros. Et sciendum etiam est, numeros
@@ -1202,7 +1202,7 @@ altera, hoc pacto:
 | 1 | 4 | 9 | 16 | 25 | 36 | 49 | 64 | 81 | 100 |
 |---+---+---+----+----+----+----+----+----+-----|
 
-[007, 1-9-4, figure 2 pdf page 53, book page 10]
+[[figures/fig007.jpg][007, 1-9-4, figure 2 pdf page 53, book page 10]]
 
 
 Et hoc mirabile videtur inter alia plurima in his numeris, quòd omnes
@@ -1218,7 +1218,7 @@ inuenientur omnes quadrati, vt in hoc typo apparet:
 | 1 | 4 | 9 | 16 | 25 | 36 | 49 | 64 | 81 | 100 |
 |---+---+---+----+----+----+----+----+----+-----|
 
-[008, 1-9-5, figure 3 pdf page 53, book page 10]
+[[figures/fig008.jpg][008, 1-9-5, figure 3 pdf page 53, book page 10]]
 
 
 Et hęc de quadratis pro prasenti institutione dicta sufficiant. Sut
@@ -1251,7 +1251,7 @@ ostenditur.
 | 2 | 6 | 12 | 20 | 30 | 42 | 56 | 72 | 90 | 110 |
 |---+---+----+----+----+----+----+----+----+-----|
 
-[009, 1-9-6, figure 4 pdf page 53, book page 10]
+[[figures/fig009.jpg][009, 1-9-6, figure 4 pdf page 53, book page 10]]
 
 
 Et hæec de multis, quæ dici poterant, de altera parte longioribus
@@ -1438,7 +1438,7 @@ reliquasque aliam alia minorem.
 |                        | Aequa proportio | Superparticularis | Superpartiens | Multiplex | Multiplex superparticularis | Multiplex superpartiens |                        |
 |------------------------+-----------------+-------------------+---------------+-----------+-----------------------------+-------------------------+------------------------|
 
-[010, 1-11-1, figure 1 pdf page 56, book page 13]
+[[figures/fig010.jpg][010, 1-11-1, figure 1 pdf page 56, book page 13]]
 
 
 Et, vt in summam ea, quae dicta sunt, redigamus, quicquid alteri
@@ -1675,7 +1675,7 @@ excessum habentibus, vt in hoc typo perspici poterit.
 |                           | Superbipartientes | Supertripart. | Superquad. | Superquint. | Supersext. | Super 7 | Super 8 | Super 9 | Super 10 | Super 11 | Super 12 | Super 13 | Super 14 | Super 15 | Super 16 | Super 17 | Super 18 |
 |---------------------------+-------------------+---------------+------------+-------------+------------+---------+---------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------|
 
-[011, 1-15-1, figure 1 pdf page 60, book page 17]
+[[figures/fig011.jpg][011, 1-15-1, figure 1 pdf page 60, book page 17]]
 
 
 In his primum est superbipartiens, secundum supertripartiens, & sic
@@ -1717,7 +1717,7 @@ species continentur.
 | SVPERBIPARTIENTES.           |   | Supbitertij |   | supbi 5 |   | superbi 7 |   | superbi 9 |    | superbi 11 |    | superbi 13 |    |
 |------------------------------+---+-------------+---+---------+---+-----------+---+-----------+----+------------+----+------------+----|
 
-[figure 1 pdf page 61, book page 18]
+[[figures/fig012.jpg][012, 1-15-2, figure 1 pdf page 61, book page 18]]
 
 
 |----------------------------+---+-----------------+---+-------------+----+--------------+----+--------------+----+--------------+----|
@@ -1726,7 +1726,7 @@ species continentur.
 | SVPERTRIPARTIENTES         |   | Supertriquarti. |   | supertri 7. |    | supertri 10. |    | supertri 13. |    | supertri 16. |    |
 |----------------------------+---+-----------------+---+-------------+----+--------------+----+--------------+----+--------------+----|
 
-[figure 2 pdf page 61, book page 18]
+[[figures/fig013.jpg][013, 1-15-3, figure 2 pdf page 61, book page 18]]
 
 
 |-----------------------+---+----------------+---+------------+----+-------------+----+-------------+----+-------------+----|
@@ -1735,7 +1735,7 @@ species continentur.
 | SVPERTRIPARTIENTES.   |   | Supertriquinti |   | supertri 8 |    | supertri 11 |    | supertri 14 |    | supertri 17 |    |
 |-----------------------+---+----------------+---+------------+----+-------------+----+-------------+----+-------------+----|
 
-[figure 3 pdf page 61, book page 18]
+[[figures/fig014.jpg][014, 1-15-4, figure 3 pdf page 61, book page 18]]
 
 
 |-----------------------+---+-------------------+---+---------------+----+----------------+----|
@@ -1744,7 +1744,7 @@ species continentur.
 | SVPERQVADRIPARTIENTES |   | Superquadriquinti |   | superquadri 9 |    | superquadri 13 |    |
 |-----------------------+---+-------------------+---+---------------+----+----------------+----|
 
-[figure 4 pdf page 61, book page 18]
+[[figures/fig015.jpg][015, 1-15-5, figure 4 pdf page 61, book page 18]]
 
 
 |----------------------+---+--------------------+----+----------------+----+----------------+----|
@@ -1753,7 +1753,7 @@ species continentur.
 | SVPERQVADRIPART.     |   | Superquadriseptimi |    | superquadri 11 |    | superquadri 15 |    |
 |----------------------+---+--------------------+----+----------------+----+----------------+----|
 
-[figure 5 pdf page 61, book page 18]
+[[figures/fig016.jpg][016, 1-15-6, figure 5 pdf page 61, book page 18]]
 
 
 His typis inspectis facile erit cuiqe superquintipartientis, ac
@@ -1810,7 +1810,7 @@ generis coniugationes, vt per hunc typum manifestum esse poterit.
 | Sesquialeri | Sesqui 3 | Sesqui 4 | Sesqui 5 | Sesqui 6 | Sesqui 7 | Sesqui 8 | Sesqui 9 | Sesqui 10 | Sesqui 11 | Sesqui 12 |             |             |
 |-------------+----------+----------+----------+----------+----------+----------+----------+-----------+-----------+-----------+-------------+-------------|
 
-[figure 1 pdf page 62, book page 19]
+[[figures/fig017.jpg][017, 1-16-1, figure 1 pdf page 62, book page 19]]
 
 
 Idem determinatum sit circa genus Submultiplex subsuperparticulare,
@@ -1861,7 +1861,7 @@ Quaternario.
 Quinario.
 Excedentes se
 
-[figure 1 pdf page 63, book page 20]
+[[figures/fig018.jpg][018, 1-17-1, figure 1 pdf page 63, book page 20]]
 
 Vides tertium ordinem ad primum duplos amplecti superpartientes;
 quartum item ad primum triplos itidem superpartientes; denique quintum
@@ -1894,7 +1894,7 @@ ternario, Quadrupli 4. & sic deinceps.
 
 Ad primum limitem
 
-[figure 2 pdf page 63, book page 20]
+[[figures/fig019.jpg][019, 1-18-1, figure 2 pdf page 63, book page 20]]
 
 
 In hoc diagrammate (quod Pythagorae Mensam ab omnibus diximus
@@ -2005,7 +2005,7 @@ his numeris.
 Sesquialtera Sesquitertia Sesquiquinta
 Duplasuperbiquinte.
 
-[figure 1 pdf page 65, book page 22]
+[[figures/fig020.jpg][020, 1-19-1, figure 1 pdf page 65, book page 22]]
 
 
 Et ad hunc modum poterunt, quotquot voluerimus, coniungi. Quòd si
@@ -2023,7 +2023,7 @@ vt ostendunt hi numeri:
 Sesquialtera Sesquialtera
 Dupla sesquiquarta.
 
-[figure 2 pdf page 65, book page 22]
+[[figures/fig021.jpg][021, 1-19-2, figure 2 pdf page 65, book page 22]]
 
 Idem fiet, si duas sesquioctauas velimus coniungere, ductis in
 seipsos 9. & 8, ex qua multiplicatione consurgent 64. & 81, quae erit
@@ -2041,7 +2041,7 @@ sesquialteris, vt apparet in his numeris:
 
 Sesquialtera Sesquialtera Sesquialtera Triplasupertripartiens octauas.
 
-[figure 1 pdf page 66, book page 23]
+[[figures/fig022.jpg][022, 1-19-3, figure 1 pdf page 66, book page 23]]
 
 
 Et si sesquioctauae duplatae numeri, 81. & 64, ducantur in minimos
@@ -2092,7 +2092,7 @@ ad eum sesquitertius quo facto, facilè apparebit, sesquialteram esse
 maiorem sesquitertia ea proportione, quæ est a 9. ad 8, vt ostendit
 hic typus.
 
-[figure 1 pdf page 67, book page 24]
+[[figures/fig023.jpg][023, 1-20-1, figure 1 pdf page 67, book page 24]]
 
 Et eodem modo in quibuslibet alijs & vna ab altera subtrahi, & vnius
 ad alteram excessus poterit inueniri. Et quoniam saepe necesse est,
@@ -2210,7 +2210,7 @@ Geaneries Lusluge laillo.
 Dupla Dupla
 Quadrupla.
 
-[figure 1 pdf page 68, book page 25]
+[[figures/fig024.jpg][024, 1-22-1, figure 1 pdf page 68, book page 25]]
 
 
 Huiusmodi mediatio in multò paucioribus proportionibus inuenitur, quàm
@@ -2282,7 +2282,7 @@ Harmonica Duplae divisio.
 Sesquialtera Sesquitertia
 DVPLA
 
-[figure 1 pdf page 70, book page 27]
+[[figures/fig025.jpg][025, 1-23-1, figure 1 pdf page 70, book page 27]]
 
 Hoc multò breuiùs & concinniùs in Timaeo Plato videtur expressisse,
 vbi medium harmonicum eisdem ipsorum extremorum partibus alterum
@@ -2311,7 +2311,7 @@ PSesgalera Sesqui z. Sesgaltera
 DVPLA
 DVPLA
 
-[figure 2 pdf page 70, book page 27]
+[[figures/fig026.jpg][026, 1-23-2, figure 2 pdf page 70, book page 27]]
 
 
 Restat nunc, yt modum harmonici medij inueniendi diligenter
@@ -2335,7 +2335,8 @@ medium in harmonica; & 2. medium Arithmeticae, minus extremum;
 
 TRIPLA Arithmnetice diuisa.
 
-[figure 1 pdf page 71, book page 28]
+[[figures/fig027.jpg][027, 1-23-3, figure 1 pdf page 71, book page 28]]
+
 
 Quòd si nullus in maioribus numeris inuenietur, qui ad Arithmeticum
 diuisorem eandem faciat proportionem cum ea, quam ipse diuisit;
@@ -2345,7 +2346,8 @@ multiplicibus ferme omnibus inuenietur, vt in dupla, & tripla paulò
 superiùs osten sum est, & in quadrupla, ac quintupla ostendent hi
 numeri:
 
-[figure 2 pdf page 71, book page 28]
+[[figures/fig028.jpg][028, 1-23-4, figure 2 pdf page 71, book page 28]]
+
 
 Et sic in omnibus ferè multiplicibus passim occurrent exempla. Sed in
 superparticularibus multò certiori, & constantiori ordine procedendum
@@ -2362,17 +2364,26 @@ EXEMPLVM PRIMVM.
 8.10.12. Numeri Arithmeticae proportionalitatis duplicati.
 10.12. 15. Sesquialtera divisa Harmonice.
 
+[[figures/fig029.jpg][029, 1-23-5, figure 3 pdf page 71, book page 28]]
+
+
 EXEMPLVM SECVNDVM.
 3. 4. SESQVITERTIA diuidenda.
 6. 7. 8. Arithmeticè diuisa.
 18.21.24. Triplicati numeri.
 21.24.28. Harmonicè diuisa.
 
+[[figures/fig030.jpg][030, 1-23-6, figure 4 pdf page 71, book page 28]]
+
+
 EXEMPLVM TERTIVM.
 4. 5. SESQVIQVARTA diuidenda.
 8. 9.10. Arithmeticè diuisa.
 32. 36.40. Quadruplati numeri.
 36.40.45. Harmonicè diuisa.
+
+[[figures/fig031.jpg][031, 1-23-7, figure 5 pdf page 71, book page 28]]
+
 
 Atque hic modus inueniendi medij harmonici mihi videtur esse multò
 facilior, & commodior, quàm is qui traditus est ab antiquis, & adhuc
@@ -2412,6 +2423,9 @@ Medium Harmonicum ex multiplicatione extremorum 4. & 6.
 Medium Arithmeticum ex medio 5. in seipsum ducto.
 20.24. 30. Proportionalitas Harmonica.
 20.25.30. Proportionalitas Arithmetica.
+
+[[figures/fig032.jpg][032, 1-24-1, figure 1 pdf page 72, book page 29]]
+
 
 Hic medij Harmonici inueniendi modus in omnibus omnium generum
 proportionibus certissimus inuenitur. Atque haec de proportionalitate
@@ -2459,12 +2473,11 @@ pducta ex differentijs
 SVMMA
 RESIDVVM
 
-[figure 1 pdf page 73, book page 30]
+[[figures/fig033.jpg][033, 1-24-2, figure 1 pdf page 73, book page 30]]
 
-** TODO create continuous figure numbering
-** TODO crop figures and store them
 ** [Chapter 1.25]
-De noua ratione inueniendi tria Media (Arithmeticum, Geometricum, & Harmonicum) ex eorum & Extremorum differentis.
+De noua ratione inueniendi tria Media (Arithmeticum, Geometricum, &
+Harmonicum) ex eorum & Extremorum differentis.
 
 CAP. XXV.
 
@@ -2492,7 +2505,7 @@ Geometricarum 20. ad 10. duplis eam diuidentibus, quae sunt 20, ad 10,
 & 40. ad 20. Quæ, & plura quæ sequuntur, in hac formula intueri
 licebit:
 
-[figure 2 pdf page 73, book page 30]
+[[figures/fig034.jpg][034, 1-25-1, figure 2 pdf page 73, book page 30]]
 
 
 Cumque proportionum Geometricè diuidentium vtralibet (nam aequales
@@ -2571,7 +2584,7 @@ Eiusdem duæ partes aequales.
 Medium Arithmeticum ex altera parte &e mi extre.
 Proportionalits Arith.Medio fracto.
 
-[figure 1 pdf page 75, book page 32]
+[[figures/fig035.jpg][035, 1-25-2, figure 1 pdf page 75, book page 32]]
 
 
 Iam cùm Medium Geometricum proportiones efficiat ęquales, ęqua illa
@@ -2622,7 +2635,7 @@ Altera Differentia, sublaro 6 ex 16.
 Communes mensurg in eadem proportione cum 6.& 10.
 Medium Geometricum, compositum ex 6. & 9.
 
-[figure 1 pdf page 76, book page 33]
+[[figures/fig036.jpg][036, 1-25-3, figure 1 pdf page 76, book page 33]]
 
 
 Altero modo idem euenit, si, Differentiae confusae medietate minori
@@ -2647,7 +2660,7 @@ Idem vnitate imminutum ad 9.incompositum.
 Medium Geometricum tam ad 9. quàmad 25. copositum.
 Cômunes mélurx in eadé proportione in qua Med ad ertr.
 
-[figure 2 pdf page 76, book page 33]
+[[figures/fig037.jpg][037, 1-25-4, figure 2 pdf page 76, book page 33]]
 
 
 Medium Harmonicum ex eadem Differentia confusa eruitur,si ea diuidatur
@@ -2675,7 +2688,7 @@ Productum diuisionis.
 Medium Harmonicum compositum ex 2. & 6.
 Eiusdem differentia in cadem proportione cum diuisa.
 
-[figure 1 pdf page 72, book page 34]
+[[figures/fig038.jpg][038, 1-25-5, figure 1 pdf page 77, book page 34]]
 
 
 Et hocmodo retentis ijsdem terminis quàm citisime in cognitionem Medij
@@ -2745,7 +2758,7 @@ subiecta figura demonstrat:
 
 EXAEQVISEX MVLTI-EX SVPER-EX SVPERJEX SVPER.
 
-[figure 1 pdf page 78, book page 35]
+[[figures/fig039.jpg][039, 1-26-1, figure 1 pdf page 78, book page 35]]
 
 
 Nos hic in duobus tantùm numeris exempla proposuimus, quòd plurium
@@ -2755,7 +2768,7 @@ viri grauissimi, autoritate recesserimus, qui tam in Musica, quàm in
 Arithmetica trium numerorum exempla proposuit; ipsius quoque Boëtij
 nunc statim exempla breui collecta typo subiungimus.
 
-[figure 2 pdf page 78, book page 35]
+[[figures/fig040.jpg][040, 1-26-2, figure 2 pdf page 78, book page 35]]
 
 
 Hactenus Boëtij exempla, in quibus sciendum est, tertij numeri
@@ -2882,7 +2895,7 @@ Regula quarta.
 Regula quinta.
 Regula sexta
 
-[figure 1 pdf page 80, book page 37]
+[[figures/fig041.jpg][041, 1-27-1, figure 1 pdf page 80, book page 37]]
 
 
 Secundum has regulas procreantur ex aquis duplices, & ex his tripli,
@@ -2892,7 +2905,7 @@ Aequi
 Dupli
 Tripli
 
-[figure 2 pdf page 80, book page 37]
+[[figures/fig042.jpg][042, 1-27-2, figure 2 pdf page 80, book page 37]]
 
 
 In hac figura primus ordo sex terminos aequales continet, secundus
@@ -2906,7 +2919,7 @@ prodeunt sesquialterae, vt in hac patet figura:
 Dupliconuersi
 Sesquialtera
 
-[figure 3 pdf page 80, book page 37]
+[[figures/fig043.jpg][043, 1-27-3, figure 3 pdf page 80, book page 37]]
 
 
 Idem & in cæeteris generibus experirilicet. Nos ne longiores simus,
@@ -2932,7 +2945,7 @@ vt in hac ostenditur figura.
 4. Tertius duplorum semel positus.
 9. Tertiustriplorum ex duplorum collectione procreatus.
 
-[figure 1 pdf page 81, book page 38]
+[[figures/fig044.jpg][044, 1-27-4, figure 1 pdf page 81, book page 38]]
 
 
 In quo exemplo illud simul obseruatu dignum est, quòd sicut in
@@ -2962,7 +2975,7 @@ secunda, & tertia tertium; prima, secunda, tertia, & quarta quartu:
 eodémque modo collectis ordine ab vnitate secundis, oriuntur tertij, &
 ex tertijs quarti, ut sequens dedarat figura:
 
-[figure 2 pdf page 81, book page 38]
+[[figures/fig045.jpg][045, 1-27-5, figure 2 pdf page 81, book page 38]]
 
 
 Altero modo coniunctis binis proximis cuiusque regulae numeris, oritur
@@ -3032,7 +3045,7 @@ Sesquiquarta
 Ex regula vndecima.
 Sesquiquinta
 
-[figure 1 pdf page 82, book page 39]
+[[figures/fig046.jpg][046, 1-27-6, figure 1 pdf page 82, book page 39]]
 
 
 Tertium, quòd in regulis paribus, duo medij aequales ad circumuicinos
@@ -3052,7 +3065,7 @@ Ex regula decima
 Superbipartiens quintas
 Ex regula duodecima
 
-[figure 1 pdf page 83, book page 40]
+[[figures/fig047.jpg][047, 1-27-7, figure 1 pdf page 83, book page 40]]
 
 
 Quartum & vltimum est, quòd numeri positionum cuiusque regulae
@@ -3238,7 +3251,7 @@ secundi,non à secundis primi oriuntur: (per tertiam communem
 sententiam) qui nihilominus Secundi, non Primi, dicendi sunt, quòd non
 à solis primis, sed, dum illis accedunt, oriuntur.
 
-Propositio septima¬
+Propositio septima
 
 Primus & secundus, semel positi, procreant secundum.
 
@@ -3286,7 +3299,7 @@ bis
 Summa poltionum
 semel
 
-[figure 1 pdf page 86, book page 43]
+[[figures/fig048.jpg][048, 1-28-1, figure 1 pdf page 86, book page 43]]
 
 
 Propositio nona
@@ -3304,7 +3317,7 @@ bis, quartus semel: his igitur positionibus omnibus coniunctis, patet
 primo semel, secundo & tertio ter, quarto semel, positis, procreari
 quartum; quod in sequenti typo clariùs perspicitur.
 
-[figure 1 pdf page 87, book page 44]
+[[figures/fig049.jpg][049, 1-28-2, figure 1 pdf page 87, book page 44]]
 
 
 Propositio decima.
@@ -3323,7 +3336,7 @@ quartus ter, quintus semel, positi) & patebit manifestè, quintum
 numerum procreari, dum ponitur primus semel, secundus quater, tertius
 sexies, quartus quater, quintus semel, vt sequens ostendit figura:
 
-[figure 2 pdf page 87, book page 44]
+[[figures/fig050.jpg][050, 1-28-3, figure 2 pdf page 87, book page 44]]
 
 
 Propositio ondecima
@@ -3344,7 +3357,7 @@ procreationem primum ponendum esse semel, secundum quinquies, tertium
 & quartum decies, quintum quinquies, sextum semel, quod ex sequenti
 typo liquidiùs colligere licet.
 
-[figure 2 pdf page 87, book page 44]
+[[figures/fig051.jpg][051, 1-28-4, figure 2 pdf page 87, book page 44]]
 
 
 Hae sex vltimae propositiones sex regulis suprà traditis respondent,
@@ -3375,4 +3388,4 @@ spectat, diuini numinis auxilio copiosiùs explicandam pergemus.
 
 PRIMI DE MVSICA LIBRI FINIS.
 
-* [Figures]
+* TODO crop figures and store them
