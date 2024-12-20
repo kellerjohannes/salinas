@@ -811,27 +811,32 @@ well-modulating. However, science (as Aristides asserts) is that whose
 knowledge is firm and entirely free from error: such are the
 principles of Music, which are called apotelesmata by Mathematicians
 (as he himself says), and they do not admit any alteration or
-change. Music is said to have been named after the Muses, to whom
-antiquity attributed the power of singing. Thus, this instrumental
-Music is first divided into Theoretical and Practical. Theoretical is
-that which revolves around the contemplation of musical things,
-content only with their knowledge. Practical, on the other hand, is
-that which modulates artfully and with delight according to the
-precepts of the art. Theoretical is again divided into Harmonic and
-Rhythmic. Harmonic is (as defined by Ptolemy in the first book of
-harmonics) the ability to weigh the differences of sounds according to
-high and low. It revolves entirely around the composition of
-instrumental harmony and considers the tones suitable for harmony,
-rejecting the unsuitable. And it inquires into the harmonic intervals,
-which arise from their mixtures, such as tones and semitones; and
-consonances such as Diapason and Diapente; and the rest, which are
-necessary for it; and to what numerical proportions they correspond,
-it investigates with exact judgment of reason. It teaches their use in
-the practice of Music, which they call plain or uniform, in which a
-boy is taught to form a voice suitable for harmony and to move it
-through harmonic intervals, caring not whether he consumes much or
-little time in the production of sounds; but how much he should raise
-or lower it. Rhythmic is that which measures the various durations of
+change.
+
+Music is said to have been named after the Muses, to whom antiquity
+attributed the power of singing. Thus, this instrumental Music is
+first divided into Theoretical and Practical. Theoretical is that
+which revolves around the contemplation of musical things, content
+only with their knowledge. Practical, on the other hand, is that which
+modulates artfully and with delight according to the precepts of the
+art.
+
+Theoretical is again divided into Harmonic and Rhythmic. Harmonic is
+(as defined by Ptolemy in the first book of harmonics) the ability to
+weigh the differences of sounds according to high and low. It revolves
+entirely around the composition of instrumental harmony and considers
+the tones suitable for harmony, rejecting the unsuitable. And it
+inquires into the harmonic intervals, which arise from their mixtures,
+such as tones and semitones; and consonances such as Diapason and
+Diapente; and the rest, which are necessary for it; and to what
+numerical proportions they correspond, it investigates with exact
+judgment of reason. It teaches their use in the practice of Music,
+which they call plain or uniform, in which a boy is taught to form a
+voice suitable for harmony and to move it through harmonic intervals,
+caring not whether he consumes much or little time in the production
+of sounds; but how much he should raise or lower it.
+
+Rhythmic is that which measures the various durations of
 pronunciation, maintaining the order of times in speed and
 slowness. It does not consider how much a voice should be placed or
 removed in harmonic intervals: but how much, in the enunciation of
@@ -842,36 +847,40 @@ note, while it assigns two to a long one. Then it examines the feet,
 which are made from syllables or notes both brief and long, suitable
 for Rhythm, discarding the unsuitable. Finally, it inquires into the
 rhythms themselves, which consist of feet properly joined and are
-found arranged in the order of fast and slow movements. All these are
-perceived in the song, which the Italians call figurative or mensural,
-and in the modulations that occur in musical instruments, perceived by
-the diversity of figures. However, the Ancients added Metric to these
-two, which is, according to Cassiodorus, that which knows the measures
-of various meters by probable reasoning, such as the heroic and
-iambic. For it does not, like Rhythmic, consider only Rhythm, which is
-drawn out indefinitely in length from feet properly joined (as has
-been said), as occurs in modulations, in which there is no certain way
-of ending: but it also considers meter, which is closed with a certain
-end, to which, when it arrives, it returns to the head; as happens in
-popular songs, and in hymns and psalms: and it shows that there are
-different ways of modulating for different meters. From this, all the
-kinds of meters have arisen, which, if properly considered, are the
-same in all languages and nations, as will be made clearer when we
-undertake a discussion on this matter. And these three parts of Music
-(if we believe Aristides) must be observed by anyone who wishes to
-achieve perfection in song: Harmonic, so that he knows how to move the
-voice from place to place, and does not make it either heavier or
-sharper than reason requires for the interval; Rhythmic, so that he
-understands the rhythms and their clapping, and knows how to sing to
-the number, which the moderns call air, appropriately; Metric, so that
-he joins the suitable modulation to the meters, and does not adapt the
-trochaic modes to the iambic; but that words correspond to notes, and
-notes to words in all respects. Whether this division should be made
-into three parts, or rather into two, as the ancients did, we will
-examine more suitably in the sixth book, when we discuss
-meters. Meanwhile, since harmonic is prior to Rhythm, we must first
-have a discourse on Harmonic before we discuss Rhythmic, and we will
-explain who the judges in it are, as briefly as we can.
+found arranged in the order of fast and slow movements.
+
+All these are perceived in the song, which the Italians call
+figurative or mensural, and in the modulations that occur in musical
+instruments, perceived by the diversity of figures. However, the
+Ancients added Metric to these two, which is, according to
+Cassiodorus, that which knows the measures of various meters by
+probable reasoning, such as the heroic and iambic. For it does not,
+like Rhythmic, consider only Rhythm, which is drawn out indefinitely
+in length from feet properly joined (as has been said), as occurs in
+modulations, in which there is no certain way of ending: but it also
+considers meter, which is closed with a certain end, to which, when it
+arrives, it returns to the head; as happens in popular songs, and in
+hymns and psalms: and it shows that there are different ways of
+modulating for different meters. From this, all the kinds of meters
+have arisen, which, if properly considered, are the same in all
+languages and nations, as will be made clearer when we undertake a
+discussion on this matter.
+
+And these three parts of Music (if we believe Aristides) must be
+observed by anyone who wishes to achieve perfection in song: Harmonic,
+so that he knows how to move the voice from place to place, and does
+not make it either heavier or sharper than reason requires for the
+interval; Rhythmic, so that he understands the rhythms and their
+clapping, and knows how to sing to the number, which the moderns call
+air, appropriately; Metric, so that he joins the suitable modulation
+to the meters, and does not adapt the trochaic modes to the iambic;
+but that words correspond to notes, and notes to words in all
+respects. Whether this division should be made into three parts, or
+rather into two, as the ancients did, we will examine more suitably in
+the sixth book, when we discuss meters. Meanwhile, since harmonic is
+prior to Rhythm, we must first have a discourse on Harmonic before we
+discuss Rhythmic, and we will explain who the judges in it are, as
+briefly as we can.
 
 ** [Chapter 1.3]
 That not only the senses but also the judgment of reason is necessary
@@ -881,40 +890,45 @@ In Harmony, the judges are the senses and reason, but not in the same
 way. For, as Ptolemy says, the senses judge according to matter and
 affection, while reason judges according to form and cause. From these
 words, it can be inferred that, just as matter is perfected by form,
-so sensory judgment is perfected by rational judgment. The proper
-function of the senses is to discover what is nearest to the truth by
-themselves and to receive integrity from reason; on the contrary,
-reason receives what is nearest to the truth from the senses and
-discovers integrity by itself. For what the senses perceive confusedly
-in the fluid and unstable matter, this is judged exactly and entirely,
-stripped of matter, as it truly is. Therefore, not only the judgment
-of the ears but also that of reason is necessary in harmony, nor can
-one be perfect without the other. The judgment of the ears is
-necessary because it is prior in time; and unless it precedes, reason
-cannot perform its function: it is imperfect, however, because unless
-it is aided by reason, it is found to be entirely lacking and weak. On
-the contrary, the judgment of reason seems in some way to be imperfect
-because reason is a part of the intellect, and it can neither know
-here nor judge anything unless it has entered through the senses as
-through windows. But it is very necessary because it reaches down to
-the minutest differences, which the senses cannot judge at all. The
-senses and reason are thus related in harmony that whatever the senses
-approve in sounds, reason shows to be the same in numbers: so that
-nothing can be contrary to the ears or to reason. Therefore, when
+so sensory judgment is perfected by rational judgment.
+
+The proper function of the senses is to discover what is nearest to
+the truth by themselves and to receive integrity from reason; on the
+contrary, reason receives what is nearest to the truth from the senses
+and discovers integrity by itself. For what the senses perceive
+confusedly in the fluid and unstable matter, this is judged exactly
+and entirely, stripped of matter, as it truly is.
+
+Therefore, not only the judgment of the ears but also that of reason
+is necessary in harmony, nor can one be perfect without the other. The
+judgment of the ears is necessary because it is prior in time; and
+unless it precedes, reason cannot perform its function: it is
+imperfect, however, because unless it is aided by reason, it is found
+to be entirely lacking and weak. On the contrary, the judgment of
+reason seems in some way to be imperfect because reason is a part of
+the intellect, and it can neither know here nor judge anything unless
+it has entered through the senses as through windows. But it is very
+necessary because it reaches down to the minutest differences, which
+the senses cannot judge at all.
+
+The senses and reason are thus related in harmony that whatever the
+senses approve in sounds, reason shows to be the same in numbers: so
+that nothing can be contrary to the ears or to reason. Therefore, when
 hearing is concerned with sounds, reason shows its power most in
 numbers: before we compare sounds with numbers and show the
 consonances of numbers and the intervals responding to them, some
 necessary preliminaries about numbers and their comparisons with one
-another must be presented. Since, as Boethius Severinus says in the
-first book of Arithmetic, all things constructed from the primal
-nature of things seem to be formed by the reason of numbers. And, as
-Aristotle asserts in the second book of Physics, the proportions
-themselves are forms or formal causes of intervals and
-consonances. For, as he says there, the harmony that encompasses all
-sounds, that is, the Diapason, is the formal cause of the ratio of two
-to one. We shall pursue all these matters broadly, if we first briefly
-show what the subject of Music is, the knowledge of which seems very
-necessary.
+another must be presented.
+
+Since, as Boethius Severinus says in the first book of Arithmetic, all
+things constructed from the primal nature of things seem to be formed
+by the reason of numbers. And, as Aristotle asserts in the second book
+of Physics, the proportions themselves are forms or formal causes of
+intervals and consonances. For, as he says there, the harmony that
+encompasses all sounds, that is, the Diapason, is the formal cause of
+the ratio of two to one. We shall pursue all these matters broadly, if
+we first briefly show what the subject of Music is, the knowledge of
+which seems very necessary.
 
 ** [Chapter 1.4]
 What the subject of the science of music is, and whether it should be
