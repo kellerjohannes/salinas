@@ -875,12 +875,14 @@ clapping, and knows how to sing to the number, which the moderns call
 air, appropriately; Metric, so that he joins the suitable modulation
 to the meters, and does not adapt the trochaic modes to the iambic;
 but that words correspond to notes, and notes to words in all
-respects. Whether this division should be made into three parts, or
-rather into two, as the ancients did, we will examine more suitably in
-the sixth book, when we discuss meters. Meanwhile, since harmonic is
-prior to Rhythm, we must first have a discourse on Harmonic before we
-discuss Rhythmic, and we will explain who the judges in it are, as
-briefly as we can.
+respects.
+
+Whether this division should be made into three parts, or rather into
+two, as the ancients did, we will examine more suitably in the sixth
+book, when we discuss meters. Meanwhile, since harmonic is prior to
+Rhythm, we must first have a discourse on Harmonic before we discuss
+Rhythmic, and we will explain who the judges in it are, as briefly as
+we can.
 
 ** [Chapter 1.3]
 That not only the senses but also the judgment of reason is necessary
@@ -941,56 +943,61 @@ music cannot be merely the number taken by itself; its judgment seems
 to pertain to reason, and not to sense: nor can sound be considered
 separately, which is an object of sense, and not of intellect: but
 rather a certain third thing compounded from both, which is called
-sonorous number. Now, a sonorous number is the number of parts of a
-sonorous body, which taking the ratio of the discrete, and divided
-into parts by numbers, leads us to the knowledge of the quantity both
-of the sound produced by it, and of the various sounds arising from
-its parts compared with each other. We call the body of sounds,
-whether in music, a string, or a nerve, or a pipe, or a ringing
-bronze, and whatever is found from which a harmonic sound can be
-elicited. The sound varies according to the variation of the number
-that measures the string or the pipe. For one sound is that of a
-three-palm pipe, and another of a six-palm pipe. And if the string is
-so stretched as to produce a harmonic sound, and is divided into five
-equal parts, and its portion, which is as three, and that which is as
-two, are struck simultaneously by a bridge: the sound of the part
-which is as two will be sharper than the sound of the part which is as
-three, in the consonance of the fifth. And if it is divided into two
-halves, and the whole is struck first; then, placing a finger or
-bridge in the middle, the other half is struck; we will experience by
-sense that the sound produced from the whole striking is heavier than
-the sound that the half will produce, and that one differs from the
-other by the consonance of the octave. Hence, knowing through the
-number according to the length the quantity of the string, which is
-uniform and regular, we can immediately compare sounds, according to
-certain and determined differences of heaviness and sharpness. By
-investigating these in the manner that has been said, and having first
-known them in this way, we later demonstrate various affections
-concerning them. And because all these things, and whatever else is
-considered by musicians, are directed towards the perfect knowledge of
-the sonorous number: it is manifest that it is the true subject of the
-science of music. According to this position, Aristotle in the second
-book of Physics, and all who have followed him, assert that music is
-neither merely mathematical nor physical; but should be said to be in
-between both. For inasmuch as it considers sound, it seems to pertain
-to physics: since sound cannot exist or be defined except in matter
-and without motion. Hence, its consideration must necessarily pertain
-to the physical. However, number can be defined and considered
-abstracted from matter and without motion, which is proper to
-mathematics. Nevertheless, it seems that it should be called
-mathematical; both because the musician does not consider sound as a
-natural thing, but as the principle of song, and as the elements of
-sounds from which harmony consists: nor does he examine their natures,
-as a physicist would, but the differences that consist between them in
-sharpness and heaviness, which is rather the concern of the harmonic
-than the physical. Also, because sounds have their place in music as
-matter, and in the ratio of the measured; and numbers as form, and in
-the ratio of the measurer. Therefore, it has received its name from
-the nobler, that is, from the form; and has always been regarded as
-one of the mathematics. And when some of them are said to be
-subordinate, such as arithmetic and geometry; some are said to be
-subordinated, such as music and astronomy: music is said to be
-subordinate to arithmetic. Because arithmetic considers number
+sonorous number.
+
+Now, a sonorous number is the number of parts of a sonorous body,
+which taking the ratio of the discrete, and divided into parts by
+numbers, leads us to the knowledge of the quantity both of the sound
+produced by it, and of the various sounds arising from its parts
+compared with each other.
+
+We call the body of sounds, whether in music, a string, or a nerve, or
+a pipe, or a ringing bronze, and whatever is found from which a
+harmonic sound can be elicited. The sound varies according to the
+variation of the number that measures the string or the pipe. For one
+sound is that of a three-palm pipe, and another of a six-palm
+pipe. And if the string is so stretched as to produce a harmonic
+sound, and is divided into five equal parts, and its portion, which is
+as three, and that which is as two, are struck simultaneously by a
+bridge: the sound of the part which is as two will be sharper than the
+sound of the part which is as three, in the consonance of the
+fifth. And if it is divided into two halves, and the whole is struck
+first; then, placing a finger or bridge in the middle, the other half
+is struck; we will experience by sense that the sound produced from
+the whole striking is heavier than the sound that the half will
+produce, and that one differs from the other by the consonance of the
+octave.
+
+Hence, knowing through the number according to the length the quantity
+of the string, which is uniform and regular, we can immediately
+compare sounds, according to certain and determined differences of
+heaviness and sharpness. By investigating these in the manner that has
+been said, and having first known them in this way, we later
+demonstrate various affections concerning them. And because all these
+things, and whatever else is considered by musicians, are directed
+towards the perfect knowledge of the sonorous number: it is manifest
+that it is the true subject of the science of music. According to this
+position, Aristotle in the second book of Physics, and all who have
+followed him, assert that music is neither merely mathematical nor
+physical; but should be said to be in between both. For inasmuch as it
+considers sound, it seems to pertain to physics: since sound cannot
+exist or be defined except in matter and without motion. Hence, its
+consideration must necessarily pertain to the physical. However,
+number can be defined and considered abstracted from matter and
+without motion, which is proper to mathematics. Nevertheless, it seems
+that it should be called mathematical; both because the musician does
+not consider sound as a natural thing, but as the principle of song,
+and as the elements of sounds from which harmony consists: nor does he
+examine their natures, as a physicist would, but the differences that
+consist between them in sharpness and heaviness, which is rather the
+concern of the harmonic than the physical. Also, because sounds have
+their place in music as matter, and in the ratio of the measured; and
+numbers as form, and in the ratio of the measurer. Therefore, it has
+received its name from the nobler, that is, from the form; and has
+always been regarded as one of the mathematics. And when some of them
+are said to be subordinate, such as arithmetic and geometry; some are
+said to be subordinated, such as music and astronomy: music is said to
+be subordinate to arithmetic. Because arithmetic considers number
 absolutely, and number thus accepted is its subject: but music
 considers it contracted, as it is in sensible matter, that is, in the
 sonorous body taken under the ratio of the discrete. And it is said to

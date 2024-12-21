@@ -304,11 +304,18 @@ Rhythm is concerned with the organisation of time, also considering
 the significance and use of silence. It is based on principles of
 speech, such as meter and feet.
 
-In polyphony (figurative or mensural music), all these aspects come
-together. Although
+In polyphony (figurative or mensural music), these aspects come
+together. It will become obvious, that meter is a universal principle,
+independent of a specific language.
 
+To perfect the production of music, three aspects need to be observed:
 
+1. Pitch and intonation
+2. Rhythm
+3. Meter
 
+In the sixth book we will discuss whether the second and third aspect
+can be treated as one. For now we will start with pitch though.
 
 ** Chapter 3, Perception needs reason in harmony
 According to Ptolemy, senses judge according to matter and affection,
@@ -331,3 +338,9 @@ fundamental understanding of the properties of numbers.
 
 Boethius and Aristotle confirm that the reason of numbers encompasses
 all harmony.
+
+** Chapter 4, Is music mathematical or not?
+As discussed, music is neither purely abstract (only in the domain of
+numbers) nor purely sensual (only in the domain of sound), but a third
+thing that consists of a combination of both. We call this /sonorous
+number/ ('numerus sonorus').
